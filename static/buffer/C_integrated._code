@@ -1,0 +1,618 @@
+//
+void setUp() {
+    while (str[str_len++] != '\0');
+
+#define XOPEN_SOURCE 700
+void pa() {
+    std::stringstream str_stream;
+            new_int_str.pop_back();
+            begin = middle + 1;
+
+	return TRUE;
+void init_list(struct list_type *l) {
+
+
+
+//int APIENTRY DllMain(HMODULE library, DWORD eventType, LPVOID _reserved) {
+    if (dwReason == DLL_PROCESS_ATTACH)
+    }
+// Created by Nb on 8/12/2015.
+const struct Rectangle BROADER_LEFT_BORDER = {
+int main() {
+typedef struct astack{
+    return InitBigInteger();
+	IMAGE_IMPORT_DESCRIPTOR *pImportDesc;
+
+int linear_search(int array[], int array_length, int value) {
+				  //Therefore, pImportDesc==pNTHeader
+}
+} cell;
+    for (int index = 0; index < array_length; ++index) {
+    cout << "There are " << count_primes_using_sieve(upper_bound) << " primes under " << upper_bound << endl;
+	for(i = 0; i < 4; i++)
+HMODULE actualLibrary;
+
+/* Returns the number of elements in the queue */
+    return NULL;
+//#define ORIGINAL_LIBRARY_NAME "PrScrnOld.dll"
+main() {
+
+
+        return;
+
+/**
+#ifndef _BIG_INTEGER_H
+// Injecting.pch ���ɞ����о��g���^�n
+	cell* new_cell = malloc(sizeof(cell));
+	//(like i did above), then adding the base addr to it.
+	getchar();
+        if(Load())
+	if (!inFile.is_open()) return -1;
+    struct _ll_node *previous;
+#define PLAYGROUND_HEART_RATE_NEW_ALGORITHM_H
+
+int queue(void* element);
+int Version(char* buffer, unsigned int length);
+	
+} SEM;
+{
+		if ((DWORD)pThunk->u1.Function == (DWORD)pfnOriginalProc)
+void print_array(int array[], int array_length);
+void* dequeue();
+
+const struct Rectangle BROADER_LEFT_BORDER = {
+            head = cons(line, head);
+using Defender = struct RectangleSprite;
+	int top;
+
+ */
+
+int GetSummary(const char** info);
+
+
+        if (exportFunc)
+}
+
+}
+// ���Ҫᘌ���ǰ�� Windows ƽ̨���Ñ��ó�ʽ��Ո���� WinSDKVer.h��
+#ifndef Q1_H
+/**
+		queue(mywords[i]);
+	int nb;
+            Hijack();
+	}
+
+ */
+}
+#define Q1_H
+};
+#include "stdafx.h"
+}
+	
+    BULLET = 0b00000011,
+            else if (str[index] != ' ') {
+	
+#define STD_CALL __stdcall
+	void* result = NULL;
+        }
+		return -1;
+
+void insertion_sort(int array[], int length) {
+            begin = middle + 1;
+
+                              FILE_ATTRIBUTE_NORMAL, NULL);
+}
+//
+
+	for(i = 0; i < nb; i++)
+//		MessageBox(nullptr, TEXT("Dll attached"), TEXT("Notice"), MB_OK);
+
+
+
+
+			800, 600, SDL_WINDOW_OPENGL);
+/*
+    DEPRECATED_INVADER = 0b00000010,
+    process = (PrScrnFunction) GetProcAddress(library, "PrScrn");
+	struct cell_type *previous;
+unsigned long long factorial(unsigned long long power, unsigned long long product) {
+ * Bottom border.
+
+}
+#define EXPORT __declspec(dllexport)
+	printf("The size of the stack is %d\n", nb);
+///**
+
+    while (frt < rare) {
+/* Insertion: adds an element to the top of the stack */
+    return 0;
+uint8 M1WriteBlock(uint8 BlkNo, uint8* BlkValue);
+/* Extraction of the element at the tail of the queue.
+#include <stack.h>
+
+int size();
+int main()
+
+BigInteger::BigInteger(int integer) {
+        }
+        { 100,  100, 0 }
+	
+}
+	inFile.open("log.txt", ios::out | ios::app);
+            return middle;
+
+
+
+}
+
+
+
+//
+//	return TRUE;
+	float lastFrameTicks = 0.0f; // What was the time during the last frame?
+#define TARGET_PROCESS_NAME "conhost.exe"
+int M1AuthOrDetect(uint8* serial, uint8 blk, const char* pwd, uint8 max_retry);
+            return 1;
+
+#include "ostream"
+
+ */
+
+//
+static const GLint INVADER_HEIGHT = 8;
+    fclose(file);
+	HANDLE process = OpenProcess(PROCESS_ALL_ACCESS, false, pid);
+						 //(ex: "MessageBoxA")
+    if (lst != NULL) {
+
+return TRUE;
+    {
+    library = LoadLibrary("PrScrn.dll.bak");
+
+
+
+/**
+#include <stdlib.h>
+	glMatrixMode(GL_PROJECTION); // Changes will be applied to the projection matrix.
+// * Dll entry point.
+//{
+/**
+
+};
+)
+	}
+
+/**
+#define ALSTD EXTERNC EXPORT NAKED void __stdcall
+#define XOPEN_SOURCE 700
+
+
+void SetMaxBatchNumer(unsigned int m);
+    print_list(list);
+	else {
+/**
+# of a rectangular parallelepiped.
+{
+        long interval = this_heart_beat - last_heart_beat;
+	nb = size();
+ */
+#define WIN32_LEAN_AND_MEAN             // �� Windows ���^�ų�����ʹ�õĳɆT
+std::ostream NULL_OSTREAM ( nullptr );
+//
+/**
+
+
+
+void inter() {
+
+    for(int64_t j = 3; j <= sqrt(upper_bound); j +=2) {
+	//// pNTHeader->OptionalHeader.DataDirectory
+
+
+create_linked_list(void *first_data) {
+
+    printf("Pointing at address => 0x%p\n", bigInt);
+
+};
+#include "stdio.h"
+int Signin(const char** info);
+int list_size(struct list_type *l) {
+		return 0;
+#define EXPORT_C_COMPATIBLE_SHARED_LIB extern "C" EXPORT_SHARED_LIB
+    do {
+}
+ * Tell if a string is a palindrome.
+#define STACK_SIZE 12
+
+#include <time.h>
+
+		queue(mywords[i]);
+BigIntAdd(BIGINT this, BIGINT that) {
+
+// ���ǽ���ʹ�Ås����׃����
+    }
+
+#include "ES.h"
+.text
+    // There is a new client?
+//    switch (eventType) {
+
+ */
+	printf("AFF%i", 1);
+
+    return candidate;
+    }
+		while (SDL_PollEvent(&event)) {
+GLuint64 initialInvaderColumns = 8;
+ */
+			// We found it!  Overwrite the original address with the
+GLint advanceInvaderInterval = 1;
+	
+    printf("Successfully set hook to thread %ld\n", threadId);
+/* Initialization of the stack */
+#endif // _UTILS_H
+        printf("%s\n", x.container);
+#include <stdio.h>
+        if (cur->key == NULL) {
+	// 0,0,0 is black. 1,1,1 is white.  alpha = 1 is opaque
+    for(int i = (int) this->sequence.size() - 1; i >= 0; i--){
+    double coefficients[] = {1.6, 2.3, 1};
+    BigInteger operator+(const BigInteger another_big_int) const;
+#include "ES.h"
+            return 0;
+
+// will forward there all the HTTP requests you send
+
+void* extract_tail(struct list_type *l);
+	for(i = 0; i < 4; i++)
+
+}
+#define PLAYGROUND_ES_H
+    {
+    }
+        return;
+#include "LinkedList.h"
+			SDL_WINDOWPOS_CENTERED,
+#define BOOL bool
+
+        printf("%s\n", current->key);
+        if (m_hModule == NULL)
+	struct tm timeinfo;
+	// the address we got back from GetProcAddress above.
+// Created by Nb on 2/3/2016.
+        if (m_hModule == NULL)
+//
+        __asm POP m_dwReturn[0 * TYPE long];
+int EndLog();
+void* extract_head(struct list_type *l) {
+void print_lst(cell *lst) {
+#include <stdlib.h>
+} cell;
+
+		pDosHeader, //IMAGE_IMPORT_DESCRIPTOR *pImportDesc;
+        if (prime_pool[l]) prime_count++;
+    if (int_str == "0"){
+int list_size(struct list_type *l) {
+    new_c->next = c->next;
+    if (command != "hr") {
+
+    return 0;
+            if (HIWORD(pszProcName) == 0)
+
+
+int rf_beep(unsigned short icdev, unsigned char Length);
+        case DLL_PROCESS_ATTACH:
+}
+// Created by Nb on 13/3/2016.
+
+}
+	if (!inFile.is_open()) return -1;
+
+            end = middle - 1;
+
+
+		0.0, 0.0, 1.0 };    // Vertex 3: blue
+/**
+int main(int argc, char** argv) {
+}
+}
+    WriteProcessMemory(process, injectedLibraryAddress, heapBuffer, librarySize, NULL);
+//
+			// address of the interception function.  Return the original
+int main() {
+	/* TODO */
+            {
+
+    while ((ch = str[++i]) != '\0') {
+// -- Taken from Matt Pietrek's book
+}
+//
+	//kindly read the ImgHelp function reference 
+	
+private:
+        if (prime_pool[l]) prime_count++;
+    }
+ * Null output stream for controlling output depending on the compilation options.
+    while (current is_not NULL) {
+int main() {
+    PrScrnFunction process;
+    printf("%i\n", linear_search(array, 15, -3));
+/**
+typedef struct cell {
+#include <tchar.h>
+        exportFunc = (EXPFUNC)GetProcAddress(hDllInst, "PrScrn");
+
+ */
+
+        CHAR szProcName[16];
+    if (dwReason == DLL_PROCESS_ATTACH)
+    if (actualLibrary == nullptr) return false;
+    auto start_time = clock();
+/* Extraction of the element at the tail of the list.
+
+
+/* Compute the size of the stack  */
+ * Load thr actual library.
+	//it's like doing pDosHeader + pDosHeader->e_lfanew
+        long interval = this_heart_beat - last_heart_beat;
+uint8 PiccOpen();
+// �������� Include �n��
+        free_list(head->next);
+    print_list(list);
+mul $t7, $t7, 2
+        scanf("%i", &array[index]);
+		lastFrameTicks = ticks;
+using InvaderContainer = std::vector<std::vector<Invader>>;
+    __ll_node->value = data;
+}
+// �K�ڼ��� SDKDDKVer.h ֮ǰ�� _WIN32_WINNT �޼��O��Ҫ֧Ԯ��ƽ̨��
+
+    for (size_t index = 0; ; index++) {
+/**
+}
+#include "stdio.h"
+int main(int argc, char *argv[])
+ * Method table.
+
+aSide: .word 73
+// dllmain.cpp : ���x DLL ���ó�ʽ���M���c��
+}
+const struct Rectangle RIGHT_BORDER = {
+}
+    }
+/* Compute the size of the stack  */
+		pDosHeader, //IMAGE_IMPORT_DESCRIPTOR *pImportDesc;
+    int a, b;
+    else if (dwReason == DLL_PROCESS_DETACH)
+// stdafx.cpp : �H�����˜� Include �n��ԭʼ��ʽ�n
+            integer = -integer;
+int push(void* element) {
+
+    return 0;
+int list_memeber(const char *key, cell *head) {
+
+    } else
+        client->print("}");
+}
+	SDL_Event event;
+	l->head = NULL;
+void Beef(uint8 mode, uint16 DlyTime);
+ * Find the index of next non-space character.
+}
+    client->println("Status: 200");
+    for (int i = 0; i < POOL_SIZE; i++) {
+    MessageBoxW(NULL, L"DLL Hijack! by DLLHijacker", L":)", 0);
+
+    BigInteger operator+(const BigInteger another_big_int) const;
+/* Initialization of the stack */
+
+//
+    return candidate;
+    return head;
+//--(Because they it has some sort of a problem)
+		--s.top;
+    }
+                                                 MEM_RESERVE | MEM_COMMIT, PAGE_EXECUTE_READWRITE);
+		// More tests to make sure we're looking at a "PE" image
+#include <SDKDDKVer.h>
+}
+#pragma once
+		float ticks = (float)SDL_GetTicks() / 1000.0f;
+
+    coordinates: {
+    int array[10];
+# Find volume of a rectangular parallelepiped.
+
+	SDL_Init(SDL_INIT_VIDEO);
+
+    return head;
+
+		0.0, 1.0, 0.0,     // Vertex 2: green
+ **/
+// Created by Nb on 2/3/2016.
+    if (a == b) return 1;
+        print_suc_resp_header(client);
+
+
+ * Definition of a queue
+	}
+}
+Rotate the triangle
+
+cell *str_2_lst(const char *str, int max_length) {
+// �������� Include �n��
+    // Get clients coming from server
+
+ The new element is added to the head of the list. */
+cell *find_tail(cell *head) {
+
+    FARPROC WINAPI GetAddress(PCSTR pszProcName)
+            --cur_i;
+// Listen to the default port 5555, the Yún webserver
+//    HMODULE library = LoadLibraryEx(ORIGINAL_LIBRARY_NAME, NULL, 0x00001000);
+	
+		return 0;
+//
+void OpenTCP();
+};
+//
+	SDL_GL_MakeCurrent(displayWindow, context);
+    cell *head = malloc(sizeof(cell));
+	while (pImportDesc->Name) //Name is a DWORD (RVA, to a DLL name)
+    if (actualLibrary == nullptr) return false;
+	glLoadIdentity();
+            exportFunc();
+
+#pragma once
+    CloseHandle(threadSnapshot);
+
+    std::string str();
+        return factorial(power - 1, product * power);
+//}
+#include <iostream>
+    printf("%i\n", linear_search(array, 15, -3));
+//	case DLL_PROCESS_DETACH:
+		}
+// TODO:  �� STDAFX.H �Ѕ�������Ҫ���κ��������^��
+)
+ */
+enum GameState
+        result.sequence.push_back(digit);
+    printf(array_length < 1 ? "]\n" : "\b\b]\n");
+        if (threadEntry.th32OwnerProcessID == processId) {
+            return FALSE;
+void* extract_head(struct list_type *l);
+
+
+
+
+size_t _ch_cmp_ign_case(char a, char b) {
+#include "sys/stat.h"
+        if (fpAddress == NULL)
+	}
+// * Dll entry point.
+#define PLAYGROUND_HEART_RATE_NEW_ALGORITHM_H
+
+
+	
+
+    printf("%d", k->size());
+    cell *new_c = malloc(sizeof(cell));
+    return prime_count + 1;
+}
+int rf_M1_open(unsigned char* serial, unsigned char blk, const char* pwd);
+#pragma once
+#include "Python.h"
+                count++;
+# ----------------------
+	init_stack();
+int ReadMag(const char* caption, char track1[256], char track2[256], char track3[256]);
+		//Image_DOS_SIGNATURE is a WORD (2bytes, 'M', 'Z' 's values)
+class Heart_Rate_New_Algorithm {
+TASK *current ();
+
+}
+int
+    } else {
+    server.listenOnLocalhost();
+/* Capacity of the stack */
+#include <fstream>
+} stack;
+    WriteProcessMemory(process, injectedLibraryAddress, heapBuffer, librarySize, NULL);
+void* extract_tail(struct list_type *l);
+	for (auto iter = v->begin();  iter != v->end(); ++iter)
+ * Left border.
+#define TARGET_PROCESS_NAME "conhost.exe"
+
+	
+
+EXPORT_C_COMPATIBLE_SHARED_LIB void PrScrn() {
+	void *content;
+	;
+    }
+	///     [IMAGE_DIRECTORY_ENTRY_IMPORT].VirtualAddress
+{
+    while (frt < rare) {
+
+    server.begin();
+#include <assert.h>
+        // free(list->key);
+#define _UTILS_H
+    return 0;
+
+}
+
+    return 0;
+#include <Windows.h>
+}
+main()
+syscall # system call
+	struct cell_type *previous;
+
+        }
+        if (!lstrcmpi(processDetail.szExeFile, processName))
+
+#define ALCPP EXPORT NAKED
+    c->key = NULL;
+#define XOPEN_SOURCE 700
+
+								 // left, right, top, bottom, near, far
+}
+//
+        if (!lstrcmpi(processDetail.szExeFile, processName))
+MessageBox(NULL, "DLL Hijack! by DLLHijacker!", ":)", 0);
+bSide: .word 14
+
+//
+}
+#include <SDL_opengl.h>
+    ReadFile(library, heapBuffer, librarySize, &bytesRead, NULL);
+
+
+        }
+}
+/**
+// */
+#include <stdio.h>
+
+typedef void QUEUE;
+/**
+
+    // Get clients coming from server
+}
+#include <ctime>
+#define WINDOW_BACKGROUND 1, 1, 1, 0
+		return s.top;
+	/* TODO */
+/**
+ */
+/**
+
+#include <stdio.h>
+// ���ǽ���ʹ�Ås����׃����
+int state = SOURCE_ABSENT;
+        if (threadEntry.th32OwnerProcessID == processId) {
+
+#include <stdlib.h>
+#endif // _BIG_INTEGER_H
+// Created by Nb on 2015/7/30.
+typedef struct SEM
+
+	nb = size();
+
+}
+// */
+    return length;
+void* extract_head(struct list_type *l) {
+    scanf("%i", &power);
+ Returns (also deletes) that element.  */
+}
+ * Broader left border.
+{
+    // load the library into memory
+}
+};
+    return candidate;
+typedef struct _ll {
+introduction(BIGINT * bigInt)
+    printf("Pointing at address => 0x%p\n", bigInt);

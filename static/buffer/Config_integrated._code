@@ -1,0 +1,494 @@
+  version: "0.4"
+simplifier:
+    - abbrev/^([zcs]h).+$/$1/
+  user_dict: custom_phrase
+    - {accept: "Control+d", send: Delete, when: composing}
+  "indexes": [
+    "-": "－"
+    "org.eclipse.ui::Conflicting handlers for*"
+  initial_quality: 1
+  import_preset: default
+
+  initial_quality: 1
+{
+# 部署位置：
+    - punct_translator
+  "Int": 16,
+}
+
+    - punct_segmentor
+  "config": {
+	rm -f ${OBJ}/* ${BIN}/* ${LIB}/*
+    - "xform/([nl])ue/$1üe/"
+reverse_lookup:
+    - abbrev/^([zcs]h).+$/$1/
+
+
+    - recognizer
+
+# 只須將本 custom.yaml 的前面名字改爲對應的輸入方案名字然後放入用戶文件夾重新部署即可。如 luna_pinyin_simp.custom.yaml。
+    "POWERED_BY": "由 Python 和 Flask 強力驅動",
+    - "erase/^xx$/"
+  prism: luna_pinyin_fluency
+  import_preset: default
+patch:
+    參考以下作品而創作：
+# Rime schema
+frank=true
+    - script_translator
+    - derive/iu$/iou/
+    - "xform/^([b-df-np-z])$/$1_/"
+  processors:
+      "key": {
+
+#
+    "http://bvb-fanabteilung.de/fotos/saison-20152016/el-qualifikation-borussia-dortmund-wolfsberger-ac/"
+  "Py": {
+  dictionary: ""
+    ";": {commit: "；"}
+    "http://bvb-fanabteilung.de/fotos/saison-20142015/16-spieltag-borussia-dortmund-vfl-wolfsburg/",
+switches:
+  alphabet: "abcdefghijklmnopqrstuvwxyz"
+    - xform/([nl])ue/$1üe/
+    ":java.net.*:",
+  distribution_version: 0.9.19.0
+customization:
+    full_shape: false
+engine:
+          false,
+    - xform/([jqxy])v/$1u/
+    - simplifier
+    - punct_segmentor
+customization:
+    - "xform/([nl])ue/$1üe/"
+distribution_version: 0.9.30
+    "com.naef.*",
+    states: ["，。", "，．"]
+schema:
+  prefix: "`"
+  delimiter: " '"
+
+patch:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  - schema: wugniu_lopha
+    朙月拼音·語句流錄入！
+schema:
+    "PES_EE": "Philosopher",
+    - derive/^zi/ji/
+      "unique": true,
+    - abbrev/^([bcdfghjklprstvwxyz]).+$/$1/       # 對齊標準行
+  #max_code_length: 5  # 五碼頂字上屏
+    - xlit/hspnz/一丨丿丶乙/
+  rime_version: 0.9.7
+  "Resource": {
+  "ignoredStatuses": [
+  "URL": [],
+    "http://bvb-fanabteilung.de/fotos/saison-20142015/pokalfinale-borussia-dortmund-vfl-wolfsburg/",
+
+installation_id: "28cbe48e-e13c-4129-be27-de9d035ae4d1"
+
+  #max_code_length: 5  # 五碼頂字上屏
+custom_phrase:
+  segmentors:
+    "http://bvb-fanabteilung.de/fotos/saison-20142015/26-spieltag-hannover-96-borussia-dortmund/",
+    "#": ["＃", "⌘"]
+
+    - reverse_lookup_translator
+  "Language": "en",
+  "NFloat": -1.55,
+    - speller
+    reset: 1
+  import_preset: default
+    - xform/([nl])v/$1ü/
+    - abbrev/^([zcs]h).+$/$1/
+distribution_code_name: Weasel
+  distribution_version: 0.9.30
+    - F4
+    - recognizer
+  schema_list:
+    - abc_segmentor
+    "http://bvb-fanabteilung.de/fotos/saison-20142015/30-spieltag-borussia-dortmund-eintracht-frankfurt/",
+    - table_translator@custom_phrase
+    - 瑾昀
+  import_preset: default
+
+reverse_lookup:
+  "P\"P": [
+  "WheelName": "root_proto",
+  "style/font_face": "標楷體"
+  dictionary: ""
+    - recognizer
+  comment_format:
+    - 吳語越音 <zhufya@mail.ustc.edu.cn>
+    reverse_lookup: "`[a-z]*'?$"
+  #max_code_length: 5  # 五碼頂字上屏
+punctuator:
+}
+  - name: simplification
+# Rime schema
+    - derive/^([nl])ve$/$1ue/
+{
+    states: [ 半角, 全角 ]
+  prism: wugniu
+  preedit_format:
+    "http://bvb-fanabteilung.de/fotos/saison-20142015/14-spieltag-borussia-dortmund-tsg-hoffenheim/",
+  initial_quality: 1
+#
+schema:
+    "'": {pair: ["‘", "’"]}
+  }
+  - schema: luna_pinyin_simp
+    "TITLE": "Illuminar",
+  name: 朙月拼音·臺灣正體
+  tips: all  # 簡化字模式下提示對應的傳統漢字
+recognizer:
+    - xform/([nl])v/$1ü/
+    - navigator
+  }
+  "ISOCode": "ENG",
+
+    "http://bvb-fanabteilung.de/fotos/foto-archiv/saison-20122013/30-04-2013-halbfinale-rueckspiel-real-madrid-borussia-dortmund/",
+  "NInt": -16,
+    reverse_lookup: "`[a-z]*'?$"
+    - fallback_segmentor
+  author:
+    "POWERED_BY": "由 Python 和 Flask 強力驅動",
+  prism: luna_pinyin_fluency
+    - xform/([jqxy])v/$1u/
+  version: "0.10"
+    "http://bvb-fanabteilung.de/fotos/saison-20142015/16-spieltag-borussia-dortmund-vfl-wolfsburg/",
+
+    - derive/(.*)aq/$1eq/                         # 模糊“搭”“得”
+    - xform/([nl])v/$1ü/
+#
+    wugniu_lopha: 1436365731
+    Shift_L: inline_ascii
+        "false": false,
+    www.chinesecj.com
+
+    - "derive/un$/uen/"
+  "Threads": 16
+      "sparse": false,
+# Rime schema settings
+    #- derive/^tzyu/tzy/                           # 以下四行是模糊“書”“詩”
+customization: 623814851
+    - F4
+      "v": 1,
+  "URL": [
+    luna_pinyin_fluency: 1436925508
+{
+
+# 附朙月拼音系列方案與其對應的 id 一覽表：
+  author:
+      }
+    "http://bvb-fanabteilung.de/fotos/saison-20142015/24-09-2014-5-spieltag-borussia-dortmund-vfb-stuttgart/",
+
+    "http://bvb-fanabteilung.de/fotos/saison-20142015/01-11-2014-10-spieltag-fc-bayern-muenchen-borussia-dortmund/",
+  tips: 〔拼音〕
+  enable_sentence: false
+
+    reset: 1
+    - xform/([nl])v/$1ü/
+    - uniquifier
+    {
+# Rime schema settings
+    - derive/^tsyu/tsy/
+  "MasterConfigDirectory": "",
+    "http://bvb-fanabteilung.de/fotos/saison-20142015/26-spieltag-hannover-96-borussia-dortmund/",
+
+    - key_binder
+    - script_translator
+  ],
+      "DD": -12.5
+  "Int": 16,
+    "?": {commit: "？"}
+    - abc_segmentor
+    - derive/(.*)ij/$1i/                          # 模糊“煙”“衣”
+  "indexes": [
+
+  name: 朙月拼音·語句流
+  author:
+    states: [ 半角, 全角 ]
+    - derive/^tsi/chi/
+custom_phrase:
+    - extended_charset
+    - luna_pinyin
+    - navigator
+      },
+  prism: wugniu
+      3.4,
+    "http://bvb-fanabteilung.de/fotos/saison-20142015/dfb-pokal-viertelfinale-borussia-dortmund-tsg-hoffenheim/",
+    碼表源自倉頡之友發佈的《五倉世紀版》
+# 輸入方案	id
+
+  - name: simplification
+    - ascii_segmentor
+  bindings:
+
+    碼表源自倉頡之友發佈的《五倉世紀版》
+    #- derive/^tzyu/tzy/                           # 以下四行是模糊“書”“詩”
+    uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
+    - reverse_lookup_translator
+#
+
+# 附朙月拼音系列方案與其對應的 id 一覽表：
+  "Language": "en",
+    - selector
+  description: |
+  processors:
+    "org.eclipse.pde.core::The current target platform contains errors*",
+  prism: wugniu
+    full_shape: false
+reverse_lookup:
+
+    "http://bvb-fanabteilung.de/fotos/saison-20142015/25-10-2014-9-spieltag-borussia-dortmund-hannover-96/",
+}
+  algebra:
+
+    "CPython": [
+  prefix: "`"
+    - simplifier
+
+  patterns:
+}
+  "ListenPort": 40000,
+{
+  - name: full_shape
+  patterns:
+    - "derive/ong$/on/"
+clean:
+    h,s,p,n,z 代表橫、豎、撇、捺、折
+    reset: 1
+    - derive/ao$/oa/
+  "ignoredStatuses": [
+  "LOG_PATH": "log/porn.log",
+    - key_binder
+  "Resource": {
+    - punct_translator
+  schema_id: cangjie5
+    www.chinesecj.com
+
+schema:
+    - speller
+	rm -f ${OBJ}/* ${BIN}/* ${LIB}/*
+
+}
+  schema_list:
+    - punct_translator
+  # 載入朙月拼音擴充詞庫
+  distribution_version: 0.9.30
+  - name: full_shape
+  "LoggingLevel": "Info",
+    - derive/(.*)ieu/$1iu/                        # 模糊“宛”“餵”
+
+schema:
+  processors:
+  author:
+    - ascii_composer
+    - derive/^zi/ji/
+    - 瑾昀
+  "Name": "main",
+  "Language": "cht",
+recognizer:
+    - {accept: "Shift+space", toggle: full_shape, when: always}
+  delimiter: " ;'"
+reverse_lookup:
+reverse_lookup:
+  "timestamp": 1469003892253,
+  - name: full_shape
+    - derive/ao$/oa/
+sdnfalds=1231
+    - derive/iu$/iou/
+  suffix: "'"
+#
+    - derive/(.*)ueu/$1eu/                        # 模糊“碗”“按”
+    - {accept: "Control+Shift+exclam", select: .next, when: always}
+reverse_lookup:
+    - express_editor
+  - name: simplification
+    - {accept: equal, send: Page_Down, when: has_menu}
+    - derive/^tzyu/tzy/                           # 以下四行是模糊“書”“詩”
+  suffix: "'"
+  dictionary: luna_pinyin
+    - xform/([nl])ue/$1üe/
+    - {accept: "Control+Shift+percent", toggle: extended_charset, when: always}
+
+  enable_completion: false
+  enable_sentence: false
+    - {accept: minus, send: Page_Up, when: has_menu}
+    - "table_translator@custom_phrase"
+    "HOSTED_BY": "託管於 OpenShift"
+    - derive/([iu])a(o|ng?)$/a$1$2/
+  version: "0.4"
+  author:
+config_version: 0.34.custom.2361428942
+    - "derive/^([nl])ve$/$1ue/"
+  - name: zh_simp
+    - reverse_lookup_translator
+  dictionary: stroke
+    "sun.*"
+}
+  - name: full_shape
+    - xform/^([a-z]*)$/$1｜\U$1\E/
+    #- derive/^tzyu/tzy/                           # 以下四行是模糊“書”“詩”
+  dependencies:
+    - "^yyy.*$"
+    - xform/([jqxy])v/$1u/
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+key_binder:
+    "WELCOME": "歡迎來到 Illuminar"
+  }
+    - derive/un$/uen/
+  "translator/dictionary": luna_pinyin.extended
+    - ascii_composer
+  - name: ascii_mode
+  enable_sentence: false
+    number: "^[-+]?[0-9][.:0-9]*[%]?$"
+    "<": ["《", "〈", "«", "‹"]
+{
+    - recognizer
+    - "^yyy.*$"
+    - 發明人 朱邦復先生
+    - { when: always, accept: Control+Shift+dollar, toggle: zh_simp }
+  "EnterURL": [],
+#
+    Shift_L: inline_ascii
+  "URL": [
+    "http://bvb-fanabteilung.de/fotos/saison-20142015/dfb-pokal-viertelfinale-borussia-dortmund-tsg-hoffenheim/",
+  generator: "Weasel::UIStyleSettings"
+  processors:
+  suffix: "'"
+  "Language": "cht",
+  tips: 〔拼音〕
+    - simplifier
+  "ListenPort": 40000,
+    五筆畫
+
+  enable_completion: true
+{
+  "problemsTtl": 20160,
+  import_preset: default
+    reset: 0
+    "http://bvb-fanabteilung.de/fotos/saison-20142015/16-09-2014-1-spieltag-borussia-dortmund-fc-arsenal/",
+  "timestamp": 1469003892253,
+customization: 3595200122
+distribution_code_name: Weasel
+    - key_binder
+    - derive/^([nl])ve$/$1ue/
+  enable_completion: true
+  version: "0.24"
+  description: |
+    #- derive/(.*)ueu/$1eu/                        # 模糊“碗”“按”
+  hotkeys:
+    "(": "（"
+    - derive/(.*)ae/$1e/
+    - punct_segmentor
+  "Resource": {
+  "RSAKeyLength": 1024
+    拼寫方案採用《吳語拉丁式注音法》
+    - table_translator@custom_phrase
+
+
+    - "derive/ui$/uei/"
+    - uniquifier
+  - name: ascii_punct
+  - name: simplification
+      * Chewing - 新酷音
+  initial_quality: 1
+translator:
+  schema_list:
+    "http://bvb-fanabteilung.de/fotos/saison-20142015/23-spieltag-derby-heim/",
+  - name: full_shape
+  delimiter: " '"
+  "EnterURL": [],
+}
+    - uniquifier
+  db_class: stabledb
+    - abbrev/^([zcs]h).+$/$1/
+    - abbrev/^([a-z]).+$/$1/
+    - speller
+  suffix: "'"
+    "http://bvb-fanabteilung.de/fotos/saison-20142015/26-spieltag-hannover-96-borussia-dortmund/",
+{
+  dependencies:
+    - "xform/^([b-df-np-z])$/$1_/"
+  schema_id: luna_pinyin_tw
+# 補靪功能：將朙月拼音的詞庫修改爲朙月拼音擴充詞庫
+  #max_code_length: 5  # 五碼頂字上屏
+reverse_lookup:
+    五筆畫
+    states: [ 半角, 全角 ]
+    - punctuator
+    "\\": ["、", "＼"]
+    78,
+    - xform/([nl])v/$1ü/
+    - derive/^syu/sy/
+
+    "WELCOME": "Welcome to Illuminar"
+    - punct_translator
+    - punct_translator
+  preedit_format:
+# Rime schema settings
+  import_preset: default
+
+    states: [ 半角, 全角 ]
+  import_preset: default
+  version: "0.18"
+    - {accept: "Control+e", send: End, when: composing}
+speller:
+    - matcher
+  version: "0.10"
+  ]
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+    - speller
+    states: [ 漢字, 汉字 ]
+    "%": ["％", "°", "℃"]
+  schema_access_time:
+
+  dictionary: luna_pinyin
+    reverse_lookup: "`[a-z]*'?$"
+
+reverse_lookup:
+  prism: luna_pinyin_tw
+    - matcher
+    #- derive/^au/u/                               # 模糊“查”“坐”
+    26,
+
+    - xform/([nl])ue/$1üe/
+    - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
+    "com.naef.*",
+    reset: 0
+  }
+#
+  translators:
+    - speller
+    - {accept: "Control+Shift+exclam", select: .next, when: always}
+    states: ["中文", "西文"]
+  import_preset: default
+      "DD": -12.5
+    "WELCOME": "歡迎來到 Illuminar"
+    "HOSTED_BY": "託管於 OpenShift"
+  dictionary: ""
+  preedit_format:
+}
+  version: 0.21.custom.3595200122
+    - speller
+}
+  # 載入朙月拼音擴充詞庫
+recognizer:
+customization: 623814851
+    - fallback_segmentor
+  dictionary: stroke
+    - table_translator@custom_phrase
+    - 吳語越音 <zhufya@mail.ustc.edu.cn>
+    reverse_lookup: "`[a-z]*'?$"
+    "http://bvb-fanabteilung.de/fotos/saison-20142015/28-spieltag-borussia-moenchengladbach-borussia-dortmund/",
+}
+    - xform/([nl])ue/$1üe/
+  - name: full_shape
+    - derive/^dz/z/
+runstack: ${BIN}/stack_test
+    "~": ["~", "～"]
+    #- derive/(.*)ueu/$1eu/                        # 模糊“碗”“按”
+    "POWERED_BY": "Powered by Python and Flask",
+  "Threads": 16,

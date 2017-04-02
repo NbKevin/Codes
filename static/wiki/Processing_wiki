@@ -1,0 +1,100 @@
+4
+Processing is an open source computer programming
+language and integrated development environment (IDE)
+built for the electronic arts, new media art, and
+visual design communities with the purpose of teaching
+the fundamentals of computer programming in a visual
+context, and to serve as the foundation for electronic
+sketchbooks.
+
+The project was initiated in 2001 by Casey Reas and
+Benjamin Fry, both formerly of the Aesthetics and
+Computation Group at the MIT Media Lab. In 2012, they
+started the Processing Foundation along with Daniel
+Shiffman, who joined as a third project lead.
+
+One of the aims of Processing is to allow non-programmers
+to start computer programming aided by visual feedback.
+The Processing language builds on the Java language, but
+uses a simplified syntax and a graphics user interface.
+
+Processing includes a sketchbook, a minimal alternative
+to an integrated development environment (IDE) for
+organizing projects.
+
+Every Processing sketch is actually a subclass of the
+PApplet Java class which implements most of the
+Processing language's features.
+
+When programming in Processing, all additional classes
+defined will be treated as inner classes when the code
+is translated into pure Java before compiling. This
+means that the use of static variables and methods in
+classes is prohibited unless you explicitly tell
+Processing that you want to code in pure Java mode.
+
+Processing also allows for users to create their own
+classes within the PApplet sketch. This allows for
+complex data types that can include any number of
+arguments and avoids the limitations of solely using
+standard data types such as: int (integer), char
+(character), float (real number), and color (RGB,
+ARGB, hex).
+
+Processing's core libraries, the code included in
+exported applications and applets, is licensed under
+the GNU Lesser General Public License, allowing users
+to release their original code with a choice of license.
+
+The IDE is licensed under the GNU General Public License.
+
+==
+
+Processing is an open source computer programming
+language and integrated development environment (IDE)
+built for the electronic arts, new media art, and
+visual design communities with the purpose of teaching
+the fundamentals of computer programming in a visual
+context, and to serve as the foundation for electronic
+sketchbooks.
+
+The project was initiated in 2001 by Casey Reas and
+Benjamin Fry, both formerly of the Aesthetics and
+Computation Group at the MIT Media Lab. In 2012, they
+started the Processing Foundation along with Daniel
+Shiffman, who joined as a third project lead.
+
+One of the aims of Processing is to allow non-programmers
+to start computer programming aided by visual feedback.
+The Processing language builds on the Java language, but
+uses a simplified syntax and a graphics user interface.
+
+Processing includes a sketchbook, a minimal alternative
+to an integrated development environment (IDE) for
+organizing projects.
+
+Every Processing sketch is actually a subclass of the
+PApplet Java class which implements most of the
+Processing language's features.
+
+When programming in Processing, all additional classes
+defined will be treated as inner classes when the code
+is translated into pure Java before compiling. This
+means that the use of static variables and methods in
+classes is prohibited unless you explicitly tell
+Processing that you want to code in pure Java mode.
+
+Processing also allows for users to create their own
+classes within the PApplet sketch. This allows for
+complex data types that can include any number of
+arguments and avoids the limitations of solely using
+standard data types such as: int (integer), char
+(character), float (real number), and color (RGB,
+ARGB, hex).
+
+Processing's core libraries, the code included in
+exported applications and applets, is licensed under
+the GNU Lesser General Public License, allowing users
+to release their original code with a choice of license.
+
+The IDE is licensed under the GNU General Public License.

@@ -1,0 +1,107 @@
+7
+Java is a general-purpose computer programming
+language that is concurrent, class-based,
+object-oriented,[14] and specifically designed
+to have as few implementation dependencies as
+possible.
+
+It is intended to let application developers
+"write once, run anywhere" (WORA), meaning
+that compiled Java code can run on all
+platforms that support Java without the
+need for recompilation.[16] Java applications
+are typically compiled to bytecode that can
+run on any Java virtual machine (JVM)
+regardless of computer architecture. As of
+2016, Java is one of the most popular
+programming languages in use, particularly
+for client-server web applications, with a
+reported 9 million developers.[21] Java was
+originally developed by James Gosling at Sun
+Microsystems (which has since been acquired
+by Oracle Corporation) and released in
+1995 as a core component of Sun Microsystems'
+Java platform. The language derives much of
+its syntax from C and C++, but it has fewer
+low-level facilities than either of them.
+
+The original and reference implementation
+Java compilers, virtual machines, and class
+libraries were originally released by Sun
+under proprietary licences. As of May 2007,
+in compliance with the specifications of the
+Java Community Process, Sun relicensed most
+of its Java technologies under the GNU General
+Public License. Others have also developed
+alternative implementations of these Sun
+technologies, such as the GNU Compiler for
+Java (bytecode compiler), GNU Classpath
+(standard libraries), and IcedTea-Web (browser
+plugin for applets).
+
+The latest version is Java 8, which is the
+only version currently supported for free
+by Oracle, although earlier versions are
+supported both by Oracle and other companies
+on a commercial basis.
+
+The TIOBE programming language popularity index
+ graph from 2002 to 2015. Over the course of a
+ decade Java (blue) and C (black) competing for
+ the top position.
+
+James Gosling, Mike Sheridan, and Patrick Naughton
+initiated the Java language project in June 1991.
+Java was originally designed for interactive
+television, but it was too advanced for the digital
+cable television industry at the time.[23] The
+language was initially called Oak after an oak
+tree that stood outside Gosling's office. Later
+the project went by the name Green and was finally
+renamed Java, from Java coffee.[24] Gosling designed
+Java with a C/C++-style syntax that system and
+application programmers would find familiar.
+
+
+There were five primary goals in the creation of
+the Java language:
+
+It must be "simple, object-oriented, and familiar".
+It must be "robust and secure".
+It must be "architecture-neutral and portable".
+It must execute with "high performance".
+It must be "interpreted, threaded, and dynamic".
+
+
+An applet is placed in an HTML document using
+the <applet> HTML element. The applet tag has
+three attributes set: code="Hello" specifies
+the name of the JApplet class and width="200"
+height="200" sets the pixel width and height
+of the applet. Applets may also be embedded in
+HTML using either the object or embed element,
+although support for these elements by web
+browsers is inconsistent.[52] However, the applet
+tag is deprecated, so the object tag is preferred
+where supported.
+
+The host application, typically a Web browser,
+instantiates the Hello applet and creates an
+AppletContext for the applet. Once the applet
+has initialized itself, it is added to the AWT
+display hierarchy. The paintComponent() method
+is called by the AWT event dispatching thread
+whenever the display needs the applet to draw
+itself.
+
+Swing is a graphical user interface library
+for the Java SE platform. It is possible to
+specify a different look and feel through the
+pluggable look and feel system of Swing. Clones
+of Windows, GTK+ and Motif are supplied by Sun.
+Apple also provides an Aqua look and feel for
+Mac OS X. Where prior implementations of these
+looks and feels may have been considered lacking,
+Swing in Java SE 6 addresses this problem by using
+more native GUI widget drawing routines of the
+underlying platforms.

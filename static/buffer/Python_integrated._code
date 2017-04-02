@@ -1,0 +1,3804 @@
+class StorageMan(object):
+    name='Zvezde',
+    def pop(self):
+    try:
+                        and json is not False \
+    return response_parser(response)
+                new_node = LinkedListNode(data, previous=second_node, next=index_node)
+
+
+# -*- encoding: utf-8 -*-
+        for tpl in matchList:
+    'CB': 'Cocky Boys',
+        """Pop an item from the stack."""
+
+
+                    logger.info('RC4 key received')
+        while not (stop or learned):
+from porn.db import PORN_DB, get_everything, NUMBER_TO_CLAZZ, CLAZZ_TO_NUMBER
+    
+                self.name_to_peer[self.add_to_name[address]] = data
+        assert rc4_res_header == Header.RC4_KEY_RESPONSE and rc4_res_body == b'OK'  # check response
+            ))
+            if node.next is not None:
+
+
+"""
+    'Ricky Sinz',
+        ).rstrip().lstrip()
+print(silly.get_s())
+        return str(self.content)
+                               for param_pair in original_params.split(',')
+        _buffered_data_pool.append((data_, address))
+            d += r
+print('\nTotal %i lines in path %s' % (sum(result.values()), path))
+    def get_msg(self, n):
+            cipher_stream_serialised = ','.join(map(lambda i: str(i), cipher_stream))  # serialise cipher stream
+        Make it possible to use the class as a
+
+firefox.get('http://www.baidu.com')
+                continue
+#!/usr/bin/python3
+        self.username = userId[0]
+
+perceptron.run_test(testset)
+        Thread(target=self.receiver).start()
+                # unless the process masks or customises a handler
+                                str(exptable.name) + "\")();\n    __asm JMP m_dwReturn[0 * TYPE long];\n}\r\n"
+    return my_list
+        if porn_uuid not in self._db:
+    print("close_pairs([1, 2, 5], 3) = ", close_pairs([1, 2, 5], 3))
+    """Post path for obscure."""
+            self.uid = unicode(self.uid)
+    ENTRANCE_LOGGER.info('Exception message: %s' % exception)
+        return self._stack[0]
+        raise short_url_err.InvalidShortURL(short_url_uid)
+        return self._meta.version
+    'Origin': 'http://www.lofter.com',
+api.add_resource(ValidateAccessPIN, '/api/%s' % ValidateAccessPIN.route_path, endpoint='validatePIN')
+    :rtype: bool"""
+
+    try:
+#%% Build the frequency list (You will need to implement the build_wf_list() method)
+class PseudoStdIn:
+    pass
+print('\t' + s1)
+
+Copyright 2015 Nb<k.memo@live.cn>
+
+This is a sample plugin.
+    def __init__(self, char: str, line_no: int, char_no: int, message=None):
+#!/usr/bin/python3
+        new_form=change_name(name)
+        m is an integer where m + n <= len(l)
+
+                            'restful': restful,
+    """
+    def print_sonnet(self, sonnet_number):
+        # Perceptron test
+            else:
+    LOGGER.info('Done crawling')
+#!/usr/bin/python3
+
+
+     'Warning': logging.WARNING,
+            in_pool, out_pool, error_pool = select.select([self._soc], [], [])
+        self.points = {}
+
+    # The close pairs are (1,2), (2,1), (2,5) and (5,2)
+            raise short_url_err.ShortURLExists(uid)
+        """
+        self.state = raw_json['state']
+        self._kv_dict = {}
+STATE_IDLE = 0
+
+def start_from_event_index():
+            return o.json()
+        if op == "+":
+def main():
+    if len(array) <= 1:
+        return self.__denominator
+            r'<span class=[\'"]{1}attrs[\'"]{1}><a href=[\'"]{1}/celebrity/[0-9]*/[\'"]{1}>(.*)</a>'
+    """Find all factors under a certain limit, 5 by default.
+__author__ = 'Kevin'
+
+#%% Put your implementation of the Indexer class here!
+@app.route('/obscure/', methods=['POST'])
+@app.errorhandler(model_err.ModelError)  # model error includes all db error and short url error
+    def flask_address(self):
+        if player:
+    'path': '',
+
+
+
+
+}
+        if cls not in cls._instances:
+        if convert_mode == 1:
+                try:
+        porn.uuid = gen_uuid()
+# -*- encoding: utf-8 -*-
+                if fileName.endswith('js') or fileName.endswith('.css'):
+                res_wheel.extends(extends_wheel)
+    def gcd(a: int, b: int):
+@app.route('/about/')
+        return self.uid
+# exceptions
+
+
+    space = " " * (x - 1)
+def encrypt(username, password):
+            Returns the difference of self and frac in reduced form as a new 
+        indexPage = self.session.get(Zhihu.rootUrl)
+        #         compute the result, push it back onto the stack
+    """Get the proper name of an event."""
+            Cooks the burger, increasing the _current_doneness by 1
+class Magic_Dice:
+    """Flask config."""
+        pass
+''' % (section_name, example_dict[section_name]))
+class ShortURLMan(object):
+def porn(porn_uuid: str):
+            file_name = file_name.encode('utf-8')
+def interesting(i, j):
+    """
+    li = read_file.readline()
+    e = can_place_bulls([25, 24, 16, 8, 6], 4, 3)
+
+restful_logger.addHandler(RESTFUL_TO_FILE)
+        elif op == '/':
+            field_content = input('%s> ' % field)
+        porn.uuid = gen_uuid()
+        """Handle received data properly according to the header.
+    def capacity(self):
+else:
+        while not enterPageUrlQueue.empty():
+        return b''.join([length_str_to_insert.encode('utf-8'), data, _calculate_validation_bit(data)])
+    elif number % 5 == 0:
+
+
+
+    '01000101', '01010011',
+
+THREADS = int(_CONFIG['Threads'])
+    seed_pool = []
+            Frac object.
+ENTRANCE_LOGGER.debug('Database ready')
+        plain = pow(cipher, d, n)
+#!/usr/bin/env python3
+        confirm = input('Enter Y to confirm: ')
+#!/usr/bin/env python3
+        key, value = kv_pair
+            file_name = file_name.encode('utf-8')
+            try:
+    # student code ends here
+}
+                    globalError += abs(iterError)
+def do(N: int):
+
+            return False
+        # bind inner object data to outer level
+        self.key, self.value = key, value
+LOGGER.setLevel(logging.DEBUG)
+    my_list = []
+        '''
+"""
+        l is a list of integers
+# -*- encoding=utf-8 -*-
+                    save_photo(download_photo(photo_url), full_path)
+
+LOG_VER = '0.1.4'
+
+            Rolls the dice until the result is roll.
+                    save_photo(download_photo(photo_url), full_path)
+                        {
+            with self:
+    print('Unknown operator')
+    def bottom(self):
+
+import model_err
+                warnings.warn(UserWarning('Multiple match found'))
+        cursor = self._db.cursor()
+                _result.append(reCharSeq[i])
+
+            edit(config, 'Threads')
+"""
+
+            else:
+
+__author__ = 'Nb'
+                    localPicture.write(picture.content)
+            Cooks the burger, increasing the _current_doneness by 1
+        print('%s: Parsing %s' % (self.getName(), enterPageUrl))
+
+__author__ = 'Nb'
+
+
+    user = sql_man.query('SELECT * FROM users WHERE username = %s AND password = %s',
+__author__ = 'Kevin'
+    for combination in get_capital_permutations(get_capital_combination(name_seq), get_abbr(name_seq)):
+def failed(detail='Request failed', **kwargs):
+
+print(weekend.type)
+
+MYSQL_USER = sae.const.MYSQL_USER
+                if x[2] != r:  # if we have a wrong response
+
+    left = my_list[:middle]
+"""
+# -*- encoding: utf-8 -*-
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+            out = x + y
+        return plain
+    def is_maintenance_admin(self):
+
+    resolver = Resolver()
+KNearestNeighbourTest = KNearestNeighbour(points)
+        if r != x[2]:  # if the response is not correct
+
+        # 0-4: size, 5-8: uid, 9-10: header, -1: validation bit
+      '2) Start from event index\n'
+
+	}}
+            if functionName in observingList:
+            self.is_url = False
+    @staticmethod
+        sonnet_count = 1
+    b = is_suffix('sandstorm', 'storm')
+        # rsa cryptor
+import time
+class JSONUnitTest(unittest.TestCase):
+    times = ceil(size / 8192)
+# "Optimized" bubble sort function
+            if in_pool:
+    'Host': 'bvb-fanabteilung.de',
+                    print('%s | Exception occurred [%s], retry attempt %s...' %
+
+        pass
+        sql_command = "INSERT INTO meta VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
+        print('Redundant entry found: %s' % porn.file_name)
+            return y / x
+        thanksPattern = re.compile(r'<span class="zm-profile-header-icon"></span><strong>(.*)</strong>')
+    expression = ''
+        if isinstance(key, unicode):  # convert unicode to str
+
+        cursor = self._db.cursor()
+
+Example: %s
+        thread.start()
+        if hasattr(self, 'message'):
+        """Create a queue either from an iterable object or construct a new one."""
+import bs4
+    All plugins are required to implement a PluginAgent class which
+class CRC32HashlibWrapper:
+        iteration = 0
+        '''
+    def mongo_host(self) -> str:
+def require_access_pin(return_json=True):
+        raise ValueError('Source values cannot be empty')
+        """Construct from ShortURLMeta and ShortURLData."""
+
+"""
+    '''
+
+#%% You will need to implement the print_top_freq_word() method
+            if combination[i+1] - combination[i] < d:
+
+    if os.path.exists(full_file_name) and os.path.getsize(full_file_name) > 100000:
+        assert isinstance(child, Node)
+def get_config(config_path: str, save_change=False):
+
+
+__author__ = 'nb'
+        if get_abbr(permutation).lower() == id_seq.lower():
+
+        'wd': os.path.dirname(__file__),
+                "Int": 16,
+                if num_samples % self.test_steps == 0:
+elif choice == '4':
+
+        # sort out the nearest k neighbours
+    for i in range(middle, len(sequence)):
+
+
+        Example:
+    """
+        '''
+    my_index.build_wf_list()          
+        print()
+        Do not use."""
+        # modify: if the input is correctly constructed, by now
+
+    })
+from typing import Dict, Union, List
+            instead.
+            return make_error_response(400, 'Invalid request parameter')
+        """Generate a unique UID."""
+    else:
+        return render_template('short_url_redirect_data.html', su=su)
+        }
+        sql_command = sql_command.replace('%s', '?')  # format character is different for sqlite3
+from config_ import YUN_API_CONFIG
+
+"""
+        # prompt for name and peer's name
+    'Content-Length': '162',
+
+enterPageUrlQueue = Queue()
+    seconds = int(input('How many second? '))
+        d = RSA._get_mmi(e, r)[0]  # the first one is the mmi of e modulus r
+
+
+        if self.__defaultLangPack != defaultLangPack:
+"""
+    result = []
+            roll.
+    with open(file_name, mode='w', encoding='utf-8', newline='') as file:
+        print('Generating encryption key, please wait...')
+    return getattr(hashlib, algorithm)()
+        assert isinstance(meta, ShortURLMeta)
+Insert here answer to bonus question of Part 2.
+        print('Yum!')
+    print(num_errs, "wrong out of", len(data))
+LOGIN_HEADER = {
+        file.write(photo)
+    if len(user)==0:
+    for i in range(len(name_seq)):
+    def __call__(self, function):
+Question 2
+        for dir_ in dirs:
+            num_samples += 1
+                globalError += abs(iterError)
+class JSONElement:
+print(ENG('PES_E'))
+elif operator == '/':
+    def __init__(self, key=u'', value=u'', adapter_name=u'KVDB'):
+        """Iterate through the linked list."""
+        print('INFO: Plugin %s stopped.' % __file__.split('/')[-1][:-3])
+        else:
+def main():
+    print(swap(1, 4))
+
+        thread.join()
+        self._kv_dict.pop(key)
+    print(filter)
+
+    my_index.print_top_freq_word(to_print, False)   
+
+        Returns a list of integers which are the entries of A row by row.
+
+
+        It is 1 hour, 1 minute and 1 second.
+            # non-blocking selection
+            return counter
+        self.res_registry = {}
+sys.path.append(os.path.dirname(__file__))
+)
+def main():
+# - controls max size of the lists
+            You will have to modify the constructor's signature. 
+        Use it like this:
+def main_(N: int):
+    print('Input expression cannot be understood')
+
+
+    @property
+        for j in range(0,N-i):
+
+        n = p * q
+except ImportError:
+#!/usr/bin/env python3
+                if x[2] != r:  # if we have a wrong response
+            raise LanguageNotFound(language, 'default')
+    def detail(self):
+    pass
+    def done(self):
+
+            raise short_url_err.ShortURLExists(uid)
+        if self._meta.uid != self._data.uid:
+            while RETRY_COUNT <= 3:
+
+while not done:
+
+
+    def __init__(self, iterable=None, capacity=-1):
+
+    def __init__(self):
+from z_path import PERSISTENT_STORAGE_DIR
+"""
+    max_left_index = 0
+        processed.add(start_id_)
+        self.sonnets = NbFile(sonnet_file)
+"""
+        """Scan and register resource."""
+
+        return value
+    # The outputs are None but the stack should obviously get updated
+        print('Generating encryption key, please wait...')
+        """Initialise."""
+    """For generating exception."""
+
+{\
+        thanksPattern = re.compile(r'<span class="zm-profile-header-icon"></span><strong>(.*)</strong>')
+            _LOGGER.warning('Invalid photo [%s]' % photo_url)
+    BASE_TEMPLATE = base_template.read()
+crawling from the event index urls specified in the 'EventIndexURL'
+        cursor.close()
+        # i.e., if input has 4 lines: 
+front_end_logger.addHandler(FRONT_END_TO_FILE)
+    def search(self, term):
+        the code inside the with block, it is checked to see if
+def bead_sort(data: list):
+        sql_command = sql_command.replace('%s', '?')  # format character is different for sqlite3
+    __repr__ = __str__
+
+    '01001110', '01000100',
+Unless required by applicable law or agreed to in writing, software
+LOGIN_DATA = {
+
+        x = self.items[-1]
+        return len(self.items)
+                    print('%s | Exception occurred [%s], retry attempt %s...' %
+from porn.db import PORN_DB
+        data = ShortURLData(uid, data)
+
+try:
+#!/usr/bin/env python
+operator = input('operator? ')
+}}
+
+
+        raise ConnectionError('Cannot retrieve readings from %s pin %s' %
+        'Accept-Language': 'zh-TW,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+    'Rocco Reed',
+    response = read_pin(1)
+            if isinstance(kv.value, JSONObject) or isinstance(kv.value, JSONArray)
+
+                           core_status='Abundant' in globals(),
+            else item
+
+        print("\n------- start training ------\n")
+    file_name = ''.join([photo_id, '_', url.split('/')[-1]])
+        LAST_CREATION = time.time()
+            result_list.append(i)
+        self.items = []
+"""
+        Make it possible to use the class as a
+"""
+        loginData = {
+
+for app in launchList:
+    'Lucas Entertainment': [[], 'lucas entertainment'],
+                break
+                with open(fullFileName, mode='wb') as localPicture:
+
+3) EventURL
+for x, y in [(1000, 0), (1000, 10), (2800, 2)]:
+        response = requests.get(url, headers=HEADER)
+    @param analogue: Analogue or not.
+# -*- encoding: utf-8 -*-
+
+
+        # modify: do the computation for '+', '-', '*', '/'
+    """Collects exceptions for diagnostic."""
+
+
+        self.logger.debug('Acquired XSRF list: %s' % xsrf)
+
+
+class Magic_Dice:
+        self._validNameList = set()  # using set for better performance
+        if char is None and line_no is None and char_no is None:
+        while current_node is not None:
+
+    def add(self, kv_pair):
+
+
+    def peek(self):
+#!/usr/bin/python3
+analysis of the data collected.
+        # sort out the nearest k neighbours
+            list_[i].append(l[j])
+                "URL": [],
+__author__ = 'Kevin'
+        porn.path = porn.path.replace('\\', '/')
+
+"""
+                        }
+    _LOGGER.info('Parsing event [%s]' % event_url)
+from q2 import is_suffix
+# the call of this function will be intercepted and the result would be changed
+import sys
+__author__ = 'Nb'
+        print(file_path)
+        tags = self._response.find_all(attrs={'rel': 'v:starring'})
+        if iterable:
+    fp = open(filename + ".cpp", "w+")
+        porn.add_tag('SM')
+
+
+        return self._config['mongo']['host']
+    # The outputs are None but the stack should obviously get updated
+            1 if meta.is_url else 0, 1 if meta.is_protected else 0,
+        """Join the root and and relative path for a given key."""
+
+    # base case
+        if type_matches(full_path):
+
+from porn.config import CFG
+            print('Aborted\n')
+    Use it like this:
+        return array
+    while not (stop or learned):
+    def get_sect(self, n):
+    left = my_list[:middle]
+    shuffle(summaries, random)
+
+    'class': 0,
+        '''
+        """Generate a unique UID."""
+
+
+        uid, data = data_.uid, data_.data
+
+        manually.
+        """Delete the ShortURLData of certain key from db."""
+        for i in range(0, number):
+        return int(agree[0])
+    for i in range(len(xb)):
+#!/usr/bin/env python3
+try:
+from the event urls specified in the 'EventURL' section of
+@app.route('/video/<string:file_name>/')
+DB_ENTRY_TEMPLATE = {
+    bucket = storage.StorageMan(bucket_name)
+                    self.updateWeights(x, iterError)
+        meta.visited_times += 1
+    @property
+    def do_op(self, x, y, op):
+        self.uid = uid
+
+# -*- coding: utf-8 -*-
+        """
+    """Login.
+            'EventIndexURL': 'http://bvb-fanabteilung.de/fotos/saison-20152016/'
+    def setUp(self):
+from . import error
+    # the following line doesn't work, it will do things like f*or* for 'or'
+
+        self.points = {}
+
+        self.message = 'Data corrupted'
+            raise ValueError('Timeout is not a POSITIVE integer.')
+from typing import Iterable, List, Tuple
+"""
+
+        yield content
+        """Iterate through the linked list in reversed order."""
+        temp = screen[position[0]][position[1]]
+API_LOGGER.debug('API logger is ready')
+    """
+      author_email='K.memo@live.cn',
+    def is_protected(self):
+    if len(array) <= 1:
+
+        if(Load())\
+        logger.info('RC4 key sent')
+        self.userPage = self.zhihuSession.get(''.join([Zhihu.rootUrl, '/people/', userId]))
+
+            uid = uid.encode('utf-8')
+__author__ = 'Nb'
+        # logger = logging.getLogger('Sender')
+elif raining and not super_sunny:
+            # modify next line: call the correct function to assign value
+        """Hash a file."""
+    def add_msg_and_index(self, m: str):
+
+            'state': self.state,
+    while li != '':
+    if isinstance(data, str):
+def start_from_event():
+
+}}
+
+                print('Server response timeout, please try again')
+KNearestNeighbourTest = KNearestNeighbour(points)
+# -*- encoding: utf-8 -*-
+
+
+        for line in self.arabic_map_file:
+    print(KNearestNeighbourTest.TestNewPoint((x, y)))
+from unittest import TestCase
+    # print("will sort list up to ", N, "elements")
+        # modify: return True if there is no item
+
+# logging formatter
+    """
+
+    for dir_name, dirs, files in os.walk(SUMMARY_DIR):
+# -*- encoding: utf-8 -*-
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+
+
+from yun.config import Config
+
+
+        for i in range(256):
+__author__ = 'Nb'
+
+        return self.get_wheel(wheel + '_proto', language), self.get_wheel(wheel, language)
+def vector_product(vector, another_vector):
+    'Johnny Hazzard',
+
+    'Origin': 'http://www.lofter.com',
+        return self._meta.visited_times
+def calculate_cost(article, lc_dict):
+        self.items.append(item)
+            self.add_to_name[address] = data
+        Set forward_insert to True to insert in front of the index."""
+    while chuck:
+        print('Deleting %s' % key)
+LOG_FORMAT = logging.Formatter('%(asctime)s | %(name)8s | %(module)10s | %(levelname)8s | %(message)s')
+
+
+    1: 'Fantastic',
+    Simulating a stack.
+ENTRANCE_LOGGER.handlers.clear()
+
+main()
+        if r != x[2]:  # if the response is not correct
+    return render_template('about.html')
+
+    CFG.LOG_PATH, mode='a', encoding='utf-8', maxBytes=5 * 1024 * 1024,
+def create_bucket(bucket_name):
+    main()
+        self.port = port
+        if self.algorithm == 'crc32':
+        iteration += 1  # stop criteria
+    'Icon Males': [[], 'icon male'],
+# interested extension names
+    def is_operand(self, x):
+
+        self._capacity = capacity
+
+    """Database of readings from sensors."""
+    size = int(data[:5]) + 8  # first 5 char is length info
+    input_file = open("stack_machine_input.txt", "r")
+    return False
+    """Check validation bit of given byte sequence."""
+    def __str__(self):
+        self.port = port
+# model error is the base error of all other errors
+# construct one
+    # student code starts from here
+print(weekend.duration)
+        elif op == '/':
+    pattern = re.compile(r'a href="(\S*)(?=JPG)')
+
+    :rtype: bool"""
+
+    print("can_place_bulls([6, 8, 16, 24, 25], 4, 3) =", d)
+                save_photo(download_photo(photo_url), full_path)
+    def __init__(self, email: str, password: str):
+
+                    save_photo(photo_detail_url, index, thread_id)
+
+
+            self.is_url = False
+        self._capacity = capacity
+#!/usr/env/bin python
+    """
+            print(expression, '==>', result)
+class MetaInfoNotExists(MetaDBError):
+        if functionName == 'Astra':
+    FlushTime();
+
+    def remove_tag(self, tag: str):
+pythoncom.PumpMessages()
+            version = archive.create_version()
+    Accepts all things that can be
+    Predefined directory is ./Plugins.
+            hit = x
+for thread in thread_pool:
+@lru_cache(3)
+    server = Server()
+        l is a non-empty list of integers
+
+        if one_list[i] != another_list[i]:
+    def language(self):
+import logging
+
+            self.w[0] += self.learningRate * x[0] * 0.5
+    def test_max(self):
+#!/usr/bin/env python3
+    http://www.apache.org/licenses/LICENSE-2.0
+    print('Exported %s function(s)\n' % len(library.DIRECTORY_ENTRY_EXPORT.symbols))
+    else if (dwReason == DLL_PROCESS_DETACH)\
+            cipher_stream = self._rc4_encryptor.encrypt_stream(user_input)
+        else:
+        self._key = [ord(char) for char in key if ord(char) < 256]
+        LOG.info('Added porn %s' % porn.file_name)
+    def get_id(self) -> str:
+    @property
+
+
+"""
+
+
+        self.path = path
+and order for further operation.
+        """Construct from file."""
+#define ALCDECL EXTERNC NAKED void __cdecl\
+    stat = Statistics.objects(stat_name='ll_filter_downloads').first()
+def main():
+                                str(exptable.name) + "\")();\n    __asm JMP m_dwReturn[0 * TYPE long];\n}\r\n"
+from flask import Flask, render_template, send_file
+        for plural_combination in get_plural_combinations(combination):
+    def __init__(self, node_content):
+    'Titan Media': [[], 'titan media'],
+    return tuple(t for t in map(lambda x: x * c, t))
+from .queue import Queue
+
+        if self._capacity != -1:
+
+application = Flask('Zvezde', template_folder=TEMPLATES_DIR, static_folder=STATIC_DIR)
+from ._parser import Parser
+                receive_all(self._soc)
+            result.append(right[right_idx])
+        for line in self.arabic_map_file:
+        '''
+
+def get_config(config_path: str, save_change=False):
+        super(YunConfig, self).__init__(path)
+    'CockyBoys': 'Cocky Boys',
+
+        if n & 1 == 0:  # sort out even numbers
+            'uuid': version.uuid,
+from version import *
+                           'param_pair': ' '.join(params_template.format(name=k) for k, v in params.items())}
+class Equality:
+    def get(self, uid):
+if __name__ == '__main__':
+print('Found %s tags in %s porns' % (matching_tag, matching_porn))
+        if num_lines % 1000 == 0:
+    return {'error': error,
+
+
+        It's an embarrassment of riches worth of bugs!
+
+
+        return self._queue[0]
+    'Dennis West',
+from flask import request
+        matching_tag += 1
+    with open(article, mode='r', encoding='utf-8') as f:
+            else:
+
+        return self.items.pop()
+def list_equal(one_list: list, another_list: list):
+
+
+            forbidden_roll is an integer
+#!/usr/bin/python3
+                 'time_of_creation': version.time_of_creation,
+    a = is_suffix('racecar', 'car')
+        """Create the agent."""
+
+    return b'1' if validation_sum & 1 == 1 else b'0'
+    char_pool = []
+        x = input_file.readline().rstrip('\n')
+
+        self.timeout = timeout
+
+
+a = input('Enter a number: ')
+
+    
+import sae.const
+class Perceptron:
+    def __init__(self):
+#!/usr/bin/env python3
+
+        How many second? 1
+                # message decryption
+    def __init__(self):
+    interpolated_key_np = np.arange(1426382720, 1476780557, resolution)
+                attempts = 0
+    return wd
+            Frac should have a numerator and a denominator
+See the License for the specific language governing permissions and
+class LinkedListError(Exception):
+
+    def DefaultLanguage(self, language: str):
+
+
+    # check directory existence
+    return response
+    """
+# -*- encoding: utf-8 -*-
+                                    0, 0, 0, 0))
+
+    REQUESTED_PORN = PORN_DB.find_porn(
+PluginManager.LoadPlugin()
+    """
+"""
+        print('Printing stats')
+        raw = tag.find_next_sibling().previous_element.lstrip()
+    A simple implementation of the Kth Nearest Neighbour algorithm.
+        seed_pool.append(seed[randint(0, 34)])
+This is script.
+
+            os.mkdir(path)
+import hello
+    for i in range(10):
+        :return: Code files belonging to this group.
+    client.start()
+    try:
+0) Finish editing
+        print('Redundant entry found: %s' % porn.file_name)
+        function.
+    while bottom_stack_frame.tb_next is not None:
+
+
+
+        """Start the client."""
+
+        while d < 0:  # d has to be positive
+
+
+        # remove invalid plugin
+    '''
+                        except KeyError:
+    for i in range(uid_length // 2):
+    5: 'Repulsed'
+        l is a list of integers
+        print('%s\n%s\n' % (porn.file_name, 'Rape'))
+
+        """Scan and register resource."""
+
+#%% Search for a word
+
+print('BVB Fanabteilung Crawler\nRelease 20150812.A\nWritten by Nb@Illuminar\n')
+# get points - label set from file
+    This class, as required by the plugin 'interface', provides methods for
+    def type(self):
+                second_node = index_node.previous
+                combination_feasible = False
+    else:
+
+                DONE = False
+        self._path, self._full_path = path, full_path
+        if archive_dir is not None:
+                if _count == 0:
+    def __init__(self, name):
+"""
+def add_validation_bit(data: bytes) -> bytes:
+            send_all_to(self._soc, 'OK', address, uid=uid, header=Header.RESPONSE)
+        # scan all plugins and import them if valid
+    def run(self):
+BVB Fanabteilung Crawler Help
+    {\
+        if index < 0:
+def process_short_url_uid(short_url_uid):
+        return repr(self._stack)
+
+#define EXPORT __declspec(dllexport)\
+try:
+LOGGER.debug('Reading config...')
+                ))
+    def __str__(self):
+        porn.add_tag('Fist')
+distributed under the License is distributed on an "AS IS" BASIS,
+__author__ = 'Nb'
+                self.__daemon_thread.join()
+        try:
+    """Get all summaries."""
+    pass
+    with open(config_path, mode='w', encoding='utf-8') as config_file:
+
+__author__ = 'nb'
+        return ''.join(string_pool)
+        logger.info('RSA public key sent')
+
+    def do_op(self, x, y, op):
+
+ABUNDANT_LOG_FILE_HANDLER.setFormatter(LOG_FORMAT)
+"""
+you may not use this file except in compliance with the License.
+        global TIMER
+            else kv.value
+KNearestNeighbourTest = KNearestNeighbour(points)
+
+    username, password = request.form['username'], request.form['password']
+        return self.string
+            print("%3s %10s" % (exptab.ordinal, exptab.name))
+Short URL errors.
+        if (m_hModule == NULL)\
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        self._pluginList = {}
+        self.info = information
+    def times(self, frac):
+        image.save(full_path + '.NEW.jpg')
+
+    new_msg = new_msg.rstrip()
+
+from queue import Queue
+_current_state = 0
+    'Host': 'bvb-fanabteilung.de',
+
+def obscure(text, offset=4):
+        self.save_config()
+            self.__function_finished = True
+__author__ = 'Nb'
+Wrapped interface for SAE KVDB.
+main()
+def patched_open(name, **kwargs):
+func_body_template = '''EXP_C_CALL {0} {1} ({2}) \{
+import pickle
+
+            label = tpl[1]
+
+'''
+
+        p = generator.get_a_prime()
+        expression += x + ' ' 
+
+        # unescape HTML entities
+    return unicode(reversed(password))
+
+        """Handle received data properly according to the header.
+    out_file.close()
+
+KNearestNeighbourTest = KNearestNeighbour(points)
+
+except ImportError:
+
+            return self._vip_pool.pop()
+#!/usr/bin/env python3
+    MessageBoxW(NULL, L\"DLL Hijack! by DLLHijacker\", L\":)\", 0);\
+                    stop = True
+    _LOGGER.info('Saved photo [%s]' % path)
+    full_path = os.path.join(path_till_album, name)
+
+        """Initialise the database from a Mongo url and
+    @property
+    where d is desired output and r the perceptron response
+    level=_LOG_LEVEL,
+                    print(plain)
+        for item in iterable:
+    """Get the relative path of an absolute path to a root directory."""
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
+        print(e)
+        """Allow [] syntax."""
+"""
+
+
+ 
+
+
+    """JSON standard includes only a small range of data types.
+            if pow(x, 1, pow(2, s)) == 0:
+
+
+                operator = OPERATOR_CAST_DICT.index(user_input)
+        return len(self.string) == self.num
+                head_created = True
+    def archive_records(self) -> list:
+    @property
+    
+    for y in range(len(triangle[x])):
+
+"""
+from NbHelper.NbTool import NbTime
+
+import logging
+"""
+        # then rc4 key encrypted with rsa private key
+
+            if index_node.previous is None:  # prepend
+
+            return archive_record
+        '''
+database = MongoEngine()
+            A different implementation could have returned 'useless string' 
+        if calculate_cost("news1.txt", lc_dict) == 924 and \
+    return send_file(find_summary(file_name)[number], 'image/jpeg')
+
+    _instances = {}
+# -*- encoding: utf-8 -*-
+        ]
+    this_time       = asctime(gmtime(this_time_sec))
+
+def get_all_summaries() -> List[VideoSummary]:
+
+
+_state_switch_map = {0: 1, 1: 2, 2: 0}
+
+# basic rsa implementation
+    def remove_archive(self, uuid=None, source_dir=None, archive_dir=None):
+
+            if section_name == 'Threads':
+        else:
+
+
+        # login
+                # message decryption
+            meta.uid,
+    yb = (rand(n) * 2 - 1) / 2 + 0.5
+        >>> find_factors(15)
+
+
+Definition of JSON elements.
+                    print(plain)
+def generate_random_list(N):
+if __name__ == '__main__':
+class Burger:
+            event_url = EVENT_URL_POOL.get()
+
+#!/usr/bin/python3
+
+    @staticmethod
+
+                return function(*args, **kwargs)
+    '''Swap the value of two numbers.
+
+    def __init__(self, initialPoints: dict, k=3):
+        return render_template('short_url_redirect.html', su=su)
+
+    """
+            'time_of_creation': version.time_of_creation,
+    inputs = []
+
+front_end_logger.addHandler(FRONT_END_TO_FILE)
+    else:
+    return {'error': error,
+        self.name_to_add = {}
+def decrypt(username, password):
+
+        # You will need to implement add_msg_and_index()    
+
+
+
+    @functools.lru_cache(3)
+    results_lower = [
+
+
+_FORMATTER = logging.Formatter('%(asctime)s | %(name)8s | %(levelname)8s | %(message)s')
+            return make_error_response(404, 'Version not found')
+    status = IntField(required=True, choices=_USER_STATUS, default=1)
+from obscure import obscure, deobscure
+        })
+                break
+    # Generating the mapping from letters to their RMB costs
+
+    ww = w / n
+A basic implementation of RSA and RC4 algorithm.
+    return render_template('tumblr.html')
+__author__ = 'Nb'
+from logger import LOGGER as _LOGGER
+        # if no plugin is observing this name then return the original result
+        raw = tag.find_next_sibling().previous_element.lstrip()
+
+def user_login():
+
+            response = requests.get(self._URL_BASE % self._film_id, headers=self._HEADER)
+
+            if result <= -455:
+}\
+
+    (which people actually call tokens) if it is 'yes'
+    def test_scaled_tuple(self):
+    running_time += end - begin
+
+        self.buffer.append(content)
+
+
+        stack.push(x)
+
+"""
+            globals(), locals(),
+        key, value = key_pair
+        # modify: process the next line in the file, right now it is simply
+
+        return (n, d), (n, e)
+    def gcd(a: int, b: int):
+        swapped = False
+        #   3
+        if save_change:
+    def distance(self):
+    def cook_a_bit(self):
+# -*- encoding=utf-8 -*-
+    target_file_name = None
+CFG = Config(_CFG_PATH)
+    players = set()
+        pluginPath = os.path.join(os.path.dirname(__file__), self.LOADER_PLUGIN_DIRECTORY)
+KVDB interface errors.
+        '''
+
+    print("v.pop() =", v.pop())
+sys.path.append(os.path.dirname(__file__))
+
+        return quick_sort([x for x in array[1:] if x < pivot]) + [pivot] + quick_sort([x for x in array[1:] if x > pivot])
+    else:
+# -*- encoding: utf-8 -*-
+    """The base error of all lang components.
+
+        self.message = 'Invalid resource ID *%s*' % lang_res_id
+        Do not use the built-in max function nor list's sort method.
+# -*- encoding=utf-8 -*-
+
+        meta.visited_times += 1
+    """Generate a UID."""
+A simple implementation of stack.
+
+API_VER = 'cyan'
+        yield name_seq[:i] + [name_seq[i] + 's'] + name_seq[i + 1:]
+"""
+        else:
+print('DONE CRAWLING, DOWNLOADED %s PHOTOS' % DOWNLOAD_COUNT)
+def parse_event(event_url: str) -> list:
+        # modify: remove the "pass" statement, add everything from the file to the stack
+        if not porn_added:
+    def PORN_PATH(self):
+            raise TypeError('Timeout is not a positive INTEGER. '
+            if not hasattr(content, 'read') and hasattr(content, 'write'):
+                         ['纪录片', '同性'])
+
+            ''.join([iso_lang_code.upper(), '_', res_name.upper()])
+__author__ = 'Kevin'
+
+                )
+    """Save a photo."""
+            if os.path.exists(full_name):
+            API_LOGGER.info('Requested test exception %s' % exception_type)
+        previous_node = None
+
+                           classes=list(NUMBER_TO_CLAZZ.values()))
+        self.__speed = speed
+class LanguageNotFound(Exception):
+# it will fallback to default language
+        :type name: str
+            raise TypeError('Wrong input type')
+    and raise an RuntimeTimeout when function
+    object_a = object_a + object_b
+raining = True
+"""
+"""
+
+'SaveTo' is the location where the photos downloaded will be stored
+        l is a list of integers
+sys.path.append(os.path.dirname(__file__))
+        if brand:
+            self.stack.push(result)
+        meta.visited_times += 1
+            send_all_to(self._soc, cipher_stream_serialised, self.address, Header.MESSAGE)
+__author__ = 'Nb'
+     )
+    """Base error for all stack errors."""
+        print('Printing stats')
+
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        """Push an item into the stack."""
+    is_url = True if request.form['is_url'] == u'1' else False
+
+
+    
+    if fake:
+class JSONIdentifier:
+        y = x[0] * self.w[0] + x[1] * self.w[1]
+
+        """Tell if there still element to be popped."""
+
+                self.head = node.next
+        return self._config['mongo']['host']
+        result.append(_)
+
+
+__author__ = 'Nb'
+        self._db.execute(sql_command, parameters)
+
+        self.master_config_path = os.path.join(master_config_dir, 'master_config.json')
+import meta_db_err
+
+        su = su_man.get(short_url_uid)
+        print('Overcooked...')
+# start the background thread
+    out_file    = open(in_file_name + '.time', 'w')
+        print('%s | Exiting...' % self.getName())
+
+    to_second()
+        Find a porn matching certain requirements.
+    return results
+5      |  17 5
+
+        print(self._kv_dict)
+USING THE CRAWLER
+from logs import restful_logger
+import sys
+with open('../tool/film_id.txt', mode='r', encoding='utf-8') as file:
+        self.assertEqual(self.X.items, [12])
+    def __init__(self, content, previous, next, lower):
+# -*- encoding: utf-8 -*-
+                for lang in dirName:
+    with open(path, mode='r', encoding=encoding) as file:
+    def Login(self):
+        x = stack.pop()
+        while not EVENT_URL_POOL.empty():
+
+
+
+    def encrypt_stream(self, plain: Iterator):
+    """Check validation bit of given byte sequence."""
+
+
+        'py_ver': platform.python_version(),
+    'Marco Rubi',
+from flask.ext.login import current_user
+        # push the new current language
+CURRENCY_SYMBOL = '¥'
+
+        pass
+                    candidates = [porn for porn in candidates if _player in porn.player]
+        return counter
+        m       = in_file.readline()
+
+Yun API adapter for transporting data from Arduino Yun board.
+
+    'Antonio Manero',
+# -*- encoding: utf-8 -*-
+
+    Use it like this:
+        """Get an item."""
+                        try:
+    # student code ends here
+        '''
+    return a % b == 0
+        su = su_man.get(short_url_uid)
+        """
+    """Generate a random uid in bytes."""
+        """Load config."""
+
+    def __init__(self):
+_RSA_KEY_LENGTH = _CONFIG['RSAKeyLength']
+"""
+        # sort and return the result
+        'diag_exec': __file__,
+            self.stack.push(int(x))
+import os
+    def Agrees(self):
+            if my_list[j] > my_list[j+1]:
+originalApp = list(int(t) for t in input().split())
+    }
+    
+from typing import List
+        LOCK.release()
+            self.stack.push(int(x))
+def download_photo(photo_url: str) -> bytes:
+"""
+                    print(void_func_body_template.format(
+    print(p)
+    with open('lettercosts.txt', mode='r', encoding='utf-8') as f:
+            plot(x[0], x[1], 'or')
+'SaveTo' is the location where the photos downloaded will be stored
+            if x[2] == 1:
+            tags.add(tag)
+
+    """Find the maximum sub-sequence across the middle boundary of the list."""
+"""
+    porns = PORN_DB.find_porn(brand=brand)
+class YunRealtimeReadingsAPI(Resource):
+
+enterPageUrlPool = config['URL']
+            self.logger.info('No biography found for %s' % self.userId)
+
+from dns.resolver import Resolver
+        return (m_hModule != NULL);\
+            It works like roll but the result cannot be forbidden_roll.
+        self.__wheel_name = raw_res_dict['WheelName']
+        for i in range(self.sonnet_index[signal], self.sonnet_index[signal] + 17):
+__author__ = 'nb'
+# -*- encoding=utf-8 -*-
+
+    '''
+
+        result = self.roll()
+            for special_name in special:
+
+
+
+#!/usr/bin/env python
+                return _buffered_data_pool.pop(i)
+#!/usr/env/bin python
+            j = (j + self._s[i]) % 256
+        elif op == '-':
+
+import time
+        super(User, self).__init__(*args, **kwargs)
+        self.logger.info('Using user id \'%s\'' % userId)
+BVB Fanabteilung Crawler Help
+class HeartRateData:
+import time
+        yield content
+        self.__init__(self._film_id)
+#!/usr/bin/python3
+
+            if int_2_roman[str(sonnet_count)] in line:
+
+
+# Part 2.B bonus question goes here
+The parser.
+#!/usr/bin/python3
+
+            # mark head
+                        porn.brand = brand
+    @property
+    def get(self, uid, password=u''):
+        print(token)
+    def __init__(self):
+class LangNonCriticalError(LangError):
+    @property
+    def len_check(self):
+        """Print sonnet number x."""
+
+    def test_is_empty(self):
+def short_url_index():
+            right_idx += 1
+        self._vip_pool = []
+            'uuid': version.uuid,
+    """A config wrapper to simplify config loading and saving."""
+    '''
+            raise FileNotFoundError('Archive directory has already been used: %s' % archive_dir)
+'''
+class NoSuchShortURL(ShortURLError):
+
+
+    newest = max(classifier.find(source), key=lambda code: code.last_modified)
+__author__ = 'Nb'
+        Returns False if capacity is not set."""
+        # scan valid language names
+        self._db = sqlite3.connect(db_path, check_same_thread=False)
+    values = []
+                        }[log_name].readlines())
+    plt.plot(merge_sort_running_time, 'b-', label = "merge sort")
+        self.lower_bound = lower_bound
+            break
+        sum_ += A[i][i]
+class RunIt(Thread):
+        """Insert an item into certain index.
+        # On python 3.3 or higher, when __cause__ is set to
+import random
+
+        'exception_name': traceback[0],
+import sys
+    def __init__(self, raw_json: dict):
+    def __init__(self, film_id):
+
+	return result;
+    pattern = re.compile(r'<a href="(.*)"><img class="Thumb"')
+
+    file_md5 = md5_hasher.hexdigest()
+The adapter for SAE storage service.
+        return self._data.data
+        self.total_words = 0
+        Create an index node for the skip list.
+
+            Returns this burger's _desired_doneness
+from validity import *
+                               'Hardware may not be compatible with this software.')
+This is
+        w(t+1) = w(t) + learningRate*(d-r)*x
+        if target_player:
+            integers set by the user. Hungry objects also have _hunger and 
+    finally:
+        """Convert a python dict to JSONObject."""
+    else:
+    ENTRANCE_LOGGER.addHandler(StreamHandler(sys.stdout))
+    with open(config_path, mode='r', encoding='utf-8') as config_file:
+    # noinspection PyUnresolvedReferences
+            __MANAGER__ = object.__new__(cls, *args, **kwargs)
+
+        Use it like this:
+#!/usr/bin/env python3
+'''
+
+    last_time_sec   = mktime(strptime(last_time))
+        return int(agree[0])
+        return type(x) == int and x > 0
+        """Make sure that only one manager will be created."""
+elif RUNNING_ON_OPENSHIFT:
+    return unicode(reversed(password))
+
+    @property
+        return reversed({
+}\
+    return sum([len(string) for string in l])
+            self.init_config = json.load(raw_init_config)
+]
+        self.load()
+                self._logger.info('%s peered with %s' % (self.add_to_name[address].decode(), data.decode()))
+        if not porn_added:
+class AbstractSyntaxTree:
+    return videos[:number]
+        if x[2] == 1:
+        return self.__hunger < 10
+    'player': ''
+        if time.time() - _last_time > _switch_period:
+
+    def add_tag(self, tag: str):
+        self.assertEqual(self.X.items, [12, 31])
+            if msg_too:
+    :param source: Source JSON string.
+
+        """Synchronise the database."""
+from typing import Iterable
+
+for i in range(65, 91):  # ASCII 'A' to 'Z'
+
+class MySQLMan(object):
+        matching_tag += 1
+    def exception(self, exc: Exception):
+            matching_porn += 1
+
+
+        if raw is None:
+        self.assertEqual(10, index_of_max([0, 4, 1, 10, 20, 5, 30, 95, 40, 25, 100, 9, 8]))
+#include <Windows.h>\
+    # The close pairs are (1,2) and (2,1)
+    """User."""
+    for event_url in EVENT_URLS:
+__author__ = 'Nb'
+            >>> Temperature().convert_to_fahrenheit(0)
+
+        new_m   = inc_wtime(now) + '**\t ' + m
+'Threads' is the number of threads which will be used while crawling.
+            if pow(a, d, n) == 1:
+
+        db_obj = dict(db_obj)
+        # modify: return True if there is no item
+
+    def __enter__(self):
+LOGIN_HEADER = {
+
+            if section_name == 'Threads':
+    def __init__(self):
+            right_idx += 1
+            return Frac.gcd(b, a % b)
+
+      version='0.1',
+        #         else if it's an operator, pop two items and 
+
+            and l[index_of_max(l)] = 17
+class PhotoAlreadyDownloaded(Exception):
+        num_errs = 0
+def check_validation_bit(data: bytes) -> bool:
+
+        parameters = (uid,)
+        else:
+
+                    print('%s\n%s\n' % (porn.file_name, player))
+        porn.uuid = db_obj['uuid']
+class FileAPI(Resource):
+            return archive_record
+        return 1
+# iterate through all files
+@lru_cache(3)
+        return Frac(num, denom).reduced_form()
+def collatz(start):
+        url for url in
+    '''
+        'null': None
+        # modify: add "item" on to the list
+                "Float": 1.5,
+    print('\n%s\n' % ('=' * 48))
+
+                send_all_to(self._soc, 'OK', address, uid=uid, header=Header.RESPONSE)
+        if isinstance(data, str):
+    def origin(self):
+
+def dashboard():
+            'Lang.%s.%s' % (workingLanguage, UID),
+    """Collects exceptions for diagnostic."""
+        '''
+        return socket.gethostbyaddr(ip_address)[0]
+        map(lambda url: '%sjpg' % url, pattern_lower.findall(event.text))
+
+        return self.info
+    Expected time complexity is O(nlogn).
+        return None if tags is None else [tag.text for tag in tags]
+JSON format. If you knows how to edit JSON file, you can just
+
+        return self.path
+
+    main()
+
+    photo_url = [''.join([BASE_URL, url, '.jpg']) for url in photo_url_candidate if 'photos' in url]
+
+        elif op == '*':
+        if parameters is None:
+
+
+            for r in range(s):
+        })
+    shirley
+# -*- encoding=utf-8 -*-
+
+import sys
+    score = 0
+class Frac:
+import numpy as np
+"""
+
+        print('%35s %12s' % (symbol.name.decode('utf-8'), symbol.address))
+        if capacity != -1 and capacity < 1:
+            distance by it's _speed and increase its hunger by it's 
+        self.__distance = self.__hunger = 0
+    def peek(self):
+
+class LangRes:
+ENTER_USERNAME = '請輸入您的用戶名'
+
+
+
+
+    def write(self, content: str):
+                            "false": False,
+    """Get the abbreviation."""
+#!/usr/bin/env python3
+
+        if b == 0:
+        position += 1
+"""
+        if isinstance(content, unicode):
+YUN_API_CONFIG = YunAPIConfig(DEFAULT_YUN_API_CONFIG_PATH)
+limitations under the License.
+def _async_receive(soc: socket.socket, buffer_size=8192, timeout=5, uid=b'') -> (bytes, tuple):
+
+
+
+#!/usr/bin/env python3
+            if result <= -455:
+        # index arabic to roman map
+
+"""
+    def to_python(self):
+ENTRANCE_LOGGER = logging.getLogger('Entrance')
+    def __init__(self):
+)
+        """Convert a JSONArray to python list."""
+    print(mouse_event.Key)
+            matching_porn += 1
+        return self.__desired_doneness
+
+        """Add the visited times of a ShortURLMeta by one."""
+This script does the analyser things.
+        thread.join()
+                send_all_to(self._soc, 'OK', address, uid=uid, header=Header.RESPONSE)
+            'Name: %s' % self.name,
+
+    # recursive case
+from flask import Flask
+        return array
+Unless required by applicable law or agreed to in writing, software
+
+
+        for player in porn.player:
+
+
+
+        """Check if an item exists."""
+            except AttributeError as e:
+        be converted to convert_nan_to, by default
+        >>> swap(1, 4)
+                self.name_to_peer[self.add_to_name[address]] = data
+            porn.player = [player for player in new_info['player'] if player]
+            out = y - x
+    def push(self, x):
+        pivot = array[0]
+    for number in data:
+
+    (which people actually call tokens) if it is 'yes'
+
+            print("0" * (2 * x + 1))
+                return tag.text
+class Stack:
+        156 is divisible by 1, 2, 3, 4, 6, 12, 13 and nothing else less than or equal to 15.
+
+        In this sample it only perform a self increment for 'Astra' function.
+def lookup_host_name(ip_address: str) -> str:
+    def __init__(self, lang_res: str, path: str):
+        self.msgs.append('')
+    def get(self, status_name: str):
+def print_window(x, y):
+        """File name, with extension."""
+
+                    globals(), locals(),
+app.debug = True
+
+
+LOGIN_RESPONSE = SESSION.post('https://reg.163.com/logins.jsp', headers=LOGIN_HEADER, data=LOGIN_DATA)
+        ).sub('***', raw).split('***')
+
+            factor_list.append(i)
+    message = 'Cannot push into a full queue'
+        self.assertEqual(self.X.items, [12, 31])
+
+        received_time += 1
+INIT = 'Initialising, please wait...'
+
+        self.__daemon_thread = threading.Thread(target=daemon)
+    'Czech Hunter': [[], 'czech hunter'],
+        """Perform bit xor on key and plain int."""
+        """Constructor."""
+    """The base error for all non critical errors.
+    """Decrypt password.
+        self.brand = ''
+class JSONElement:
+@app.errorhandler(sae_adapter.SAEAdapterError)  # adapter error
+    with open(path, mode='r', encoding=encoding) as file:
+
+        points[(int(x), int(y))] = label
+from pylab import rand, plot, show, norm
+
+    :type username: unicode
+            Rolls the dice until the result is roll.
+    # print export table
+        """Generate a standard private-public key pair for RSA."""
+
+    joe
+        # a dict storing all plugins in name - module set
+    def __init__(self):
+# and of course resources can be more than string
+        '''
+        uid_length = 3
+print('5 dollars equals %s %s' % (testLang('CURRENCY_SYMBOL'), 5 * testLang('TO_DOLLAR_CURRENCY')))
+    return my_list
+from itertools import zip_longest
+def fizz_buzz(number):
+#!/usr/bin/env python3
+    for combination in combinations(l, n):
+    RSA_KEY_RESPONSE = b'03'
+    For inheritance only. Do not construct."""
+        '''
+        if self.__soup is None:
+    print('Unknown operator')
+except ImportError:
+    # filter out negative values
+    inputs = []
+        """Get a k-v pair."""
+                         'kt', 'pde', 'js', 'css', 'html',
+for t in s1.split():
+
+Language resource loader.
+
+        parser.add_argument('pin', type=int, help='Pin number', required=True)
+            meta.version,
+sample = pickle.load(open('1e8.pkl', mode='rb'))
+
+from flask import Flask
+    @staticmethod
+        '''
+
+                      'ERROR: Please check if there is any bug in PluginAgent.Start.'
+    # check file existence
+        stack_machine.print_stack()
+                               'Hardware may not be compatible with this software.')
+    :param dns_server: The DNS server to be used, by default Google Public DNS
+        if self.state == HeartRateSensorState.REPORTING_DATA:
+        print(self.user.Biography)
+def is_library(path: str) -> bool:
+        'Host': 'movie.douban.com',
+print(deciphered_text)
+LOG_FORMAT = logging.Formatter('%(asctime)s | %(name)8s | %(module)10s | %(levelname)8s | %(message)s')
+                continue
+    # N = min(N, LIMIT)
+        # modify: return True if there is no item
+            param_names = list(param_pair.split()[-1].lstrip().rstrip()
+        self.__init__(self.file)
+                PHOTO_SKIPPED += 1
+
+                current_index -= 1
+class Header:
+
+        print("0")
+    :param source: Source JSON string.
+
+                               output_text=data)
+# LIMIT controls the number of lists and the size of the biggest list
+    if len(vector) == len(another_vector):
+api.add_resource(TestException, '/api/%s' % TestException.route_path, endpoint='testException')
+                self._observerList[name] = [] + plugin.PluginAgent.observingList
+             file_path],
+from classifier import *
+    """Get a pack of diagnostic information."""
+
+
+
+
+
+        """Pop an object."""
+            print("0", "0", "0", sep=space)
+    def execute(self, sql_command, parameters):
+    # recursive case
+        self.X.push(15)
+        super().__init__(mongo_host, mongo_port, db_name)
+
+    stack_machine = StackMachine()
+    @param analogue: Analogue or digital.
+    everything = get_everything(PORN_DB)
+        combination = sorted(combination)
+        
+        #         there is only one item on the stack, just pop it and return it
+    def __init__(self):
+
+        if is_suffix('racecar', 'car') == True and \
+    @staticmethod
+        :param path: Path to the code file.
+
+__author__ = 'Kevin'
+_RESTFUL_LOG_PATH_ = os.path.join(os.path.dirname(__file__), 'log/restful.log')
+    def hexdigest(self) -> str:
+    receiver.join(timeout)
+MYSQL_DB = sae.const.MYSQL_DB
+    RC4_KEY_RESPONSE = b'04'
+            key = key.encode('utf-8')
+
+class RSA:
+    'Connection': 'keep-alive',
+    def __init__(self):
+            Returns a reasonable string-representation of the Frac object.
+class Statistics(db.Document):
+
+        """
+
+            If the object is alive (as dictated in alive()), increase the its
+        for point, label in self.points.items():
+    kate
+            print('iterations', iteration)
+
+                        close_pairs([1, 2, 5], 2) == 2:
+    size = int(data[:5]) + 8  # first 5 char is length info
+        return 1
+            if in_pool:
+            result = stack_machine.done()
+except:
+class SAEAdapterError(Exception):
+import logging
+import short_url_err
+screen = [originalApp[i: i + screenSize] for i in range(0, totalApp, screenSize)]
+
+print('NOTICE: If you are using IPython notebook, it is suggested to set plot mode to inline')
+def read_pin(pin: int, analogue=True, response_parser=_read_pin_result_parser):
+ENTRANCE_LOGGER.addHandler(RotatingFileHandler(
+#!/usr/bin/python3
+__author__ = 'Nb'
+    'Extra Big Dicks': [[], 'extra big dick'],
+# local terminal handler
+                if num_samples % self.test_steps == 0:
+            self._s[i], self._s[pos] = self._s[pos], self._s[i]
+        rc4_res_header, rc4_res_body, _, _ = receive_all(self._soc, uid=rc4_uid)
+    pass
+    to_second()
+            if isinstance(item, dict):
+LOCAL_DEBUG = False
+# -*- encoding: utf-8 -*-
+                for _tag in tag:
+def parse_gallery_detail_page(url: str):
+            raise ConnectionError()
+
+        Use it like this:
+      '2) Start from event index\n'
+learningRate = 0.1
+
+name_macthing = 0
+
+        # prompt for name and peer's name
+        super(ThreadingParseUrl, self).__init__()
+    """Find valid Douban film ids on this page."""
+                PHOTO_URL_POOL.put(photo_url)
+def get_random_summaries(number: int) -> List[VideoSummary]:
+    print('Then we rolled {0} time(s) until we got a 3'.\
+    print(video.actual_path)
+    return render_template('short_url_model_error.html',
+print(INDEX_PAGE.text)
+__author__ = 'Nb'
+    # Generating random unsorted lists for the sort functions to work on
+                           archives=[Abundant.get_archive(uuid=x['UUID']) for x in Abundant.get_all_archives()])
+    full_data = b''.join(data_pool)
+                "BB": "CC",
+                new_node = LinkedListNode(data, next=index_node)
+    __target_extensions__ = ('c', 'cpp', 'h', 'hpp')
+    def append(self, data):
+                try:
+
+    def __init__(self, timeout: int):
+                num_samples += 1
+from code_ import CodeFile
+import queue
+
+def get_log(log_name: str):
+                    "http://bvb-fanabteilung.de/fotos/saison-20142015/34-spieltag-borussia-dortmund-sv-werder-bremen/"
+
+        self.wd_freq_list = []
+
+#!/usr/bin/python3
+
+    __slots__ = ('_children', 'token')
+
+                    pass
+    return os.path.basename(porn_full_path)
+    def index_msg(self, m: str, l):
+# message headers
+
+
+        l is a list of integers
+
+    data_pool.append(data)
+A basic implementation of RSA and RC4 algorithm.
+        x = input_file.readline().rstrip('\n') 
+            raise kvdb_err.KeyNotExists(key=key)
+'''
+    f1 = Frac(1, 2)
+                urlPool.put(url)
+    :param dns_server: The DNS server to be used, by default Google Public DNS
+                           uid=exception.uid)
+        student_answer = [v.vip_push(1), v.vip_push(2), v.push(3), v.push(4), \
+print('Factors under 5 of %s are following: ' % user_input, end="")
+                res = res_json['Resource']
+    """Raised by set_timeout."""
+Utilities for defining models.
+        It takes a function name and a preliminary result of that function.
+with open('CODE_LISTING.TXT', mode='a', encoding='utf-8') as output_obj:
+from html.parser import HTMLParser
+    print('Getting enter page urls from %s' % indexPageUrl)
+@OpenToPlugin('Astra')
+
+
+This package provides tools for parsing Zhihu pages.
+import meta_db_err
+print('Here is a string: ')
+#!/usr/bin/env python
+        """Initialise."""
+    """A basic RSA implementation."""
+        else:
+
+    """"Manager of the meta database."""
+
+
+import os
+
+        yield name_seq[:i] + [name_seq[i] + 's'] + name_seq[i + 1:]
+
+
+        raise e
+        """Handle received data properly according to the header.
+Meta database stores relevant data of short urls.
+        for word in _list:
+    def __init__(self):
+        '''
+    def is_empty(self):
+        return super(QueueError, self).__str__()
+                           adapter_name=exception.adapter_name)
+
+            meta.version,
+    rootUrl = 'http://www.zhihu.com'
+#!/usr/bin/env python3
+    """Post path for obscure."""
+    Notice that the function name has to be unique.\n
+        sonnet_count = 1
+Shortcut to the JSON parser.
+    john
+
+#      install_requires=['Django>=1.3'],
+            abacus[position][i] = True
+    _CONFIG = json.load(file)
+
+class Hungry:
+        return False
+
+    space = " " * (x - 1)
+        if html_new_line:
+
+    except (NbNoExtractableValue, NbObjectDoestNotExist) as error:
+_USER_GENDER = ('male', 'female', 'gender', 'undetermined')
+from yun.config import YUN_CONFIG
+print()
+        choice = input('Choice: ')
+    PHOTO_FOUND = PHOTO_URL_POOL.qsize()
+# -*- encoding: utf-8 -*-
+    'class': 0,
+        raise NodeNotFound(content)
+class Database:
+    Parser = ThreadingParseUrl()
+                               input_text=u'輸入的數據似乎不正確',
+        '''
+from flask import Flask, render_template, request, jsonify
+        """Common base of editing separate sections."""
+    print('score: ' + str(score))
+
+
+"""
+            print(n,'is not an integer.')
+        ord(unicode_char) + offset
+            return re.compile(r'</a> / <a href="/celebrity/\d*/" rel="v:directedBy">').split(raw)
+    stat_value = IntField(required=True, default=0)
+elif choice == '1':
+    """Add validation bit to given byte sequence."""
+class JSONSyntaxError(SyntaxError):
+
+    porns = PORN_DB.find_porn(tag=tag)
+def login(username, password):
+
+        # Perceptron test
+            list(map(lambda url: '%sjpg' % url, patternLower.findall(enterPage.text)))
+
+        return self.master_config['ArchiveRecords']
+        A is a 2D list representing a matrix
+
+ENTRANCE_LOGGER.debug('Created flask application')
+            else:
+    return tuple(t for t in map(lambda x: x * c, t))
+_LOG_LEVEL = {True: logging.DEBUG, False: logging.INFO}[_CONFIG['Debug']]
+
+import os
+              implement the integrate-and-fire logic:
+        self.__ext_res_dict = wheel.__res_dict
+    def peek(self):
+def generateData(n):
+#!/usr/bin/env python3
+        porn.player = list(db_obj['player'])
+
+print_window(5, 2)
+                swapped = True
+    # for each size, need to take multiple measurements
+    def reduced_form(self):
+class Silly:
+    def get_porn(self, porn_uuid: str):
+#!/usr/bin/env python
+    return open(os.path.join(DIRECTORY, name), **kwargs)
+    """
+            return hasher.hexdigest()
+            raise TypeError('Input must be an integer')
+    target_player = None
+from flask import render_template, request, g
+The adapter for SAE storage service.
+                except SocketTimeout:
+                index_node.previous = new_node
+        self.__cause__ = None
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+
+                except SocketTimeout:
+"""
+
+
+
+        target_file_name = filter['name']
+    def __init__(self):
+_LOG_VER_ = '0.2.4'
+from flask.ext.restful import Resource
+
+            fullYearLocation = os.path.join(saveLocation, yearName)
+
+    hours = seconds // 3600
+    except:
+            max_right = sum_sub_sequence
+'''
+
+        self._logger.debug('Using RSA key length of %s' % _RSA_KEY_LENGTH)
+# -*- encoding: utf-8 -*-
+        """Push an item into the stack."""
+
+
+    try:
+        char_pool.append(seed[random.randint(0, 51)])
+
+        # rsa cryptor
+        return super(StackError, self).__str__()
+        """Search for the first node with given content.
+        """Get next key."""
+    def __init__(self, host=HOST, port=PORT):
+        assert isinstance(data_, ShortURLData)
+        if not os.path.exists(self.master_config_path):
+class PluginLoader:
+        for name, plugin in self._pluginList.items():
+            for rootName, dirName, fileNames in os.walk(os.path.join(rootDir, lang)):
+"""
+                elif orCharSqr[i] == ')':
+# -*- encoding: utf-8 -*-
+def usage():
+        """Initialise a new language pack."""
+"""
+    def __init__(self):
+    print('Copied %s' % file)
+        m       = in_file.readline()
+# -*- encoding=utf-8 -*-
+
+    def test_name(self):
+        with open('test_2.json') as f:
+
+__author__ = 'Nb'
+        print(file_path)
+def parse_gallery_detail_page(url: str):
+        self._s = [i for i in range(256)]
+
+    """
+    """Stack overflow."""
+        position += 1
+
+    """
+                            'core': core,
+
+            'Name: %s' % self.name,
+
+                for _player in player:
+# API
+                res_wheel.extends(extends_wheel)
+Copyright 2015 Nb<k.memo@live.cn>
+                    index = url.split('?id=')[1]
+class SocketTimeout(SocketError):
+			continue
+"""
+        if steps > start:
+class SkipList:
+            ''.join([iso_lang_code.upper(), '_', res_name.upper()])
+    x = input_file.readline().rstrip('\n')
+
+# -*- coding: utf-8 -*-
+    RESET_ALL_KEY = b'09'
+
+
+            while RETRY_COUNT <= 3:
+
+            ABUNDANT_LOGGER.error('Invalid hash algorithm: %s' % algorithm)
+    while m != '':
+            current_node = LinkedListNode(item)
+    for token in tokeniser.get_next_token():
+# create manager
+
+Versions of components of Illuminar.
+    def run_test(self, data):
+		logFile << flush;
+            if file_name.lower() in file.lower():
+    def add_child(self, child):
+        try:
+
+        # scan all plugins and import them if valid
+for thread in thread_pool:
+    # BDSM
+        #         there is only one item on the stack, just pop it and return it
+    
+            factor_list.append(i)
+GENERATE_TYPEDEF = False
+def merge_sort(array: list):
+
+
+            'SaveTo': 'D:/BVB Fanabteilung',
+    elif request.method == 'POST':
+
+
+
+# otherwise load from current directory
+                           output_text=u'在此輸入要解密的文字')
+            return make_error_response(404, 'Version not found')
+elif choice == '3':
+    def extends(self, wheel):
+        
+    def insert(self, data, index: int, forward_insert=False):
+    print("Processing...")
+    # parse event index
+        map(lambda url: '%sJPG' % url, pattern.findall(event.text))
+    from sae_adapter.kvdb_local import KVDBMan as KVDB
+        li = read_file.readline()
+        """Access item by index."""
+
+    
+        print('INFO: Plugin %s stopped.' % __file__.split('/')[-1][:-3])
+        else:
+    x = calculate_cost("news1.txt", lc_dict)
+        return super(QueueError, self).__str__()
+class MySQLMan(object):
+    def __iter__(self):
+            my_index.add_msg_and_index(li)
+#define EXTERNC extern \"C\"\
+            return make_error_response(500, str(e))
+            else:
+'''
+    author='Kevin/Nb',
+if __name__ == '__main__':
+        su = su_man.get(short_url_uid)
+        #         compute the result, push it back onto the stack
+            if possible_representation in porn.file_name:
+    """A basic client implementation."""
+        return cipher
+    """Config manager for porn."""
+# -*- encoding: utf-8 -*-
+for line in f.readlines():
+
+		logFile << flush;
+        a custom local UNIX timestamp can be passed in
+	return result;
+try:
+
+        {\
+
+            labelFrequency[label] = labelFrequency.get(label, 0) + 1
+
+        if self._kvdb.get(key) is None:
+"""
+            try:
+    @property
+                ))
+            porn.name = new_info['name']
+        print('>', eval(adder_list))
+        print('Found %s ids' % len(results))
+        Correctness guaranteed. No bugs in this class.
+__author__ = 'Nb'
+
+            return x * y
+# threading classes
+    @property
+    seed_pool = []
+    spline_prep = sp.interpolate.splrep(key_np, value_np)
+
+
+                try:
+    else:
+
+        """
+def find_maximum_sub_sequence(sequence: list, low=-1, high=-1):
+
+print('Please enter your choice:\n'
+
+    pass
+        for j in range(len(screen[i])):
+
+    def add(self, data_):
+        if len(result) < 1:
+        """Get an archive."""
+            self.stack.push(self.do_op(self.stack.pop(), self.stack.pop(), x))
+        self.session = requests.session()
+            yield self._encrypt(ord(char))
+__author__ = 'Kevin'
+
+"""
+    RESET_ALL_KEY = b'09'
+
+
+
+class MySQLMan(object):
+b = input('Enter another number: ')
+    def __init__(self, UID):
+        """Set a new default language and push it to all created language packs."""
+                json.dump(config, config_file)
+    app.run(host='0.0.0.0')
+        print("0")
+            content = [key_, value_]
+    @property
+        self.__sides = sides
+    try:
+        """Check if a k-v pair exists."""
+
+            in_pool, out_pool, error_pool = select.select([self._soc], [], [])
+        return __PluginMix
+    results = [
+"""
+    expression = ''
+"""
+            self.init_config = json.load(raw_init_config)
+    return os.path.basename(porn_full_path)
+
+    for file in files:
+
+        """Start method will be called while being loaded."""
+
+        """Get readings from a certain pin."""
+
+            if self.__daemon_thread.is_alive():
+    A simple implementation of the Kth Nearest Neighbour algorithm.\n
+    daniel
+def failed(detail='Request failed', **kwargs):
+Helper utilities.
+        self.content_stack = Stack()
+        return 1
+        if self.alive():
+    PHOTO_DETAIL_URL_POOL.put(PHOTO_DETAIL_PAGE_BASE_URL % i)
+        """Generate a standard private-public key pair for RSA."""
+        print(e)
+    def creation_time(self):
+
+        return self.stack.peek()
+            try:
+    return map(len, columns(columns([[1] * e for e in data])))
+    PY_FLOAT_NAN = float('NaN')
+        self.next = next
+    target_player = None
+    '''
+
+    
+)
+    """
+        '''
+__author__ = 'Nb'
+            stack_machine.feed(x)
+
+for function in dir(hello):
+from typing import Dict, Union, List
+Algorithm for finding the maximum sub-sequence of a list.
+                            language = res_dict['Language']
+        except IndexError:
+        self.items.append(item)
+           or 'bootstrap' in path or 'flat-ui' in path or 'doc' in path_set \
+
+            Returns this burger's _desired_doneness
+    def __getitem__(self, item: str):
+_RESTFUL_LOG_PATH_ = os.path.join(os.path.dirname(__file__), 'log/restful.log')
+    last_time_sec   = mktime(strptime(last_time))
+                               ) if original_params else ''
+
+    def get_w(self):
+
+    response = dict(kwargs)
+
+        for cipher_int in cipher:
+    def __init__(self, meta, data):
+    return sum_
+    ENTRANCE_LOGGER.debug('Request an non-existing page %s' % request.url)
+
+        md5_hasher.update(chuck)
+    def __init__(self):
+
+}\
+    Use it like this:
+distributed under the License is distributed on an "AS IS" BASIS,
+#!/usr/bin/python3
+    backupCount=1, delay=False
+    num_lines = 0
+class WebTechnologies(Classifier):
+        x = self.items[-1]
+
+    'Troi',
+"""
+    :param allow_inf: when set to True, Inf and
+
+        print('Oops')
+    """Collects exceptions for diagnostic."""
+
+        if globalError == 0.0 or iteration >= 10:
+CORE_TO_FILE.setFormatter(LOG_FORMAT)
+        if LanguageManager.__UNIQUE_MANAGER is None:
+try:
+This file provides proper access to code related information.
+# -*- encoding=utf-8 -*-
+            def __next__(self):
+        self.address = (host, port)
+
+        if not os.path.isfile(path) and not os.path.isdir(path):
+    @param response_parser: The parser for parsing the raw response.
+import random
+See the License for the specific language governing permissions and
+
+    'Referer': 'http://bvb-fanabteilung.de/fotos/foto-archiv/',
+        example_dict = {
+def get_capital_permutations(name_seq: List[str], id_seq: str):
+    :param key: Keys.
+def main():
+    def __str__(self):
+
+                print('iterations', iteration)
+Question 1
+        for item in iterable:
+    def __init__(self, timeout: int):
+        except sae_adapter.kvdb_err.KeyExists:
+
+
+from hash import VALID_ALGORITHMS
+        for rootName, dirName, fileNames in os.walk(pluginPath):
+
+
+    def push(self, item):
+    print("is_suffix('racecar', 'car') =", a)
+    yb = (rand(n) * 2 - 1) / 2 + 0.5
+    else:
+#######################
+    bytes_in_integer = [int(int_string[::-1]) - offset for int_string in obscure_text.split()]
+    def country(self):
+main()
+__author__ = 'Nb'
+    expression = ''
+        self.message = 'Invalid resource at %s' % lang_res
+    pass
+        self.assertEqual(self.FILM.release,
+
+    if LOCAL_DEBUG:
+
+        n is an integer
+
+    data = add_validation_bit(data)
+
+    
+# !usr/bin/env python
+        """Encrypt a stream of string."""
+__author__ = 'Nb'
+        elif user_input in OPERATOR_CAST_DICT:
+        self._db = sqlite3.connect(db_path, check_same_thread=False)
+            return su
+        with open_and_save(self.config_path, save=False) as config:
+            param_names = list(param_pair.split()[-1].lstrip().rstrip()
+
+
+    'Referer': 'http://www.fotos-kirsche.de/gallery/index.php'
+import traceback
+
+        l is a list of integers
+"""
+        if capacity != -1 and capacity < 1:
+ox = []
+        """Tell if there still element to be popped."""
+        keys_interpolated, values_interpolated = interpolate(keys, values, 3600)
+
+
+    from wsgiref.simple_server import make_server
+    read_file.close()
+        self.hasher = binascii.crc32(byte, self.hasher)
+                    break
+
+        )
+        self.host = host
+import os
+        updates the weights status, w at time t+1 is
+# parser
+# -*- encoding: utf-8 -*-
+        multiple_input = ['EventURL', 'EventIndexURL']
+    def __init__(self, token: Token):
+except Exception:
+        return cls._instances[cls]
+    elif number % 5 == 0:
+            '_xsrf': xsrf,
+                            wheel_name = res_dict['WheelName']
+def main():
+
+
+    running_time += end - begin
+    x = input_file.readline().rstrip('\n')
+        if isinstance(key, unicode):
+
+            print('Invalid choice\n')
+# -*- encoding: utf-8 -*-
+        rsa_uid = send_all_to(self._soc, public_key_serialised, self.address, Header.RSA_KEY_EXCHANGE)
+                          v.pop(), v.pop(), v.pop(), v.pop()]
+    IDENTIFIER_TO_PYTHON_DICT = {
+for porn in PORN_DB.porn:
+                    send_all_to(self._soc, 'OK', self.address, Header.RSA_KEY_RESPONSE, uid=uid)  # ok response
+class Python(Classifier):
+    'CockyBoys': 'Cocky Boys',
+                            'restful': restful,
+
+print_window(5, 2)
+        updates the weights status, w at time t+1 is
+        """
+
+        """While entering."""
+        """
+        """Get a wheel."""
+
+    def delete(self, archive_uuid: str, uuid: str):
+
+PORT = _CONFIG['ListenPort']
+        if len(result) < 1:
+
+
+        self.previous = previous
+            if first_number:
+PHOTO_DOWNLOADED = 0
+        self.__currentLanguage = None
+        #         return False otherwise
+            'ArchiveDirectory': archive_dir,
+
+            print(self.convert_to_celcius(in_degree))
+
+If you do not understand what these sections represent,
+        """Add a porn."""
+    '''
+    for perm in get_capital_permutations(get_capital_combination(name_seq), get_abbr(name_seq)):
+            print("%s\n" % path)
+        pass
+
+        if parameters is not None:
+    'Tommy Regan',
+                return _porn
+
+
+# main application
+LOGGER.debug('Reading config...')
+    def run(self):
+            raise ConnectionError('Cannot retrieve information for this id')
+    return [[item * number for item in sub_list] for sub_list in matrix]
+        """Tell if there still element to be popped."""
+__author__ = 'Nb'
+                kv_pair.value = JSONObject.from_python(v)
+
+    def __enter__(self):
+
+__author__ = 'Kevin'
+            if 'thumb' not in url
+    @functools.lru_cache(3)
+                continue
+    print(num_errs, "wrong out of", len(data))
+        return False
+def matrix_scalar(matrix, number):
+                                      % algorithm)
+
+        """Load the config."""
+# -*- encoding: utf-8 -*-
+sys.path.append(os.path.dirname(__file__))
+# to 7.
+_STD_OUT_HANDLER = logging.StreamHandler(sys.stdout)
+            return self.__res_dict[item]
+
+
+
+        del self.buffer[:]
+#%% Search for a word
+
+    def _PluginMixin(function):
+        self.logger.info('Using user id \'%s\'' % userId)
+
+        # let's examine the stack content
+"""
+    def __init__(self, mongo_host: str, mongo_port: int, db_name: str):
+if __name__ == '__main__':
+        if b'Nicht gefunden' not in photo.content:
+def k_greatest(l, k):
+    else:
+
+__author__ = 'Kevin'
+                    fromlist=['%s.%s' % (self.__defaultLanguage, pack.uid)]
+    with open(article, mode='r', encoding='utf-8') as f:
+    fp = open(filename + ".cpp", "w+")
+
+    """A basic client implementation."""
+        return False
+
+    for i in range(2, N + 1):
+        for b in range(a + 1, len(l)):
+        """Readable string."""
+        A is a 2D list of integers representing a matrix.
+            return ''
+
+    def Callback(self, functionName: str, result):
+"""
+
+    def add(self, key_pair):
+            raise ValueError
+                            'restful': restful,
+
+    first_name, last_name = name.split(', ')
+            max_left = sum_sub_sequence
+# -*- encoding: utf-8 -*-
+_________________________
+                    self.run_test(test_data)
+
+class Test(unittest.TestCase):
+            if combination[i+1] - combination[i] < d:
+
+class Stack:
+
+# -*- encoding=utf-8 -*-
+    def scan_res(self):
+    MessageBoxW(NULL, L\"DLL Hijack! by DLLHijacker\", L\":)\", 0);\
+    def __init__(self, information: str):
+#!/usr/bin/python3
+    print("close_pairs([1, 2, 5], 2) = ", close_pairs([1, 2, 5], 2))
+        for char in plain:
+    raise RuntimeError('Unable to determine platform and therefore could not configure database')
+                         '2013-04-23(纽约翠贝卡)')
+        else:
+    'Jake Steel',
+DELAY_BOUND = 10
+        self.message = 'Requested socket did not respond in %s seconds and is thus aborted' % timeout
+class DoubanFilm:
+        self.logger.debug('Acquired XSRF list: %s' % xsrf)
+if __name__ == '__main__':
+    def test_serialise_json(self):
+
+        """
+        for i in range(self.sonnet_index[signal], self.sonnet_index[signal] + 17):
+
+api.add_resource(YunRealtimeReadingsAPI, '/api/realtime/')
+    'path': '',
+
+            label = tpl[1]
+    'Content-Length': '162',
+
+    elif number % 5 == 0:
+        self._meta_man = MetaDBMan()
+
+    elif number % 3 == 0:
+Question 1
+    def creation_time(self):
+        csv_writer = csv.writer(file)
+        expression += x + ' ' 
+
+        pass
+LOGGER.info('Crawler will run with %i threads' % THREADS)
+You are setting section [%s] to
+    def __exit__(self, exc_type, exc_val, exc_tb):
+    handler.setFormatter(FORMATTER)
+
+Guess the brand of the file.
+    is then transferred to PluginManager.Callback which would send the result to observing
+limitations under the License.
+    triangle[x] = triangle[x].split(" ")
+    expression = ''
+
+
+    def data(self):
+                print('%s: Resource unavailable %s' % (self.getName(), url))
+    return result
+            if field_content == 'quit':
+class JSONUnitTest(unittest.TestCase):
+
+Copyright 2015 Nb<k.memo@live.cn>
+        return self._kvdb.get(key) is not None
+#####################################
+
+        self._vip_pool.append(x)
+        assert isinstance(address, tuple)  # for PyCharm type hinting
+    :param file_name: File name.
+        return result
+                    "http://bvb-fanabteilung.de/fotos/saison-20142015/34-spieltag-borussia-dortmund-sv-werder-bremen/"
+    """
+            start = now = time.time()
+    if chr(i) in data.keys():
+from yun.heart_rate_adapter import get_heart_rate
+        while current_node is not None:
+import logging.handlers
+#%% Initialization of the index
+    out_file    = open(in_file_name + '.time', 'w')
+            matching_porn += 1
+    def __str__(self):
+        '''Convert a temperature to Fahrenheit.
+        todo: implement the delta update rule
+
+
+        
+def patch_std_stream():
+
+This is
+#!/usr/bin/env python
+api.add_resource(PornRes, '/api/porn/<uuid>/', endpoint='/api/porn/<uuid>/')
+
+
+        if isinstance(key, unicode):
+            analyse(code_files, item())
+        """
+EVENT_URL_POOL = queue.Queue()
+        url for url in
+
+                        self.res_registry[(wheel_name, language)] = res_full_path
+#!/usr/bin/python3
+'EventURL' is the list of URLs of event. Event refers to a single
+
+    def test_k_greatest(self):
+    def get(self, html_new_line=True):
+
+name_macthing = 0
+#!/usr/bin/env python3
+class _HeartRateThread(Thread):
+class SAEAdapterError(Exception):
+for porn in PORN_DB.porn:
+# -*- encoding=utf-8 -*-
+    fp.writelines(segments)
+        # right now, we are putting nothing into expression.
+class Temperature():
+
+
+            if 'ExtendsWheel' in res_dict:
+        so that they can perform further process.
+        pattern = re.compile(r'a href="(\S*)(?=JPG)')
+threadPool = []
+# utilities
+        signal = self.arabic_map.get(sonnet_number, None)
+        generate(exportTable)
+                            "PYTHON": "I LOVE IT",
+    description='Where stars glow.',
+    if check_validation_bit(full_data[5:]):
+# persistent storage directory
+    'ArchiveDirectory': '',
+        print(error, end='\n\n')
+        porn.add_tag('Raw')
+import csv
+#!/usr/bin/env python3
+        for current_tag in self.tag:
+        else:
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    if stat is None:
+        list_.append([])
+
+        print("0")
+            result_list.append(i)
+
+        return os.path.join(self.cfg['ROOT_PATH'], self.cfg[cfg_key])
+
+
+        elif header == Header.NULL:
+
+print(INDEX_PAGE.text)
+
+        k is an integer such that k <= len(l)
+
+
+    {\
+        if forward_insert:
+        '''
+weekend = DoubanFilm(4766100)
+Config is stored in the file named 'config.json' in standard
+_________________________
+    
+            print(num_lines, '...')
+        ww = self.w / n
+    if a % 2 == 0:
+        if LanguageManager.__UNIQUE_MANAGER is None:
+
+                return tag.text
+        self.msg = message
+    print("can_place_bulls([8, 6, 24, 16, 25], 4, 3) =", f)
+    def __init__(self, film_id: typing.Union[str, int]):
+    """Login."""
+
+print(weekend.type)
+        if 'href' in raw:
+        if key not in data.keys():
+    def imdb(self):
+
+            if abacus[j][i]:
+        self.msgs.append('')
+    @property
+                    send_all_to(self._soc, 'OK', self.address, Header.RC4_KEY_RESPONSE, uid=uid)  # ok response
+        if target_tag:
+
+        PORN_DB.sync()
+    main()
+#!/usr/env/bin python
+        Returns a list containing the index of the k greatest elements in l
+
+__author__ = 'nb'
+    def is_empty(self):
+                self.head.previous = None
+    """Raised when the lang resource is invalid."""
+        # generate uid(key)
+def swap(object_a, object_b):
+
+    'Dani Robles',
+    obscure_text = base64.b64decode(obscure_text.encode('utf-8')).decode('utf-8')
+def flatten(A):
+    
+_STD_OUT_HANDLER = logging.StreamHandler(sys.stdout)
+}
+        with open(res_path, mode='r', encoding='utf-8') as res:
+from data_db import *
+class RunIt(Thread):
+    except:
+class Python(Classifier):
+        meta = ShortURLMeta(
+#!/usr/bin/python3
+        self.assertTrue(self.X.is_empty())
+
+            counter += 1
+    def actor(self):
+        self.assertEqual(self.FILM.name,
+    for i in range(10, 10**D-1):
+    'Cache-Control': 'max-age=0',
+        while self._vip_pool:
+
+
+@lru_cache(3)
+    """A node."""
+
+        # constants
+you may not use this file except in compliance with the License.
+            result = (in_fahrenheit - 32) * 5 / 9
+    """Only used when the short url uid is known to be correct and user has privilege to access it."""
+    Popen('%s "%s"' % (MPC_EXEC, find_video(file_name).actual_path))
+    raise error
+import os, sys, time
+        """Write into buffer."""
+        self.add_to_name = {}
+            pack._UpdateCurrentLanguagePack(
+
+    for i in range(0, 2 * y + 1):
+            GLOBAL_CLI.evaluate(request.form['command'])
+from selenium.webdriver import Firefox
+print(weekend.type)
+        if self.alive():
+    li = read_file.readline()
+
+        assert isinstance(meta, ShortURLMeta)
+"""
+    Parser(Tokeniser(azure_test.read())).parse()
+
+print('5 dollars equals %s %s' % (testLang('CURRENCY_SYMBOL'), 5 * testLang('TO_DOLLAR_CURRENCY')))
+                # rsa key exchange procedure
+# Merge sort definition
+    def response(self, x):
+    for porn in not_branded_porns:
+        self.timeout = timeout
+                return
+"""
+        Returns the tuple (i, j) such that A[i][j] is the greatest entry in A
+
+            return args[0]
+            if 'ExtendsWheel' in res_dict:
+
+        elif user_input == 'q':
+PHOTO_DETAIL_URL_POOL = Queue()
+"""
+    @property
+                    break
+    xr = (rand(n) * 2 - 1) / 2 + 0.5
+
+        return self.num
+    # The outputs are None but the stack should obviously get updated
+STATE_IDLE = 0
+class JVM(Classifier):
+            _LOGGER.debug('Created directory [%s]' % path)
+    """Login."""
+        return False
+                           porns=REQUESTED_PORN,
+
+                    pass
+
+__author__ = 'Nb'
+import os
+        '''
+
+                raise ConnectionError('Error loading page for id *%s*' % self._film_id)
+    GLOBAL_CLI = CLI()
+class ValidateAccessPIN(Resource):
+    return User.objects(uid=uid).first()
+    def put_file(self, file_name, content):
+                return {}, 400
+    def _get_file(self, n: int) -> str:
+            uid = uid.encode('utf-8')
+See the License for the specific language governing permissions and
+class NoSuchShortURL(ShortURLError):
+'''
+        self.__function_finished = False
+        self._key = [ord(char) for char in key if ord(char) < 256]
+LAST_CREATION = time.time()
+
+# -*- encoding: utf-8 -*-
+# -*- encoding: utf-8 -*-
+        """Get a version."""
+
+
+
+    def get(self, uid):
+# see PluginLoader.__new__ for more detail
+
+
+Local implementation of MySQL db.
+                current_index += 1
+print('NOTICE:\n'
+            return make_error_response(400, 'Invalid request parameter')
+        sum_sub_sequence = sum((sequence[i] for i in range(middle, i + 1)))
+main()
+
+    'Dennis West',
+
+
+    """
+        if choice == '0':
+        return socket.gethostbyaddr(ip_address)[0]
+# !usr/bin/env python
+# -*- encoding: utf-8 -*-
+        return self.__current_doneness > self.__desired_doneness
+def print_window(x, y):
+
+    everything = get_everything(PORN_DB)
+
+            key = key.encode('utf-8')
+    It includes following methods:\n
+                for fileName in fileNames:
+PHOTO_SKIPPED = 0
+        try:
+
+#      install_requires=['Django>=1.3'],
+
+        # test
+
+# main()
+    forward_dll_exp_func = ""
+        return self
+
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:36.0) Gecko/20100101 Firefox/36.0',
+
+#!/usr/env/bin python
+
+        @param sensor_reading: The reading of the sensor.
+import os, sys, time
+#!/usr/env/bin python
+        d = RSA._get_mmi(e, r)[0]  # the first one is the mmi of e modulus r
+
+    for i in range(length):
+        combination_feasible = True
+    print('\n%s\n' % ('=' * 48))
+    'Pleasant': 2,
+                if pow(a, (pow(2, r) * d), n) == -1:
+        if a > b:
+    def creation_time(self):
+    print(p)
+            forbidden_roll is an integer
+Question 2
+def main():
+
+        return x.isdigit() and float(x) > 0
+
+            _hunger_rate.
+        instance. If __MANAGER__ is None, in other words no instance has been
+
+            raise kvdb_err.KeyNotExists(key=key)
+
+exception_collector = ExceptionCollector()
+        if user_input.isdecimal():
+
+threadPool = []
+    return a.endswith(b)
+
+            0
+        return self._meta_man.exists(uid) or self._data_man.exists(uid)
+                data[i] = j + 1
+    """
+        while True:
+
+    low = 0 if low == -1 else low
+            if os.path.exists(full_name):
+    def add(self, key_pair):
+        _logger.debug('Received: %s' % full_data)
+        with open('test_2.json') as f:
+        json = request.get_json(silent=True)
+    A JSON element.
+__author__ = 'Kevin'
+
+# -*- encoding: utf-8 -*-
+
+print('INFO: Result of sample function is %s' % Astra())
+
+        # construct
+        """Print sonnet number x."""
+        thanksPattern = re.compile(r'<span class="zm-profile-header-icon"></span><strong>(.*)</strong>')
+    def append(self, data):
+        self._data_man.add(data)
+
+
+# mount sae storage to /s/
+
+            A different implementation could have returned 'useless string' 
+            break
+    ENTRANCE_LOGGER.info('Starting flask server')
+                res_wheel.extends(extends_wheel)
+            self._s[i], self._s[j] = self._s[j], self._s[i]
+
+
+#!/usr/bin/python3
+    file_name = ''.join([photo_id, '_', url.split('/')[-1]])
+    print('File is valid')
+
+                new_node = LinkedListNode(data, previous=second_node, next=index_node)
+
+                if x[2] != r:  # if we have a wrong response
+#ifdef ENABLE_CONSOLE
+        self.archive_records.append(archive_record)
+        print(len(self.sect_index))
+STATE_WORKING = 1
+            return node
+class QueueError(Exception):
+    """Check validation bit of given byte sequence."""
+section of config.
+"""
+            raise FileNotFoundError('Archive directory has already been used: %s' % archive_dir)
+
+    def print_stack(self):
+    def __init__(self, zhihuSession: Zhihu, userId: str):
+    """
+            current_node.previous = previous_node
+        expression += x + ' ' 
+
+        removalList = []
+
+    os.path.split(os.path.split(__file__)[0])[0],
+            self.__function_finished = True
+from .linked_list import LinkedList
+    else:
+                self.sect_index[sonnet_count] = (line_no, line_no + 15)
+    for porn in not_branded_porns:
+    error.__cause__ = None
+import sys
+        for key, value in self.__ext_res_dict.items():
+
+    # obscure_text = unicode(obscure_text, encoding='utf-8')
+                    for fileName in fileNames:
+import numpy as np
+OPERATOR_MINUS = 1
+                        can_place_bulls([40, 35, 24, 11], 2, 20) == True and \
+        }
+LOG.addHandler(PORN_LOG_STD_OUT_HANDLER)
+            porn_added = True
+    def add(self, key_pair):
+        self.tag = []
+
+        stack_machine.print_stack()
+CURRENCY_SYMBOL = '¥'
+        if hasattr(self, 'message'):
+
+        # validity check
+    if len(one_list) != len(another_list):
+        self.__init__(self.file)
+            raise short_url_err.InternalDataInconsistent
+    """
+        self._parent = None
+class StandardStream:
+print('Factors under 5 of %s are following: ' % user_input, end="")
+    print("can_place_bulls([6, 8, 16, 24, 25], 4, 3) =", d)
+_RSA_KEY_LENGTH = _CONFIG['RSAKeyLength']
+
+        Returns the tuple (i, j) such that A[i][j] is the greatest entry in A
+        meta.visited_times += 1
+    print('Processing id %s' % film_id)
+    For inheritance only. Do not construct."""
+        entries and the n greatest entries.
+    daniel
+            key = key.encode('utf-8')
+    'BoundGods': [['BG'], 'bound god'],
+        return Frac(num, denom).reduced_form()
+
+        if parameters is None:
+__author__ = 'Kevin'
+
+                language = res_json['Language']
+import os
+
+_CONFIG = json.load(open('server.json'))
+def len_sum(l):
+Log configurations.
+)
+            print(word)
+    def __init__(self, email: str, password: str):
+        if not porn_added:
+
+    print('Input expression cannot be understood')
+# !usr/bin/env python
+        self.__defaultLangPack = defaultLangPack
+        return self.__exception
+import pyHook
+        global _last_time, _current_state
+    """"Manager of the meta database."""
+    @property
+        self.function_bound = function
+from z_platform import RUNNING_ON_OPENSHIFT
+
+    while m != '':
+
+if __name__ == '__main__':
+
+    def __setitem__(self, key, value):
+            r = response(x)
+                except FileExistsError:
+
+    """The base error for all critical errors.
+        will be sent to current process.
+
+# restful api
+        instance. If __MANAGER__ is None, in other words no instance has been
+    """A zhihu user."""
+            return index_node
+
+
+
+    RC4_KEY_EXCHANGE = b'02'
+        if isinstance(file_name, unicode):
+    try:
+
+        self.points = {}
+
+    def add_msg(self, m):
+    """For generating exception."""
+
+import requests
+
+#!/usr/bin/env python3
+            print('Invalid choice\n')
+from typing import Dict, Union, List
+b = input('Enter another number: ')
+def interpolate(key: Iterable[float], value: Iterable[float], resolution: int) -> 'np.ndarray':
+                "URL2": [
+                current_index += 1
+        pass
+    def run(self):
+# -*- encoding=utf-8 -*-
+            print(expression, '==>', result)
+        """Initialise a new language pack."""
+def lookup_host_name(ip_address: str) -> str:
+    Try to write code that uses a for-loop like above and only prints the word 
+    """
+def open_with_save(path: str, save_change=False, encoding='utf-8', **kwargs):
+        """Check if password is correct."""
+    data = add_validation_bit(data)
+        y = x[0] * self.w[0] + x[1] * self.w[1]
+
+please write down the table entries here:
+    def get(self):
+        return (n, d), (n, e)
+        with open(full_file_name, 'wb') as file:
+    """Find valid Douban film ids on this page."""
+    try:
+
+
+        if x[2] == 1:
+ENTRANCE_LOGGER.addHandler(RotatingFileHandler(
+    xr = (rand(n) * 2 - 1) / 2 + 0.5
+for line in x:
+import os
+
+                        ']'])
+
+
+    # Generating random unsorted lists for the sort functions to work on
+    :type username: unicode
+    only operate on the attributes of the returned object
+
+for app in launchList:
+"""
+
+    trains all the vector in data.
+class MySQLError(SAEAdapterError):
+import numpy as np
+    def delete(self, key):
+@lru_cache(3)
+
+from crawler import *
+    def get_file_properties(self, file_name):
+                            'front_end': front_end
+
+        self.loop_times = loop_times
+        '''
+    for i in range(0, len(A)):
+    _logger.debug('Sent: %s' % data)
+
+    """Parse events in a separate thread."""
+            yield chr(self._decrypt(cipher_int))
+                save_photo(download_photo(photo_url), full_path)
+
+        # establish distance - label set for sorting
+    """Heart rate sensor state."""
+
+            self._s[i], self._s[pos] = self._s[pos], self._s[i]
+            TestException._exception_class = locals()[exception_type]
+    }\
+
+# -*- encoding: utf-8 -*-
+            self.tag.remove(target_tag)
+
+
+from pyplot_sorting_zz import bubble_sort, merge_sort
+            print(adder_list)
+
+    now = ctime()
+        return self.msgs[n]
+                try:
+def parse_photo_identifier(photo_url: str, save_directory: str):
+def main_(N: int):
+"""
+                            wheel_name = res_dict['WheelName']
+            In other words, if f = Frac(2, 4), f.reduced_form() would be the 
+        self.assertEqual((4, 10, 12), scale_tuple((2, 5, 6), 2))
+
+            print(data[chr(i)].pop(0), end=',')  # start from head
+    if a % 2 == 0:
+                raise ValueError('Lower than absolute zero')
+
+
+def main():
+UTIL_VER = '0.1.7'
+        uid_pool.append(seed[random.randint(0, 35)])
+    result = pattern.findall(indexPage.text)
+        screen[position[0]][position[1]] = screen[newPosition[0]][newPosition[1]]
+        self.lower = lower
+      url='http://www.python.org/sigs/distutils-sig/',
+    seconds = int(input('How many seconds are there? '))
+
+
+    def _xor(self, plain: int) -> int:
+        return (m_hModule != NULL);\
+        '''
+    @staticmethod
+        """Execute some command."""
+        self.__soup = None
+if RUNNING_ON_LOCAL_ENV:
+print(testLang.currentLanguage)
+
+"""
+
+
+                print('Encryption is mandatory')
+        """Get a wheel and its prototype wheel."""
+        self.message = 'Data corrupted'
+
+                plugin.PluginAgent.Start()
+    @property
+    def index_msg(self, m: str, l):
+    @property
+        target_player = [player for player in filter['player'] if player]
+        #         else if it's an operator, pop two items and 
+
+    if os.path.exists(full_file_name) and os.path.getsize(full_file_name) > 100000:
+import contextlib
+
+    number = int(input('Enter a number: '))
+        learned = False
+    message = 'Cannot push into a full queue'
+        """Create a server."""
+
+        self.username = userId[0]
+    print(a - b)
+
+        return meta
+                print('ERROR: Error initialising plugin %s -> %s\n'
+        else:
+    'Host': 'reg.163.com',
+    yb = (rand(n) * 2 - 1) / 2 + 0.5
+"""
+                        close_pairs([1, 2, 5], 2) == 2:
+def handle_mouse_events(mouse_event: pyHook.KeyboardEvent):
+
+print(find_maximum_sub_sequence([-1, -2, -3, 2, 5, 7, 11, -5, -10, -9, 8, 7]))
+def main():
+    def __init__(self, language, adjective=''):
+from hash_util import encrypt, decrypt
+        sonnets.print_sonnet(number)
+        # modify: return total number of items in the stack
+def brand(brand: str):
+result = {}
+        
+__author__ = 'Nb'
+    # The close pairs are (1,2), (2,1), (2,5) and (5,2)
+        print('17')
+'''
+        uid, data = data_.uid, data_.data
+# -*- encoding: utf-8 -*-
+            and l[index_of_max(l)] = 17
+
+__author__ = 'Nb'
+        self.uid = uid
+        if i % y == 0:
+    @property
+        self.address = (host, port)
+
+        ]
+            user_input = input('> ')
+import bs4
+        trains all the vector in data.
+        diagonal if it is indexed by A[i][i])
+if __name__ == '__main__':
+
+    does not finish on time.
+            return args[0]
+                                "\n        __asm POP m_dwReturn[0 * TYPE long];\n    GetAddress(\"" + \
+        parameters = (
+    data read in. Custom parser should be able to handle
+    return response
+    daniel
+                return _porn
+    def __init__(self):
+
+
+            for photo_url in photo_urls:
+                # here SIGINT is translated to a KeyboardInterrupt
+
+{\
+
+                self.pos += 1
+        """Get a porn."""
+        if self._capacity != -1:
+        # create rc4 encryptor and set flag
+__author__ = 'Nb'
+                      'ERROR: Please check if there is any bug in PluginAgent.Start.'
+
+PORT = _CONFIG['ServerPort']
+        rc4_res_header, rc4_res_body, _, _ = receive_all(self._soc, uid=rc4_uid)
+    year = split_photo_url[-4]
+    flask.config.update(**config)
+    PHOTO_FOUND = PHOTO_URL_POOL.qsize()
+def make_success_response(**dict_items):
+r = Magic_Dice(5)
+            ''.join([iso_lang_code.lower(), '_', res_name.upper()]),
+
+        loginData = {
+        return self._meta.version
+def _generate_uid(uid_length=4):
+                json.dump(config, file)
+        if porn is None:
+            uid = unicode(uid)
+        :type previous: SkipListIndexNode
+        FARPROC fpAddress;\
+    def get(self, uid):
+    os.path.split(os.path.split(__file__)[0])[0],
+    main()
+            film = Film(-1)
+        if globalError == 0.0 or iteration >= 10:
+    @property
+    'Sean Duran',
+print(weekend._film_id.imag)
+LOGGER = logging.getLogger('BVB-FANABTEILUNG')
+__author__ = 'Nb'
+            open(_FRONT_END_LOG_PATH_, encoding='utf-8') as front_end:
+        password = request.form['short_url_pass']
+
+
+__author__ = 'Nb'
+    """
+            raise TypeError('Wrong input type')
+    return response
+
+
+# logger
+
+launchList = list(int(t) for t in input().split())
+
+        if isinstance(uid, unicode):
+    @return: The reading.
+'''
+import time
+    """Expand seconds to corresponding time period.
+        xx.append(x)
+        if location:
+@login.user_loader
+
+            ''.join([iso_lang_code.lower(), '_', res_name.lower()]),
+        :type player: Union[str, List[str]]
+
+
+
+
+                            "PYTHON": "I LOVE IT",
+
+            else:
+        elif op == '*':
+    start_from_event()
+    from sae_adapter.mysql import MySQLMan as METADB
+        else:
+    'Caleb King',
+        diagonal if it is indexed by A[i][i])
+    def load_cfg(self):
+            raise error.LangResourceIDInvalid(lang_res_id)
+    def print_sonnet(self, sonnet_number):
+Data db errors.
+    def print_stats(self):
+    def __init__(self):
+            'time': local_time.now(timezone.utc)
+pool.close()
+        self.bucket_name = bucket_name
+            return make_error_response(400, 'Incorrect usage of RESTful API')
+GUESS_BRANDS = {
+                               input_text=u'輸入的數據似乎不正確',
+        'DEBUG': YUN_API_CONFIG.flask_debug
+            _last_time = time.time()
+            raise ValueError('{0} is not a supported operation'.format(op))
+        self.insert(data, index=-1, forward_insert=False)
+# test
+
+
+                if _count == 0:
+}
+
+                            # e.g. 'Mon Jul  7 12:27:55 2014'
+            print(self.convert_to_celcius(in_degree))
+
+    @property
+                    rc4_key_plain = ''.join(self._rsa_decryptor.decrypt_stream(rc4_key_cipher_stream))
+    success = user_util.login(username, password)
+            d += r
+
+class ParallelCrawler(threading.Thread):
+    for i in range(2, limit + 1):
+
+        self.__init__(self.file)
+
+import socket
+#!/usr/bin/env python3
+}
+# !usr/bin/env python
+def main():
+            bucket_name = bucket_name.encode('utf-8')
+from sae_adapter import SAEAdapterError
+def _find_maximum_sub_sequence_across_boundary(sequence: list):
+    read_file.close()
+    names=['Richards, Alice', 'Thomson, Bob', 'Olson, Mary']
+            json_object.kv_pairs.append(kv_pair)
+
+        received_time += 1
+            return self._stack.pop()
+    except:
+# constants
+NUM_STEPS = 10
+        'diag_stat': 'OK',
+@app.errorhandler(405)
+            return self.message
+        if self.master_config.get_archive_record(archive_dir=archive_dir):
+
+    for file in files:
+#!/usr/bin/env python3
+if __name__ == '__main__':
+    for porn in db.porn:
+            stack_machine.feed(x)
+"""
+class Magic_Dice:
+        else:
+        Returns a list of integers which are the entries of A row by row.
+        
+
+_________________________
+    
+        self.__hungry_rate = hunger_rate
+            edit(config, 'EventURL')
+    traceback = unpack_exception_traceback(exception)
+    success = user_util.login(username, password)
+# However, the sample plugin has 'Astra' in its observing list and in that case
+Log configurations.
+
+        '''
+r = Magic_Dice(5)
+
+__author__ = 'Kevin'
+        global TIMER
+            number = int(number)
+        resultLower = [
+        """Start the server."""
+                    localPicture.write(picture.content)
+
+
+
+            API_LOGGER.info('Requested test exception %s' % exception_type)
+            else:
+            yield current_node
+
+
+        with open_with_save(self.db_path, save_change=True) as db:
+
+__author__ = 'Nb'
+params_template = '''<< "{name}: " << {name} << ", "'''
+        cursor.close()
+Base.
+        self.root_node = root_node
+def patch_std_stream():
+            target_coord = [i, j] if A[i][j] > max_ else target_coord
+    print("can_place_bulls([2, 14, 15, 22], 4, 2) =", a)
+__author__ = 'Nb'
+try:
+    """
+    'Content-Length': '162',
+            if not dir_name:
+#!/usr/bin/python3
+    return full_path
+        ]
+        newPack = LanguagePack(
+x = open('Filename.xxx', 'r')
+    'Johnny Hazzard',
+
+
+
+
+    def push(self, item):
+@app.route('/deobscure/', methods=['POST'])
+        self._private_key = private_key
+Fetch readings and store them into the database.
+        except sae_adapter.kvdb_err.KeyNotExists:
+    # download photos
+                    send_all_to(self._soc, 'OK', self.address, Header.RC4_KEY_RESPONSE, uid=uid)  # ok response
+        self.X.push(16)
+        if almost_divisible(k, N):
+        ox.append(x)
+            uid = uid.encode('utf-8')
+        """
+                            self.name_to_add[self.name_to_peer[self.add_to_name[address]]],
+
+            my_index.add_msg_and_index(li)
+#!/usr/env/bin python
+            raise ValueError
+
+    def __getitem__(self, n: int) -> str:
+
+            else:  # tail node
+from flask.ext.restful import Resource, reqparse
+        public_key_serialised = '%s,%s' % (n, e)
+func_body_template = '''EXPORT_C {return} STD_CALL {func} ({org_param}) {{
+
+    def LOG_PATH(self):
+
+from master_config import MasterConfigAgent
+'''
+class QueueOverflow(QueueError):
+    while not stack.is_empty():
+
+                                    0, 0, 0, 0))
+
+        return len(result) > 0
+
+        Use any list and tuple methods that you want.
+    """Short URL data."""
+            return failed('Could not raise specified exception type')
+__author__ = 'Nb'
+        return False
+        # modify: process the next line in the file, right now it is simply
+def bubble_sort(sliceable):
+      '3) Edit config\n'
+        CHAR szProcName[16];\
+def main_(N: int):
+
+main()
+    def __enter__(self):
+        for x in data:
+    'Colton Grey',
+    print("is_suffix('sandstorm', 'storm') =", b)
+
+"""
+
+    message = 'Cannot pop from an empty stack'
+
+    '01001110', '01000100',
+"""
+        return self._db.exists(uid)
+
+    print('score: ' + str(score))
+        """Print sonnet number x."""
+"""
+    trains all the vector in data.
+
+
+except ImportError:
+        return heart_rate.json
+        self.wd_freq_list = []
+        Set forward_insert to True to insert in front of the index."""
+
+
+        for k, v in python_dict.items():
+        self.message = 'Invalid resource at %s' % lang_res
+
+        if raw is None:
+
+        self._data_man = DataDBMan()
+            j = (j + self._s[i]) % 256
+    def days_since_creation(self):
+                PHOTO_DOWNLOADED += 1
+"""
+
+    results_lower = [
+with open('abundant_config.json', mode='r', encoding='utf-8') as raw_abundant_config:
+        assert len(kv_pair) == 2  # defensive
+
+
+        #         return False otherwise
+
+    def __init__(self, name):
+        """Reload page."""
+    error.__cause__ = None
+        """Tell if the stack is empty."""
+    __repr__ = __str__
+            score += 1
+
+        pass
+testLang = Lang.Request('Test')
+
+
+for j in range(threads):
+        if self._kvdb.get(key) is None:
+    return tuple(target_coord)
+        '''
+class JSONUnitTest(unittest.TestCase):
+
+_current_state = 0
+    else:
+"""
+
+    def peek(self):
+    """Porn as restful resources."""
+        full_path = os.path.join(root, file)
+    for dir, dirs, files in os.walk(directory):
+        """Get XSRF for logging in."""
+            LAST_CREATION = time.time()
+        There are 3661 seconds in this.
+"""
+
+#!/usr/bin/env python
+            values.append(float(time_slot_pair[1]))
+originalApp = list(int(t) for t in input().split())
+    for i in range(1, len(result_list) - 1):
+    """
+    my_index.search('and')
+            data=loginData
+    """Generate a short url."""
+
+    inline VOID WINAPI Free()\
+if __name__ == '__main__':
+    porns = PORN_DB.find_porn(tag=tag)
+    # pickle.dump(my_index, out_file)
+API_LOGGER = logging.getLogger('API')
+
+
+
+    Create a failed response.
+
+    """Generate a uuid."""
+
+# exceptions
+
+
+    start_from_event()
+        lc_dict = generate_cost_dict()
+        self.message = message
+        xsrf = xsrfPattern.findall(indexPage.text)
+        ox.append(x)
+        globalError = 0.0
+
+			output_obj.write('\n\n\n')
+        logger = logging.getLogger('KeyExc')
+    def updateWeights(self, x, iterError):
+
+        except KeyError:
+        self._db = KVDB()
+        while not enterPageUrlQueue.empty():
+    data_pool = []
+#%% Print top words, with (True) or without (False) the messages
+import pyHook
+    obscure_text = base64.b64decode(obscure_text.encode('utf-8')).decode('utf-8')
+"""
+def main():
+    """Login."""
+                uid_length += 1
+                except Exception as e:
+Licensed under the Apache License, Version 2.0 (the "License");
+    for exptable in exportTable:
+
+            same as Frac(1, 2).
+
+from queue import Queue
+from api.debug import ValidateAccessPIN, TestException
+           or 'bootstrap' in path or 'flat-ui' in path or 'doc' in path_set \
+from porn.config import CFG
+    processed = set()
+        show()
+
+        return Frac(
+You may obtain a copy of the License at
+__author__ = 'Nb'
+        return None
+    return sorted(brands)
+        """Iterate through the linked list in reversed order."""
+
+                               input_text=u'輸入的數據似乎不正確',
+''')
+
+            if line.split('.')[0] in self.arabic_map.values():
+            if response.status_code != 200:
+                    globalError += abs(iterError)
+
+    """Add validation bit to given byte sequence."""
+            result = self.roll()
+Local implementation of MySQL db.
+            raise QueueUnderflow from None
+        else:
+                if num_samples % self.test_steps == 0:
+
+    BASE_TEMPLATE = base_template.read()
+class KVDBMan(object):
+
+
+            if pow(x, 1, pow(2, s)) == 0:
+def patch_std_stream():
+    def write(self, content: str):
+        if x == 'q':
+
+    names=['Richards, Alice', 'Thomson, Bob', 'Olson, Mary']
+    """
+        # feed the data to hasher chuck by chuck
+def fizz_buzz(number):
+        '''
+on the navigation bar of explorer.
+            # set node reference
+        Returns the node and the index of this node."""
+    pass
+        if combination_feasible:
+                return self.__ext_res_dict[item]
+        self._db = KVDB()
+    if not os.path.exists(porn.path):
+import re
+MySQL errors.
+
+            uid = uid.encode('utf-8')
+    @property
+        """
+        return self._queue[-1]
+
+"""
+        '''
+    print(a + b)
+def find_film_id_on_page(film_id: int):
+            break
+time = []
+
+
+def parse_photo_detail_page(url: str, thread_id: str):
+        '''
+            return counter
+        # modify: if x is a positive integer, return True
+        assert len(kv_pair) == 2  # defensive
+"""
+def GetUrl(indexPageUrl: str) -> list:
+    # noinspection PyUnresolvedReferences
+    def __str__(self):
+    http://www.apache.org/licenses/LICENSE-2.0
+    # iterate list size from 1 to N
+            print('%s: Downloading %s/%s...' % (self.getName(), albumName, fileName))
+        #         there is only one item on the stack, just pop it and return it
+    return unicode(reversed(password))
+from z_config import Z_DB_NAME, Z_DB_URL
+
+xy = []
+    one to the constructor.
+    roman_int_f = open('roman.txt.pk', 'rb')
+                       'func': func_name,
+if __name__ == '__main__':
+        while self.exists(uid):
+    def __new__(cls, *args, **kwargs):
+    if chr(i) in data.keys():
+class Test(unittest.TestCase):
+
+        iteration = 0
+from ._parser import Parser
+    http://www.apache.org/licenses/LICENSE-2.0
+            raise StopIteration
+with open('config.json', mode='r') as file:
+print(interesting(1, 1000000))
+
+        index_node = self[index]
+        self._collection = self._db.get_collection(collection_name)
+    message = 'Cannot pop from an empty queue'
+def main():
+            su = ShortURL(meta, data)
+'''
+        There are 3661 seconds in this.
+        return len(self.items)
+    """Simulation of a node in the linked list."""
+
+        logger.info('RC4 key sent')
+    new_msg = new_msg.rstrip()
+                    rc4_key_plain = ''.join(self._rsa_decryptor.decrypt_stream(rc4_key_cipher_stream))
+    def __init__(self, raw_res_dict: dict):
+# if statement
+
+
+    
+            print(n,'is an integer.')
+
+        })
+f = open('data.txt')
+            cfg[cfg_key] = cfg_value
+
+
+    if is_url and not data.startswith(u'http://') and not data.startswith(u'https://'):
+# construct one
+            i %= 256
+"""
+            'rememberme': 'y'
+        # establish label - frequency set for sorting
+    def send(self, content: str):
+core_logger.debug('Core logger set up')
+        """
+
+class KNearestNeighbour:
+except ImportError:
+__author__ = 'Nb'
+    ww2 = [-ww[1], ww[0]]
+        if raw is None:
+        created yet, then create an instance and return it. Otherwise it would
+
+    'Randy Blue': [[], 'randy blue'],
+        return result
+# -*- encoding: utf-8 -*-
+    def run(self):
+'SaveTo' is the location where the photos downloaded will be stored
+    if b.overcooked():
+            )
+    ww1 = [ww[1], -ww[0]]
+
+    :param encoding: The encoding to be used to read the file.
+    return _result
+            continue
+    target_file_name = None
+    names=['Richards, Alice', 'Thomson, Bob', 'Olson, Mary']
+                break
+class MetaInfoNotExists(MetaDBError):
+                        porn.brand = brand
+from subprocess import Popen
+    @property
+# -*- encoding=utf-8 -*-
+            It works like roll but the result cannot be forbidden_roll.
+
+            out = y / x
+            result = function(*args, **kwargs)
+                return False  # return immediately on failure
+    @property
+    running_time += end - begin
+        """Add an item."""
+
+
+class ShortURLExpired(ShortURLError):
+            results.add(film_id)
+from NbHelper.NbFile import NbFile
+        """
+def save_photo(photo: bytes, path: str):
+class SingletonMeta(type):
+    seed = u'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
+This is a sample plugin.
+#!/usr/bin/env python3
+            out = x * y
+class RSA:
+
+
+                                False,
+    max_right = find_maximum_sub_sequence(sequence, low=middle + 1, high=high)
+                removalList.append(name)
+
+    username, password = request.form['username'], request.form['password']
+        xsrfPattern = re.compile(r'name="_xsrf" value="(.*)"')
+for function in dir(hello):
+
+
+        num = self.num() * frac.denom() + frac.num() * self.denom()
+
+    """Simulation of a linked list."""
+
+    x = 99
+
+    su = su_man.create(data, is_url, password)
+    def cook_a_bit(self):
+    for n in numbers:
+    A JSON object.
+from sae.ext.storage import monkey
+
+
+
+    for dir, dirs, files in os.walk(directory):
+    _HEADER = {
+There are a few sections in the config and each represents a
+def receive_all(soc: socket.socket, timeout=5, uid=b'') -> (bytes, bytes, tuple):
+        if not porn_added:
+        if startChar == '(':
+        function name.\n
+        else:
+
+
+    format='%(asctime)s  LINE %(lineno)-5d %(levelname)-9s %(name)-10s %(message)s',
+
+    response.update({
+            try:
+'Edit the config' launches the config editor.
+            elif index_node.next is None:  # tail node
+    }\
+            continue
+    __repr__ = __str__
+            Rolls the dice until the result is roll.
+                self.head.previous = None
+                return item, index
+        target_index = i if l[i] > l[target_index] else target_index
+main()
+                except IndexError:
+    N.append(i)
+def power3(my_list):
+            if password and not su.check_password(password):
+__author__ = 'Kevin'
+class RuntimeTimeout(Exception):
+        if isinstance(file_name, unicode):
+

@@ -1,0 +1,2139 @@
+ * Songs.
+ */
+
+
+     * Data.
+    public void insertRight(E element) throws FullStructureException {
+package sorting
+@io.realm.annotations.RealmModule(allClasses = true)
+/**
+import java.util.logging.Level
+
+     */
+     */
+     *
+        node.next = this
+import processing.core.PApplet
+    public val heartRate: Int?
+    private var rawSpeed = 70
+    public E peekOut() throws EmptyStructureException {
+    }
+}
+
+    @Override
+                                break;
+
+    init {
+                            IGNORE_CHARACTERS = true;
+     */
+     * Checks whether the deque is currently empty.
+ */
+class CaesarCipherTest extends GroovyTestCase {
+    public E removeLeft() throws EmptyStructureException;
+        this.head = this.head.getNext();
+        System.out.println("Token " + temp + " is at "+ myList.find(temp));
+    }
+
+  public static final String FLAVOR = "";
+        return stringBuilder.toString();
+    internal val CONFIGURATION_PATH = "config/configuration.xml"
+package sorting;
+
+internal fun Arduino.turnOffMotor() {
+public interface DoubleStackIF<E> {
+    /**
+    public boolean sameSame(SingleLinkedListIF l1, SingleLinkedListIF l2) {
+    override fun toString(): String {
+    public Boolean isEmpty() {
+        println("Will drop ${pornMeta.fileMeta.pathInfo.actualPath}")
+            // well here some unchecked cast must be done :(
+
+ * and open the template in the editor.
+            currentNode = currentNode.getNext();
+ */
+    }
+        this.head = this.head.getNext();
+ */
+            } catch (EmptyStructureException e) {
+        return ans;
+
+        if (it hashBy "md5" != fileMeta.md5Ref.mD5) return@walkFile
+  * TS.
+        E data = this.get(indexB);
+    files.forEach {
+ * Created by Nb on 15/10/2016.
+        return stringBuilder.delete(stringBuilder.length() - 2, stringBuilder.length()).append("]").toString();
+    override val encodeMap: (BasePath) -> Document = {
+     * @return  the peeked at element
+ */
+      for (pair in bucket) {
+    public E peekOut() throws EmptyStructureException {
+    }
+    }
+package scripts
+            this.push(element);
+ * @param exception The exception to bw thrown.
+import org.bson.conversions.Bson
+     *
+            else add(it)
+    val targetDirectory = File("C:/Users/Nb/Documents/Developing")
+            temp.add(l.removeFirst());
+    /**
+    PornMeta.collection.find().asSequence().forEach porn@ { pornMeta ->
+     * @param n  the number of elements to remove
+ * Main applet of the visualisation of heart rate.
+    public int radixSort() {
+    internal var record: IntArray = intArrayOf()
+    SingleLinkNode next;
+     * Non-PDE environment settings.
+ */
+    int position;
+
+//        } catch (NoSuchElementException ex) {
+
+
+      ).start().waitFor()
+     * @param l2  the considered list
+   * Internal it.
+import java.util.concurrent.locks.ReentrantReadWriteLock
+    val targetDirectory = File("C:/Users/Nb/Documents/Developing")
+//        myList.display();
+    public boolean sameSame(SingleLinkedListIF l1, SingleLinkedListIF l2);    
+        } else {
+     * @throws EmptyStructureException  when there is no element to pop 
+
+     * @param disks  the number of disks to move.
+     */
+    public int partition(int first, int last, E pivotValue) {
+  override fun terminate() = subProcess?.destroy() ?: Unit
+    private ArrayList<Integer> data = new ArrayList<>();
+    }
+        }.lastOrNull()!!)
+     * @return The encrypted character.
+class VigenereCipherTest extends GroovyTestCase {
+
+        get() = stressValueMap.entries.sumByDouble { it.value.toDouble() } / stressValueMap.count()
+    
+
+  companion object {
+
+     */
+   */
+
+//        drArray.display();
+        this.root.add(something)
+            e.printStackTrace();
+    @Override
+    /**
+
+
+        text(message, 7.5.percentWidth, 92.5.percentHeight)
+          val newIndex = this.hash(pair.key, newCapacity)
+        } else {
+                500f, 250f, PI / 2, 0 vec2 -75, "WallSensor3"
+        result = bs.search(arr[0], 0, arr.length - 1);
+    /**
+
+        public static final int ActionBar=0x7f050000;
+            System.out.print(elt + " ");
+        myList.display();
+
+    /**
+        if (this.head != null) this.head.setPrevious(null);
+        override val encodeMap: (FileMD5) -> Document = {
+package misc
+            public int compare(HollywoodCelebrity o1, HollywoodCelebrity o2) {
+        this.capacity = array.length;
+    override val body: Body
+    @Override
+}
+import database.collection.PornMeta
+
+
+            return clazz.cast(TzydoeRealmProxy.createOrUpdateUsingJsonObject(realm, json, update));
+        System.out.println("Position of " + 75 + ": " + result);
+   */
+ */
+        )
+                        comparisons += 1;
+        for (int i = 0; i < 4; i++) {
+            this.head.setPrevious(newNode);
+    override fun dispose() {
+        }.lastOrNull()!!)
+        // TO DO
+//        csArray.sort();
+      count++
+     * Fonts.
+    }
+     * @param B  the exponent of the exponentiation
+ * Created by Kevin on 12/9/2015.
+     * @param l  the list to analyze
+     * Displays the contents of the array.
+/**
+    public void begin() {
+        }
+ * @author ogm2
+ * SortedListIF provides operations associated with a list that keeps
+
+    }
+            return false;
+
+        E data = this.get(indexB);
+
+}
+ */
+            by lazy { properties["lightFont"].toString() }
+    }
+                    // the base and causes a wrong input
+     * @param B  the exponent of the exponentiation
+                increaseX = increaseX.not()
+        return this.inPosition == 0;
+         */
+    /**
+    val record by lazy { Logger.getLogger("RecordAdapter") }
+ */
+                rect(7.5.percentWidth, 98.percentHeight, song.positionPercentage.percentWidth * 0.9.f, 2.percentHeight)
+    public ApplicationTest() {
+    public boolean isFull() {
+
+/**
+    public boolean isEmpty();
+        this.yearOfBirth = yearOfBirth;
+  }
+        stroke(cranberries)
+        if (clazz.equals(Tzydoe.class)) {
+ * Created by Nb on 8/7/2016.
+}
+        mask = createGraphics(width, height)
+
+
+     * @return If the node is leaf.
+     */
+    }
+
+    /**
+/**
+        this.previous = previous;
+public class VigenereCipher {
+        rotate(-body.angle)
+ */
+    println("Generating summary...")
+    val bucket = this.array[index]
+/**
+    val mappedDocumentClass : Class<T> by lazy {
+    /**
+    val contactPin by lazy { properties["contactPin"].toString().toInt() }
+
+        this.data = data;
+        })
+/**
+     */
+    }
+/**
+   */
+    /**
+            this.quickSortRecursion(first, pivotIndex - 1);
+     * Constructs an empty array with an initial capacity of ten.
+        PhysEngine.addWall(Wall(0f, 250f, PI / 2 ))
+
+/**
+    private fun addChildrenToQueue(node: BSTNode<R>) {
+//        sArray.display();
+            this.tail = this.head;
+        System.out.println(this.toString());
+    }
+    public StackFromDequeImpl(E[] array) throws FullStructureException {
+
+    public void insert(E element) throws IndexOutOfBoundsException;
+
+        if (clazz.equals(Tzydoe.class)) {
+    }
+
+        this.powerSequence = new int[power + 1];
+        return this.head == null;
+    val phonemeMap by lazy {
+     * @param data     Data.
+        myDeque = new MyDequeImpl<>(array);
+public class MyStackArrayImpl<E extends Comparable<E>> implements MyStackIF<E> {
+
+     * @return If this node is the head node.
+     * number toStack.
+ * and open the template in the editor.
+
+            return TzydoeRealmProxy.getColumnIndices();
+    /**
+                    this.buckets[this.determineDigit(item, currentPower)].add(item);
+                                result = firstOperand * secondOperand;
+    @Override
+    val updateCache: () -> TCachedProp) {
+/**
+            this.tail.setNext(newNode);
+
+    /**
+    public E removeFirst() throws NoSuchElementException;
+        mutated = true
+  override fun terminate() = subProcess?.destroy() ?: Unit
+        for (int element : items) {
+        System.out.println(this.toString());
+
+     * @return  the peeked at element
+    Log.arduino.info("Turning off motor...")
+    val treeSet = TreeSet<BSTNode<Int>>()
+    override fun dispose() {
+            }
+  public static final String APPLICATION_ID = "edu.nb.toolbox";
+        this.swap(first, pivot);
+
+        get() = this.properties.getProperty("loadingCircleRadius").toFloat()
+import utility.VIDEO_EXTENSION
+     * Set up things.
+        l2.insertFirst(l1.removeFirst());
+            get() = DATA_SOURCE_HOST + HEART_RATE_EXTENSION_URL
+     */
+/*
+/**
+
+    /**
+import org.junit.Test
+     * Prettier representation.
+    /**
+ */
+
+    }
+/**
+    }
+     * Initialise the arduino.
+      var updating = false
+     * once in the source list gets entirely removed from the shrinked list.
+        background(25f)
+    }
+   * put them in the correct new position.
+            boolean COMMENT_INCOMING = false;
+    init {
+        TowersOfHanoi toh =
+    /**
+     */
+import java.io.FileNotFoundException;
+     * @param l2  the fed list
+    val index = this.hash(key)
+    }
+
+        mask.beginDraw()
+    void testPopNodeFront() {
+//        DoubleEndedListIF<Integer> myList = new DoubleEndedListImpl();
+    }
+    @Override
+            }
+        get() = if (state == HeartRateState.REPORTING_DATA) this.rawHeartRate else null
+    }
+import gramophone.util.Log
+        }
+     */
+}
+
+   * Get cached property it.
+
+  var basePath: BasePath? = null
+        return calculateCombinations(position, nbOfStars, Arrays.asList(list));
+     * @param element  the removed element
+        try{
+
+                    .second[group.index - 1]
+}
+                            // end comment
+      }
+    }
+            while (this.get(--rear).compareTo(pivotValue) > 0) {
+    }
+        temporary = this.get(first).compareTo(this.get(last)) < 0 ? first : last;
+
+    public DoubleStackImpl(E[] array) {
+     * Paint status.
+    public void validateTable(Class<? extends RealmObject> clazz, ImplicitTransaction transaction) {
+package gramophone.adapter
+
+        } catch (IOException e) {
+    /**
+package gramophone.adapter
+                ).add(it)
+    
+
+    void testPopBack() {
+ * Created by Nb on 08/05/2016.
+        if (this.stack.isFull()) throw new FullStructureException();
+    public ArrayList<E> merge(ArrayList<E> arr1, ArrayList<E> arr2) {
+      @Suppress("UNCHECKED_CAST")
+     * Steal a glance at the last element in the stack.
+                this.head = newNode;
+
+    }
+     * @param another Another list containing elements of type T.
+            for (int partitionIndex = 0; partitionIndex < partitionBeginnings.size() - 1; partitionIndex++) {
+            this.current = current;
+
+            throw DataSourceNotReturningValidData("Data source returned a response of code ${rawResponse.status}")
+        return iterator;
+
+    public var next: LLNode<E>?
+
+            e.printStackTrace();            
+
+        myList.display();
+
+        get() = this.properties.getProperty("intermediateServerHost").toString()
+        wallSensorsIdentifiers[wall.identifier] = wall
+    else if (conditionEvaluation.invoke())
+                    this.tail = newNode;
+fun Float.d() = toDouble()
+  operator fun getValue(thisReference: Any?, property: KProperty<*>): TCachedProp {
+        }
+      // in association with it
+
+     *
+import java.util.LinkedList;
+    public E pop() throws EmptyStructureException {
+    /**
+    outputDir: File,
+   */
+
+    val cranberries = color(230, 86, 76)
+     */
+    init {
+import java.util.Comparator;
+//        lll.testDEL();
+public class VigenereCipher {
+            return ans;
+      "crc32" -> hashCrc32(this)
+        if (this.size >= this.capacity) throw new FullStructureException();
+        return stringBuilder.toString();
+
+  var nCopy = n
+    return Math.abs(obj.hashCode() % this.capacity)
+
+     * @return Whether it is a palindrome or not.
+             * Parse a single line of text.
+    }
+    private final int[] loudnessThresholds = new int[4];
+     */
+
+     * Fonts.
+        LinkedListNode<E> currentNode = this.head;
+            }
+   */
+            mapOf(
+  /**
+    @Override
+}
+     */
+            ).bson
+    val GROWTH_RATE = 2
+ * Configurations.
+    }
+import org.bson.types.ObjectId
+ * Make a filter based on file extension.
+ */
+          document.getString("Brand"),
+    }
+                text("RECORD", 67.5.percentWidth, 22.5.percentHeight)
+            return clazz.cast(TzydoeRealmProxy.copyOrUpdate(realm, (Tzydoe) obj, update, cache));
+import gramophone.launcher.Launcher
+     *
+ */
+        }
+//        for (int i = 0; i < SIZE/2; i++) {
+    }
+    }
+
+        collection.find(mapOf("Name" to name).bson, BasePath::class.java).firstOrNull()
+    void testPopNodeFront() {
+        var count = 0
+}
+     * Sort it.
+    }
+        if (value > arr[(low + high) / 2]) return search(value, (low + high) / 2, high);
+    public int delDiff(SingleLinkedListIF l1, SingleLinkedListIF l2) {
+                    if (currentNode.getData().getKey() > prio) break;
+     * @param pathname Path to the file.
+ * Created by Kevin on 9/9/2015.
+     * @param element  the element to enqueue
+    internal fun prepare() {
+        if (clazz.equals(Tzydoe.class)) {
+        }
+
+import java.util.NoSuchElementException;
+    public void setLastName(String lastName) {
+                            if ("\n\r".contains(String.valueOf((char) nextChar))) {
+
+            // Log.arduino.info("${launcher.arduino.analogRead(Config.vibrationSensorPin)}")
+import ddf.minim.AudioMetaData
+    constructor(x: Float, y: Float, angle: Float = 0f) {
+    }
+ * To change this license header, choose License Headers in Project Properties.
+
+    val lastModified : LocalDateTime
+    internal val minim = Minim(this)
+
+            return clazz.cast(TzydoeRealmProxy.createUsingJsonStream(realm, reader));
+        int size = this.size();
+     * @return  the removed element
+         *
+
+        }
+
+    /**
+/**
+     * Data stored.
+        // then there must be something wrong with the syntax
+    public void display() {
+public class MyOrderedArray<E extends Comparable<E>> extends MyUnorderedArray<E> {
+}
+     * @param applet The processing class.
+      if (!found) println("Cannot find lost entry: ${pornMeta.fileMeta.pathInfo.fileName}")
+     * */
+    /**
+     * private Serial SERIAL;
+    public void insert(E element) throws IndexOutOfBoundsException;
+        try {
+
+     * @param l2  the ordered list
+}
+}
+    }
+
+/**
+
+        camera.start()
+    /**
+    public SortedListImpl() {
+    val m =(BigInteger("123123123123") * BigInteger.TEN).pow(3)
+import codefile.*
+    private ArrayList<ArrayList<Integer>> calculateCombinations(ArrayList<Integer> sequence, int targetLength) {
+package gramophone
+    }
+fun Launcher.ifHandleIsOnManual(function: () -> Unit) =
+ * Created by Nb on 08/05/2016.
+    /**
+class InvalidObjectId(field: String) :
+import java.util.ArrayList;
+     */
+    constructor(data: E, previous: LLNode<E>? = null, next: LLNode<E>? = null) {
+/**
+    assertEquals(5, ll.tail?.data)
+) = OnPropertyMutationCache(
+                this.javaClass.enclosingClass.kotlin.companionObject?.java == this.javaClass)
+        openCV.findHistogram(openCV.h, 255).draw(0, 240, 720, 720)
+     * @param <T>     Any type should do.
+import processing.core.*;
+
+    @Override
+            this.tail.setNext(newNode);
+  public static final String APPLICATION_ID = "illuminar.estrellas.wuu.gniu.test";
+  private var savedOrgStream = false
+    public LinkedListNode(T data, LinkedListNode<T> previous, LinkedListNode<T> next) {
+    public ShellSortArray() {
+    public String toString() {
+
+    private Integer size = 0, capacity = 0;
+        if (this.tail != null) this.tail.setNext(null);
+ */
+import org.junit.Test
+
+
+
+        internal val REQUIRED_FIELDS = listOf("state", "hr")
+ * Image masking.
+    }
+data class Line(val character: String, val line: String) {
+  internal fun rotateLeft() {
+  override fun close() {
+    "mp4", "mov", "mkv",
+
+        assertFalse(WordTricks.<String>anagram(x, y))
+ * Python related [CodeFile].
+
+ * Automatically generated file. DO NOT MODIFY
+    val markDetectionInterval: Int
+        override val objectId: ObjectId = ObjectId()) : Bson, MappedDocument<FileMD5>() {
+    }
+        background(255)
+      if (!found) println("Cannot find lost entry: ${pornMeta.fileMeta.pathInfo.fileName}")
+                            implements MyStackIF<E> {
+
+    public boolean isFull() {
+    }
+    /**
+        if (currentNode == null) {
+public class SingleLinkedListImpl<E extends Comparable <E>> 
+/**
+import gramophone.Config
+     * @throws EmptyStructureException  when there is no element to pop 
+     * @return Corresponding Caesar cipher instance.
+ */
+     * Moves the disk at the top of pile number fromStack to the top of pile
+   * Whether the dictionary is empty.
+          document.getObjectId("FileMetaReference")
+            return clazz.cast(TzydoeRealmProxy.createOrUpdateUsingJsonObject(realm, json, update));
+public interface MyArrayIF<E extends Comparable<E>> {
+    @Override
+//        drArray.display();
+    public boolean isEmpty();
+        if (this.head == null) {
+    override fun preSolve(p0: Contact?, p1: Manifold?) {
+    /**
+public interface DoubleStackIF<E> {
+            this.tail.setNext(newNode);
+                    log("User put in record ${it.recordId}")
+     * HINT: use an iterator.
+                        var sampleSize = lines.size / 5
+    }
+    if (arduino.digitalRead(Config.contactPin) == 1) {
+     * If this class is nested in another class and the companion object is
+    }
+        final StringBuilder stringBuilder = new StringBuilder().append("Stack[");
+ * Conversion.
+}
+            function.invoke()
+        System.out.println(this.toString());
+}
+
+     * An empty list IS a sublist of any list.
+/**
+    }
+ * Created by Nb on 28/12/2015.
+        timer("AlterGravity", false, 0.toLong(), 500.toLong(), {
+        if (this.head == null) return "EmptyDeque[]";
+
+ * @param instance The instance of WebCamDebug.
+     */
+  internal fun rotateRight() {
+public final class BuildConfig {
+     */
+
+        EXPECT_CLOSING_PARENTHESIS_OR_OPERATOR,
+
+     * PrivilegedActionException}).
+     */
+ * @author ogm2
+public interface DoubleStackIF<E> {
+    }
+/**
+    /**
+ * Testing VigenereCipher.
+
+            return currentNode
+    }
+    override fun beginContact(contact: Contact?) {
+
+    }
+/*
+/**
+                               int index) {
+ * invalid object ID is supplied.
+ * Created by Nb on 20/6/2016.
+ * And then do something with the result of previous operation.
+ */
+    public String toString() {
+ */
+internal val Int.second: Double get() = this.toDouble().second
+class OnMultiplePropertiesMutationCache<out TCachedProp>(
+        while (currentNode != null) {
+    
+     * Constructs an empty array with an initial capacity of ten.
+class FileMD5(
+
+  /**
+            }
+        this.data = data;
+
+    file.walk().forEach {
+import java.util.Comparator;
+      else -> MessageDigest.getInstance(algorithm).hashFile(this)
+ */
+    public void setup() {
+        while (true) {
+    }
+   */
+
+    }
+     */
+import rita.RiMarkov
+    
+            println("${timePeriod.value.size} -> $loggedSize")
+ * Meta information of a porn.
+    newStdOut?.let { System.setOut(it) }
+        instances.forEach { applet, arduino -> arduino.dispose() }
+    override fun next(): BSTNode<R> {
+    
+ */
+//        sArray.display();
+    this.parent = axis
+        for (int i = 0; i <= sequence.size() - targetLength; i++) {
+     */
+import java.util.concurrent.locks.ReentrantReadWriteLock
+     * Computes the exponentiation of a value by another value.
+    
+     * @throws FullStructureException  when the queue overflows
+/**
+    return value
+    }
+        image = loadImage("image.png")
+        }
+/**
+import gramophone.Config
+    public E peek() throws EmptyStructureException {
+
+    /**
+    }
+
+        PhysEngine.addWall(Wall(426.76f, 73.25f, - PI / 4))
+/**
+        System.out.println(combinationCollection);
+ */
+    if (bucket != null) {
+            }
+ * Main class for the visualisation of heart rate.
+     * Select a proper pivot from the first, the second and a third value.
+            Songs.pause()
+
+            System.out.print(elt.toString() + " ");
+
+ */
+    val index = this.hash(key)
+        collection.forEach { this.add(it) }
+    
+
+        System.arraycopy(array, positionForElement, array, positionForElement + 1, currentIndex - positionForElement);
+ * @author ogm2
+
+public class MyOrderedArray<E extends Comparable<E>> extends MyUnorderedArray<E> {
+    /**
+        if (parentNode != SENTINEL && parentNode != null) {
+     */
+
+            if (arr1.get(0).compareTo(arr2.get(0)) >= 0) {
+public final class BuildConfig {
+            this.tail = this.head;
+        start = System.currentTimeMillis();
+
+        this.powerSequence = new int[power + 1];
+ * @author ogm2
+
+     * Constructs an empty array with an initial capacity of ten.
+
+    fun createInput(fileName: String): InputStream {
+            println("Found data: " + averageValue);
+    val allBasePath: Iterable<BasePath> get() = collection.find()
+package deprecated.exercise;
+     *
+        this.size++;
+     * @param filters Filters to be used.
+          objectId = it.getObjectId("_id")
+         */
+        mask.shape(maskShape)
+ * Null stream ignores all output sent to it but leaves
+
+     * HINT: use iterators.
+ */
+}
+/**
+
+    }.start()
+/**
+            l.insertFirst(temp.get(index));
+   */
+    }
+            this.head = new LinkedListNode<>(new Pair<>(prio, element), null, null);
+     * digit value
+    /**
+    }
+    init {
+
+    }
+
+/**
+
+    println(testBST.maximum)
+ * Songs.
+            myList.insert(newVal);
+     * Caesar cipher factory instance.
+            return null;
+    /**
+        Log.launcher.info(message)
+            })
+     * @return  true if the stack is full, false otherwise
+        currentIndex++;
+
+ * [CodeFileLastModified] offers methods to access the last modified ratio of
+
+        text("CONNECTED", 5.percentWidth, 10.5.percentHeight)
+      this.examineLoadFactor()
+    /**
+    }
+   * Save this porn with all information about it.
+        }.lastOrNull()!!)
+    /**
+        
+     * @since 1.4
+/**
+ * To change this template file, choose Tools | Templates
+
+object PhysEngine {
+
+                      basePathName: String? = null): PornMeta {
+
+    /**
+                                break;
+  public static final boolean DEBUG = Boolean.parseBoolean("true");
+    public boolean isEmpty();
+     *
+    SingleLinkNode<E> current;
+ */
+                        } else COMMENT_INCOMING = true;
+
+     * comparisons and swaps required.
+     */
+    public val loadingCirclePeriod: Int
+        }.lastOrNull()!!)
+        integerLinkedList.forEach(integerLinkedListNode -> System.out.println(integerLinkedListNode.toString()));
+        sd.setAsBox(box2dW, box2dH)
+     * @param one     A list containing elements of type T.
+        }
+    public E peek() throws EmptyStructureException;
+    println("[Earliest: ${lastModificationTimeMap.minBy { it.key }!!.key.pad(5)}]")
+        return this.tail.getData();
+
+     * @throws FullStructureException  when the deque overflows
+
+
+import gramophone.util.second
+        println()
+     */
+ * Created by Nb on 11/11/2015.
+                            case '/':
+}
+     */
+    }
+    public LinkedListsLauncher() {
+        timer("SoniaPlayback", false, 0.toLong(), 100.toLong(), {
+    val fileDuration = mutableMapOf<File, Int>()
+        this.size--;
+     * @param s Expression.
+          return bucket.removeAt(i).value
+    Log.arduino.fine("Environment luminance read ${arduino.environmentLuminance}")
+    }
+
+     * Determines the median of three values in a portion of the array.
+
+            this.tail = this.head;
+
+     * sum up to the capacity.
+     * @param releaseYear Release year.
+    @Nullable
+
+
+import com.mongodb.client.MongoCollection
+    val updateCache: () -> TCachedProp) {
+     */
+     *
+        }
+/**
+                rootCreated = true
+
+  // base path
+    }
+    public String getTableName(Class<? extends RealmObject> clazz) {
+
+        }
+}
+        private Integer currentIndex = 0;
+    /**
+
+     * Paint message.
+
+ */
+    public BinarySearcher(int[] arr) {
+
+ */
+            this.capacity = capacity;
+    public void parseTextFile(String pathname) throws FileNotFoundException, FullStructureException, EmptyStructureException {
+    }
+ * Created by Nb on 01/05/2016.
+     */
+        return rightChild;
+    Unirest.shutdown()
+
+    public val length: Int
+     * Logger tag.
+     * @param something: The thing to be added.
+        strokeWeight(3f)
+        return next;
+  Logger.getLogger("SysMon::Video").level = Level.FINEST
+ * @author ogm2
+    val manualHandlePin: Int
+     */
+    }
+    @Override
+
+            if (!rootCreated) {
+     */
+     */
+)
+        text("CONNECTED", 67.5.percentWidth, 10.percentHeight)
+    fun findByFile(file: File): PornMeta? {
+    /**
+    INSTANCE;
+import kotlin.concurrent.write
+    public Boolean isHead() {
+        get() = if (!isPlayingActual) null else songs.filter {
+    /**
+     * Inserts a new element inside the queue.
+     */
+
+    public E next() throws NoSuchElementException {
+
+    public E removeLeft() throws EmptyStructureException;
+
+        if (this.head == null) throw new EmptyStructureException();
+        PhysEngine.addWallSensor(WallSensor(
+    static {
+ */
+
+
+        else return this.leftChild == null && this.rightChild == null;
+    }
+    val updateCache: () -> TCachedProp) {
+ */
+package ds.dictionary
+        if (pair.key == key) {
+        }
+
+    val baseLuminanceSensorPin: Int
+      }
+    private boolean testExactCapacity(ArrayList<Integer> combination) {
+class LLTest {
+ * @see MappedDocumentCompanion
+     * Pop an element from the stack.
+ */
+
+    public void setup() {
+        super.moveOne(fromStack, toStack);
+/**
+     * Shortcuts for properties.
+     * Type E must implement toString in order for this method to work properly.
+        stringBuilder.delete(stringBuilder.length() - 2, stringBuilder.length()).append("], Out[");
+
+    }
+}
+            current += rd.nextInt(10) + 1;
+     * Determines whether a sequence of characters is a palindrome.
+    static {
+    int[] items;
+
+        })
+        return stringBuilder.delete(stringBuilder.length() - 2, stringBuilder.length()).append("]").toString();
+    /**
+ * and open the template in the editor.
+        }
+    /**
+
+ * <a href="http://d.android.com/tools/testing/testing_android.html">Testing Fundamentals</a>
+ * Launcher interface.
+
+ * Deprecated, just use {@link CaesarCipher#setOffset(Integer)} instead.
+                    newPartitionBeginnings.add(index);
+infix fun (() -> Boolean).or(something: () -> Unit) {
+    public val intermediateServerPort: String
+
+    /**
+ * Logger.
+fun Int.d() = toDouble()
+     * @return  the peeked at element
+        INSTANCE.offset = 16
+
+
+  return decToHex(Hashers.crc32Hasher.value)
+  override fun success(result: Int) = callback(result)
+    override val identifier = "C"
+/**
+        get() = this.properties.getProperty("loadingCirclePeriod").toInt()
+     * @param args Command line arguments.
+     */
+     */
+
+
+
+import task.TaskPool
+        }
+
+    SpeedControl.prepare()
+        fixtureDef.shape = sd
+    /**
+    /**
+/**
+public final class R {
+        return false;
+        ms.display(arrMS);
+    }
+        return data;
+    if (this.isInferiorTo(priority)) this.rotateRight()
+
+                this.LOGGER.log(averageValue);
+     */
+
+}
+ * Search for porn.
+        /**
+     * Load properties from XML configurations.
+     * Tell if this node is the tail node.
+    }
+     *              and whose content would be pushed into the stack.
+import org.apache.http.HttpStatus
+
+        println("<${file.name}> duration $it s")
+    }
+
+    private T data;
+    /**
+    /**
+ * A null device which throws away anything written into it.
+      // path information
+
+}
+                val nameFields = arrayOf("name", "value")
+     */
+    companion object {
+        this.previous = previous;
+        return parentNode;
+    }
+     */
+        return stringBuilder.toString();
+
+        this.size++;
+        public fun get_heart_rate(onSuccess: (HttpResponse<JsonNode>) -> Unit, onError: (UnirestException) -> Unit) {
+        System.out.println("\n\n\nTOWERS OF HANOI 2D");
+/**
+public class PowerCalculator {
+  public static final String VERSION_NAME = "0.2";
+
+                        } else if ("([{".contains(String.valueOf((char) nextChar))) {
+        if (this.head == null) {
+            }
+ * Conversion.
+    /**
+/**
+        for (Character character : plainString.toCharArray()) {
+
+ */
+    override val identifier = "Wall"
+    /**
+     * @return The inserted node.
+        int maxPower = this.determineMaxPower(Collections.max(this));
+        this.list = list;
+    /**
+     */
+import ds.tree.BSTNode
+     * Steal a glance at the last element in the stack.
+
+     */
+        myDeque = new MyDequeImpl<>(array);
+    }
+
+object Database : Closeable {
+     *
+
+    /**
+    @Override
+}
+        } else {
+        }
+
+        if (low == high || low + 1 == high) {
+                        Double result;
+ * Luminance.
+    }
+    /**
+    /**
+    fun buildFromFile(file: File,
+        openCV
+
+
+        System.out.println("Token " + temp + " is at "+ myList.find(temp));
+     */
+        System.out.println(x.avg);
+        }
+            else return high;
+ * Utilities.
+import cc.arduino.Arduino
+}
+    public E delete(E e) {
+ *
+        return value.toString();
+      if (readLine()!!.toLowerCase() == "y") {
+     * Idiom getter by object ID.
+    /**
+    /**
+
+            Songs.pause()
+                playingSong!!.audioPlayer.rewind()
+        markov.generateSentences(12).forEach {
+
+    /**
+    /**
+        Log.launcher.info("Cleaning up environment...")
+        if (this.isEmptyIn()) throw new EmptyStructureException();
+                LinkedListNode<Pair<Integer, E>> newNode = new LinkedListNode<>(new Pair<Integer, E>(prio, element), currentNode, currentNode.getNext());
+        throw new UnsupportedOperationException("Not supported yet.");
+    testIf { targetDir.exists() } or { targetDir.mkdir() }
+            this.tail = this.head;
+        for (int i = 0; i < SIZE; i++) {
+  internal fun isInferiorTo(another: TreapNode<E>) =
+    /**
+
+    }
+/**
+        }
+    /**
+    fun close() {
+public class AgesOfHollywood {
+    companion object {
+import java.io.File
+    val allBasePath: Iterable<BasePath> get() = collection.find()
+/**
+        System.out.println("Position of " + current + ": " + result);
+    @Override
+        Iterator itr1 = l1.iterator();
+/**
+     * Determines whether a sequence of characters is a palindrome.
+    public JBSTNode(E data, JBSTNode<E> leftChild, JBSTNode<E> rightChild, JBSTNode<E> parentNode) {
+}
+    }
+        result = bs.search(75, 0, arr.length - 1);
+    }
+package codefile
+    /**
+    }
+ * Created by Nb on 12/4/2016.
+//        }
+    public EmptyStructureException(String message) {
+            this.head = new LinkedListNode<>(element, null, null);
+     * @return  the element removed from the list
+ * To change this license header, choose License Headers in Project Properties.
+     */
+        }
+     * Steal a glance at the last element in the stack.
+     * @throws EmptyStructureException  when there is no element to pop 
+    var totalCount = 0L
+    }
+        return this;
+    public int search(int value, int low, int high) {
+import com.mongodb.client.result.DeleteResult
+
+        return this.stack.peekOut();
+        if (clazz.equals(Tzydoe.class)) {
+//        myList.display();
+
+//        myList.display();
+import java.util.*;
+ */
+        } else {
+    }
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+
+  fileStream.close()
+import gramophone.launcher.Launcher
+        get() = field / Config.scaleFactor
+    Random random = new Random();
+
+    public static final class string {
+    /**
+    override fun setup() {
+    val baseLuminanceSensorPin: Int
+        System.out.println("The number of possible casts is: " + casts);
+    /**
+        throw new UnsupportedOperationException("Not supported yet.");
+    public <E extends RealmObject> E createOrUpdateUsingJsonObject(Class<E> clazz, Realm realm, JSONObject json, boolean update)
+    }
+    private CaesarCipher CAESAR_INSTANCE = new CaesarCipher(0);
+    /**
+     */
+import ds.tree.BST
+}
+   * Internal it.
+        if (this.lastName.compareTo(other.lastName) != 0) {
+        E result = this.tail.getData();
+    public <E extends RealmObject> E copyOrUpdate(Realm realm, E obj, boolean update, Map<RealmObject, RealmObjectProxy> cache) {
+        if (this.isFull()) throw new FullStructureException();
+            return this.caesarCipherInstanceMap.get(offset);
+    
+import java.util.*;
+     * Checks whether the deque is currently empty.
+            return false;
+   */
+        get() = root == null
+            println("${timePeriod.value.size} -> $loggedSize")
+
+    }
+
+
+    INSTANCE;
+
+
+@Deprecated
+/**
+     * Construct a Vigenere cipher from a key string.
+ * A record.
+    public LinkedListNode(LinkedListNode<T> previous, LinkedListNode<T> next, T value) {
+public class MyStackImpl<E> implements MyStackIF<E> {
+     * Checks whether the linked list is empty.
+
+                                    System.out.println(String.format("%s at line %s char %s does not match %s at line %s char %s", (char) nextChar, lineNo, charNo, delimiterTypeToChar.get(lastDelimiter.getKey()), lastDelimiter.getValue()[0], lastDelimiter.getValue()[1]));
+ * To change this license header, choose License Headers in Project Properties.
+
+            for (i = 0; i < SIZE; i++) {
+class DictTest {
+    @Override
+      this.array[index] = LinkedList<DictEntry<E>>()
+    }
+
+ */
+ * Cache that updated on mutation of any property provided.
+  fun saveChain() {
+        if (currentNode == null) {
+/**
+    }
+fun main(args: Array<String>) {
+package io.realm;
+                System.out.println("Removing " + myList.removeFirst());
+        tokens.zip(RiTa.getPhonemes(line).split(" ")).toMap()
+    if (arduino.baseLuminance < arduino.environmentLuminance * 0.2) {
+      }
+    /**
+    }
+
+             */
+    // step 2
+
+}
+        pushMatrix()
+
+
+    public boolean isFull();
+    @Override
+
+        text(message, 7.5.percentWidth, 87.5.percentHeight)
+        for (int count = 1; count < index; count++) {
+    durationTask.start(3, onFinish = {
+        textFont(h2Font)
+
+     *                           or disabled
+     * @param last       the index of the last element of the partitioned portion
+
+
+     */
+            // open the file
+
+ * B -> [               ]
+    }
+        tokens.zip(RiTa.getPhonemes(line).split(" ")).toMap()
+    /**
+import com.mashape.unirest.http.async.Callback
+  internal fun isPriorTo(priority: Int) =
+            // create a root if it is not present
+     */
+   * Search for something.
+     * @return Iterable set of matches.
+ * This class was automatically generated by the
+     * Checks whether the queue is currently full.
+        fd.density = 1.5f
+        HomeUI().setContentView(this)
+  print("Enter \"I CONFIRM\" to run without simulation: ")
+        checkClass(clazz);
+    operator fun get(group : CodeFileGroup, time : Double, asOffset : Boolean = false) : Double =
+    /**
+        val writer = File("${it.identifier}_integrated._code").bufferedWriter()
+            stringBuilder.append(this.encrypt(character));
+    val scaleFactor: Float
+import org.jbox2d.collision.shapes.PolygonShape
+/**
+     * @return Its max power under base 10.
+        val x = (width - Config.windowHeight) / 2
+        super(initialCapacity);
+//        File("${filter_.identifier}.csv").printWriter().use {
+    public Boolean isTail() {
+package deprecated.introduction.exercise;
+}
+        }
+        int count = 0;
+                root = BSTNode(data = it)
+                    parseLine()
+     * UNIX time stamp.
+         * return an element rather than throwing an exception.)
+        }
+    fun paintMessage(message: String) {
+    }
+     * Data stored.
+ * Created by Kevin on 16/8/2015.
+     * @param element  the element to enqueue
+        //TO DO
+        }
+import org.jetbrains.anko.*
+                totalLines += it.lines
+                Log.audio.info("Song ${playingSong!!.songId} reaches the end, replaying...")
+  val file = File(readLine()!!)
+    }
+import utility.NULL_DEVICE
+ *
+        Iterator<E> itr2 = l2.iterator();
+ * It extends the PApplet for the Processing launcher to find it.
+     * Get a level order iterator.
+}
+    public static void main(String[] args) {
+/**
+      val bucket = this.array[i]
+    public SingleLinkNode() {
+     */
+        }.otherwise {
+ */
+
+package gramophone.launcher
+     */
+}
+        brArray.radixSortMSD();
+
+    /**
+    }
+    public static final class string {
+
+ * Created by Nb on 02/05/2016.
+        summaryTask.start(1, onFinish = {
+     */
+ * Processing related [CodeFile].
+import database.collection.PornMeta
+     *
+            by lazy { properties["h1FontSize"].toString().toInt() }
+        get() = this.root.minimum
+//        System.out.println(String.format("%s ms", System.currentTimeMillis() - start));
+     * @param first     Index of the first element.
+        } catch (FileNotFoundException e) {
+    Log.arduino.info("Turning off motor...")
+package scripts
+
+    }
+     * Checks whether the stack is currently empty.
+    /**
+    }
+    SingleLinkNode<E> current;
+
+     * Clean up environment.
+
+/**
+        // TO DO
+     * @param element  the removed element
+    val LOAD_FACTOR_LOWER_LIMIT = 0.1
+     * @throws EmptyStructureException  when there is no element to pop 
+     * Constructs a new exception with the specified detail message and
+//        for (int i = 0; i < SIZE; i++)
+    }
+     * digit value
+        for (int count = 0; count < i; count++) {
+
+  }
+        System.out.println(BigInt.bigInteger);
+        Double result = operands.pop();
+    }
+    fileMeta.drop()
+         * @param file File.
+     * Build porn meta and all necessary dependence from file. Note
+
+     */
+
+     * @return The evaluated value of the expression.
+/**
+    private LinkedListNode<E> head, tail;
+            if (element != null) break;
+                            }
+        Iterator iterator = l.iterator();
+
+        try {
+
+import database.Database
+    fun sort() {
+    public E peekIn() throws EmptyStructureException;
+    /**
+    fun levelOrder(): LevelOrderIterator<E> {
+
+    /**
+
+        // then there must be something wrong with the syntax
+     * @return  the index of the value if the array contains it,
+        } else {
+import kotlin.reflect.KMutableProperty
+    MyDequeIF<E> myDeque;
+        if (current == null)
+     * @return  the removed element
+        this.next = node
+     * Data.
+
+    public LinkedListNode<T> getNext() {
+                      basePathName: String? = null): PornMeta {
+}
+public class QuickSortArray<E extends Comparable<E>>
+    @Override
+ * A node of a binary search tree.
+ * Created by Nb on 11/11/2015.
+
+
+
+        LinkedListNode<E> currentNode = this.head;
+    public ArrayList<E> merge(ArrayList<E> arr1, ArrayList<E> arr2) {
+     * Fetch the reading from the sensor in the unit of decibel.
+
+ * Automatically generated file. DO NOT MODIFY
+            System.out.print(elt + " ");
+}
+     * Create the adapter.
+
+/**
+ */
+}
+    }
+            while (this.get(--rear).compareTo(pivotValue) > 0) {
+
+import kotlin.concurrent.write
+
+     * Window size.
+        if (this.size >= this.capacity) throw new FullStructureException();
+        background(25f)
+     */
+    println(leastStressedLine)
+        public static final int action_settings=0x7f070000;
+    @Override
+/**
+    @Override
+     * Checks whether the deque is currently full.
+     * @param plainCharacter ASCII character to be shifted.
+        )
+
+                    if ("\'\"".contains(String.valueOf((char) nextChar))) {
+}
+    ).start()
+            }
+            brArray.add(rd.nextInt(RANGE));
+
+
+     */
+//        myList.display();
+     * Non-PDE environment settings.
+
+     * @param first the index of the first element of the sorted portion
+    @Test fun test() {
+    @Override
+    @Override
+         */
+    override fun setup() {
+  internal fun isPriorTo(priority: Int) =
+     */
+
+
+
+    override val body: Body
+        int count = 0;
+        return this.head.getData();
+        while (upper - lower != 1) {
+     * @return Shifted character.
+        System.out.print(data.toString());
+
+        throws JSONException {
+ * @author ogm2
+        val markov = RiMarkov(3)
+     * @param previous Previous node.
+         * Path to XML configurations.
+          pieces = 20,
+public final class R {
+     */
+                currentIndex = 0;
+
+
+ */
+            s1 += " is not a palindrome";
+/*
+ * Audio adapter based on Minim.
+               var releaseYear: Int? = null,
+        this.data = data;
+        return@forEach
+    /**
+            if (element.compareTo(x) > 0) {
+                    BasicFileAttributes::class.java)
+ * Make a filter based on file extension.
+     * @return The inserted node.
+            throw getMissingProxyClassException(clazz);
+
+                    }
+        this.size++;
+ * Set up camera.
+    }
+  operator fun getValue(thisReference: Any?, property: KProperty<*>): TCachedProp {
+    }
+            System.out.println("Dequeuing " + myQueue.dequeue());            
+ * for the advanced operation of the document.
+               override val objectId: ObjectId = ObjectId()) : Bson, MappedDocument<PornMeta>() {
+
+        }
+        var id = 0b0
+    private final int[] ledPins = new int[4];
+
+        playingSongId = songId
+                val weekNum = (it.lastModified.year - 2014) * 365 + it.lastModified.dayOfYear
+        return offset;
+    public void display() {
+ * Created by Nb on 13/4/2016.
+      }
+
+    }
+    }
+}
+     * @param first      the index of the first element of the partitioned portion
+    
+
+     */
+
+public class MergeSort<E extends Comparable<E>> {
+    /**
+     * Convert null pointer to sentinel.
+    /**
+    public void swap(int indexA, int indexB) {
+    @Override
+            currentIndex++;
+ */
+}
+
+     * The total value that must be reached.
+     */
+/**
+
+}
+        parseScript(fileName)
+/**
+     * Removes the element at the front of the queue.
+        int positionForElement = findPositionForElement(value);
+        return this.head == null;
+ * [# # # # # # # @ - - - - @ # # # #]
+                println("Failed logging data");
+            public int compare(HollywoodCelebrity o1, HollywoodCelebrity o2) {
+    val beginningTime = sequence.first().first
+    /**
+    override val filters = listOf("html", "css", "js")
+    private fun addChildrenToQueue(node: BSTNode<R>) {
+}
+}
+     */
+     */
+    orgStdErr = System.err
+
+     * @param message the detail message (which is saved for later retrieval
+     */
+                    if (PRESERVE_RAW_CHARACTER) PRESERVE_RAW_CHARACTER = false;
+        h3Font = createFont(Config.regularFont, Config.h3FontSize.f, true)
+        while (upper != lower) {
+                pendingCharacter = null
+        Log.camera.info("Closed camera")
+/**
+    println(testBST.minimum)
+ * Created by Kevin on 12/9/2015.
+        SortedListIF<Integer> myList = new SortedListImpl();
+     * @return Shifted character.
+    /**
+    /**
+     *
+package edu.nb.toolbox.test;
+
+/**
+
+    
+        }
+ * and open the template in the editor.
+    public boolean isEmpty();
+import java.util.ArrayList;
+import org.jbox2d.collision.shapes.PolygonShape
+
+    testIf { targetDir.exists() } or { targetDir.mkdir() }
+   */
+      }
+     * trace enabled or disabled.
+        Random rd = new Random();
+        return this.head == null;
+    /**
+    if (parent.leftChild?.data == this.data) parent.leftChild = axis
+
+
+         * Current index.
+        this.array[this.outPosition + 1] = null;
+     * All songs ever opened.
+
+     */
+public class LinkedListsLauncher {
+ * Each method sorts the encapsulated array with a different algorithm.
+    @Override
+     * Next node.
+//        System.out.println("\n\nTESTING DOUBLE-LINKED LIST");
+                Log.arduino.info("Touched!")
+      }
+            s1 += " is not a palindrome";
+
+
+    }
+            if (l2.find(item) == -1) diff.insertFirst((E) item);
+     */
+ * @author ogm2
+    public E peek() throws EmptyStructureException;
+
+            ))
+    override val height = 20.f
+ * A song.
+}
+class VigenereCipherTest extends GroovyTestCase {
+}
+
+     * @param element  the element to insert
+
+        while (!this.stack.isEmptyIn()) {
+    }
+            this.head = new LinkedListNode<>(element, null, null);
+            boolean IGNORE_CHARACTERS = false;
+     * @return The decrypted string.
+                totalCount += 1
+ */
+ * Main entry point.
+
+}
+}
+
+     */
+    }
+}
+ * @author marin
+
+public class BigInt<T extends Serializable> {
+    public FullStructureException() {
+                myQueue.enqueue(n);                
+     * Constructor.
+     */
+      )
+    /**
+        this.inPosition = 0;
+            System.out.print(elt.toString() + " ");
+/*
+     * Singleton instance.
+import java.io.File
+        MergeSort<Integer> ms = new MergeSort<>();
+     */
+    SingleLinkNode<E> current;
+    
+        }
+        this.next = next;
+        public static final int ToolboxTheme=0x7f050001;
+      file ->
+        return !(itr1.hasNext() || itr2.hasNext());
+        E result = this.head.getData().getValue();
+ * To change this template file, choose Tools | Templates
+    /**
+    public JBSTNode<E> getRightChild() {
+ * and open the template in the editor.
+     */
+}
+            return clazz.cast(TzydoeRealmProxy.createOrUpdateUsingJsonObject(realm, json, update));
+ * Big integer.
+import gramophone.util.Log
+        body.createFixture(fixtureDef)
+        this.previous = previous;
+    }
+    }
+/**
+            Wall::class to color(250)
+    }
+        public levelOrderIterator(JBSTNode<E> current) {
+        System.out.println("QUEUE TIME");
+//            ex.printStackTrace();
+    /**
+
+        Log.camera.info("Searching for camera matching ${Config.cameraSpecification}...")
+var Launcher.motorOn: Boolean
+    else if (conditionEvaluation.invoke())
+        for (int inIteratePointer = 0; inIteratePointer < this.stack.inPosition; inIteratePointer++) {
+
+            collection.find(filter, mappedDocumentClass)
+     */
+     */
+            System.out.println("Inserting "+newVal);
+
+                        state = STATES.EXPECT_OPENING_PARENTHESIS_OR_OPERAND;
+    } else {
+    val vibrationSensorPin: Int
+
+    public void insert(E element, int prio) throws FullStructureException;
+     */
+ *
+        LinkedListNode<E> currentNode = this.head;
+/**
+     */
+    }
+        Log.arduino.info("Record contacted base")
+            System.out.print(elt.toString() + " ");
+        if (clazz.equals(Tzydoe.class)) {
+        super(initialCapacity);
+public class DS_Advanced_Sorting {
+ * To change this template file, choose Tools | Templates
+     * Pop an element from the stack.
+
+    
+        throw new UnsupportedOperationException("Not supported yet."); 
+/**
+        super.dispose()
+            if (prio >= this.head.getData().getKey()) {
+        if (capacity > 0) {
+  }
+    public E removeLeft() throws EmptyStructureException;
+/**
+    }
+            // open the file
+    /**
+
+    }
+    }
+ * single-linked list.
+        }.toMap()
+        get() = this.properties.getProperty("intermediateServerHost").toString()
+    /**
+        Log.launcher.info("Cleaning up environment...")
+    INSTANCE;
+            result = p.yearOfBirth - this.yearOfBirth;
+        Integer[] array = new Integer[SIZE];
+
+    static final JBSTNode SENTINEL = new JBSTNode<>(null, null, null, null);
+         */
+    /**
+        println(x)
+            "[Total lines: ${totalLines.pad(5)}] " +
+    @Override
+    }
+    }
+import java.util.*
+
+                            case '+':
+    private long creationTime;
+    }
+    /**
+class HeartRate(internal val rawResponse: HttpResponse<JsonNode>) {
+  }
+//        for (int i = 0; i < SIZE/2 - 1; i++) {
+    }
+  public static final String APPLICATION_ID = "illuminar.estrellas.wuu.gniu";
+
+    /**
+    override val index = 7
+    private FileWriter file;
+    internal lateinit var engine: Box2DProcessing
+import processing.core.PApplet
+    }
+        }
+        super(initialCapacity);
+  val crc32Hasher: CRC32 get() = CRC32()
+    public E removeRight() throws EmptyStructureException {
+            else vectorY -= SpeedControl.speed
+
+            // ignore flag and indicator
+        this.offsetList = offsetList;
+     */
+ * .Net related [CodeFile].
+    /**
+  /**
+     * @throws NoSuchElementException  if the list is empty
+    /**
+            this.tail = this.head;
+     */
+ */
+  fun dropChain() {
+
+ * Unit test for dictionary upon buckets.
+
+ */
+
+
+    val audio by lazy { Logger.getLogger("AudioAdapter") }
+    /**
+     * @param billboard  the list of celebrities to combine
+        ))
+    final override fun documentHasId(document : T) : Boolean = true
+
+ */
+public class SortedListImpl<E extends Comparable<E>> implements SortedListIF<E> {
+  // walk through the files and generate tasks
+
+    internal lateinit var applet: PApplet
+ * @see MappedDocument
+        )
+
+    }
+    /**
+}
+     */
+        this.value = value;
+        0 -> it.key.call()
+
+        if (clazz.equals(Tzydoe.class)) {
+     * Initialise the arduino.
+
+    @Override
+ */
+    }
+        LinkedListNode<E> currentNode = this.head;
+        checkClass(clazz);
+     * The element is inserted after the last inserted element with the
+
+     */
+
+    }
+/**
+   * Codec for [BasePath].
+  /**
+
+ * Created by Nb on 17/11/2015.
+
+ * To change this template file, choose Tools | Templates
+ * Something.
+     */
+    }
+     * @return  an ordered array that contains all elements of @arr1 and @arr2
+
+
+     * @param power the position of the decimal power to return
+        assertTrue(WordTricks.<String>anagram(x, y))
+        // set up processing
+      println("Mutated: $thisReference")
+ * If B is empty then reallocate all contents of A into B.
+    /**
+
+    public HollywoodBlockBusterGenerator(int nbOfStars, String[] list) {
+package deprecated.introduction.exercise;
+            arr[i] = current;
+            this.ARDUINO.pinMode(pin, Arduino.OUTPUT);
+
+/**
+fun main(args: Array<String>) {
+            print("$elt ")
+     */
+    /**
+    }
+    }
+            LinkedListNode<E> newNode = new LinkedListNode<>(element, this.tail, null);
+@io.realm.annotations.RealmModule(allClasses = true)
+     * Add something into the linked list.
+            }
+        timer("SoniaPlayback", false, 0.toLong(), 100.toLong(), {
+    }
+
+
+    /**
+
+     * @return The inserted node.
+
+     */
+    final long ONE = (long) 1;
+    }
+        System.out.println("\n\n\nCASTING");
+
+
+
+                this.javaClass.enclosingClass.kotlin.companionObject?.java == this.javaClass)
+    /**
+package deprecated.exercise;
+//        Random rd = new Random();
+    val launcher by lazy { Logger.getLogger("Launcher") }
+    public JBSTNode(E data, JBSTNode<E> leftChild, JBSTNode<E> rightChild, JBSTNode<E> parentNode) {
+import processing.video.Capture
+        Random rd = new Random();
+    /**
+ */
+                } else {
+                // otherwise just keep playing the music
+        String s2 = "qwernytrewq";
+        final StringBuilder stringBuilder = new StringBuilder().append("Deque[");
+    override lateinit var identifier: String
+                append("]").toString();
+     */
+                        comparisons += 1;
+import gramophone.util.*
+    @Override
+            this.offset = offset % 26;
+    val width: Float
+     * Play a song.
+import gramophone.Config
+        if (this.head != null) this.head.setPrevious(null);
+//        int middle = -1;
+     * Inserts a new element on the left of the deque.
+    fun sort() {
+        if (clazz.equals(Tzydoe.class)) {
+                    mD5 = document.getString("MD5"),
+//        DoubleLinkedListIF<Integer> myList = new DoubleLinkedListImpl();
+        return this.tail.getData().getValue();
+  }
+        ))
+    fun add(something: E) {
+    }
+
+ * Sensor adapters.
+    public E pop() throws EmptyStructureException {
+    // step 2
+    main(String[] args)
+        return !this.queue.isEmpty()
+        return previous;
+        return stringBuilder.delete(stringBuilder.length() - 2, stringBuilder.length()).
+     * procedure.
+    public String getTableName(Class<? extends RealmObject> clazz) {
+     */
+            return clazz.cast(TzydoeRealmProxy.copyOrUpdate(realm, (Tzydoe) obj, update, cache));
+    Log.camera.info("Preparing camera for ${instance.javaClass.canonicalName}...")
+            file.lastModified(), file.length(), fileMD5.objectId,
+    BigInteger bigInteger =
+}
+    val path: String,
+    
+  }
+                    }
+   */
+    /**
+ * Automatically generated file. DO NOT MODIFY
+    operator fun get(applet: PApplet): Arduino {
+
+}
+     * Removes every element of a list from another list.
+        int size = this.size();
+    private val songs = hashSetOf<Song>()
+ */
+
+/**
+    /**
+     * Peeks at the element on the left of the deque, but does not remove it.
+   */
+        return this.size >= this.capacity;
+        val bodyDef = BodyDef()
+      return null
+    public E delete(E e);
+    }
+
+
+        PhysEngine.addWallSensor(WallSensor(
+    public val rawHeartRate: Int
+        return result;
+  /**
+    /**
+
+    /**
+
+     * procedure.
+        while (true) {
+
+ * @author ogm2
+import gramophone.util.Log
+
+public class HollywoodCelebrity implements Comparable{
+    public void insert(E element, int prio) throws FullStructureException;
+        E result = this.head.getData().getValue();
+    @Override
+import visualisation.yun.HeartRateState
+            this.caesarCipherInstanceMap.put(offset, new CaesarCipher(offset));
+        ))
+     * Previous node.
+   * Decide whether the dictionary should be resized.
+ */
+        for (pair in bucket) {
+    public void display() {
+                        throws NoSuchElementException;
+        val basePathPath = readLine()!!
+        // add wall sensors, 1-8
+        System.out.println(integerLinkedList.length());
+    }
+     * @param <T>     Any type should do.
+            var currentNode: LLNode<E>? = this.head
+        return data;
+    override fun <TDocument> toBsonDocument(
+         */
+import kotlin.collections.mapOf
+        while (!arr1.isEmpty() && !arr2.isEmpty()) {
+class HomeUI : AnkoComponent<Home>, AnkoLogger {
+     * Log something.
+    /**
+import processing.core.PApplet
+    public MyStackArrayImpl(E[] array) {
+     */
+ */
+
+ */
+    }
+    }
+        }
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
+        if (this.head != null) this.head.setPrevious(null);
+        this.size++;
+    /**
+        return this.size >= this.capacity;
+
+
+ */
+     */
+ */
+
+/**
+        }
+        for (int i = 0; i < base; i++) {
+        this.data = data;
+  }
+        }
+      // create related md5 entry
+
+import org.junit.*
+    /**
+        y = ["Y", "X", "X"]
+     * @return Whether it is a palindrome or not.
+
+
+        bodyDef.type = BodyType.STATIC
+    }
+
+        return value.toString();
+    /**
+    }
+
+/*
+    }
+    = object : ImmediateTask<Int>() {
+        if (this.stack.isFull()) throw new FullStructureException();
+    System.setErr(orgStdErr)
+    /**
+    save()
+      return default
+    abstract val objectId : ObjectId
+}
+
+    @Override
+ */
+            for (Integer item : this) {
+     * Close the camera.
+        }
+//        myList.insertLast(middle);
+
+        Log.launcher.info("Cleaning up environment...")
+    public MyQueueImpl(E[] array) {
+     * @param initialCapacity initial capacity of the array
+    }
+        motorIsOn = value
+    public LinkedListNode<T> getNext() {
+        text("CONNECTED", 5.percentWidth, 10.5.percentHeight)
+}
+        int[] arr = new int[30];
+
+
+                int n = rd.nextInt(101);
+    /**
+        def y = ["Y", "Y", "X"]
+
+    @Override
+import java.util.ArrayList;
+     * @param objectId Object ID.
+            file.lastModified(), file.length(), fileMD5.objectId,
+ * To change this license header, choose License Headers in Project Properties.
+    public void insertLeft(E element) throws FullStructureException {
+  val crc32Hasher: CRC32 get() = CRC32()
+ * To change this template file, choose Tools | Templates
+ */
+        return true
+    }
+     */
+    abstract val identifier : String
+     */
+import java.util.ArrayList;
+    public MatrixSizeMismatch(String message) {
+import task.TaskPool
+            return currentNode
+const val FFMPEG_EXEC = "C:/Program Files/FFMpeg/bin/ffmpeg.exe"
+        "-i", file.absolutePath // input file
+
+
+     */
+ * Created by Kevin on 14/9/2015.
+            ex.printStackTrace();
+    }
+        return lastName;
+        ArrayList<Integer> steps = new ArrayList<>();
+        h2Font = createFont(Config.regularFont, Config.h2FontSize.f, true)
+    public boolean isEmpty() {
+
+            solve(disks - 1, spare, to, from);
+    }
+     */
+        int maxPower = this.determineMaxPower(Collections.max(this));
+        head = null;
+            }
+     */
+    }
+     *
+    }
+
+  }
+    public BinaryRadixSortArray(int initialCapacity) {
+
+   * Internal it.
+    }
+ * To change this template file, choose Tools | Templates
+            return clazz.cast(TzydoeRealmProxy.createOrUpdateUsingJsonObject(realm, json, update));
+ * Camera controller.
+        this.yearOfBirth = yearOfBirth;
+     * Checks whether the queue is currently full.
+            if (vectorX > Config.windowWidth || vectorX < -Config.windowWidth)
+      }
+        }
+    orgStdErr = System.err
+    final override fun encode(writer : BsonWriter?, value : T, context : EncoderContext?)
+ */
+ * Created by Nb on 4/11/2015.
+     */
+        super();
+    /**
+                        }
+
+     */
+    }
+    }
+        this.value = value;
+     * Removes the element at the front of the queue.
+internal val Arduino.recordId: Int
+
+    @Override
+            // if opening delimiter is too much
+
+            by lazy { properties["motorPin"].toString().toInt() }
+        lll.testSortedList();
+        System.out.println("A TO THE POWER B");
+    public void pushIn(E element) throws FullStructureException;
+        return stringBuilder.delete(stringBuilder.length() - 2, stringBuilder.length()).append("]").toString();
+        System.setProperty("java.util.logging.SimpleFormatter.format", "%1${'$'}tY-%1${'$'}tm-%1${'$'}td %1${'$'}tH:%1${'$'}tM:%1${'$'}tS %4$-6s |> %5${'$'}s%6${'$'}s%n")
+        }.start()
+  /**
+    internal lateinit var root: BSTNode<E>
+import gramophone.util.f
+
+            LinkedListNode<E> newNode = new LinkedListNode<>(element, this.tail, null);
+  Hashers.crc32Hasher.reset()
+            targetDirectory.walk()
+    @Override
+    }
+    /**
+    }
+//                println("[${group.identifier.padStart(10, ' ')}] " +
+    private fun validateJSON(): Pair<Boolean, String> {
+import android.view.View
+
+
+
