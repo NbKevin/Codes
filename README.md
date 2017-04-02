@@ -10,6 +10,9 @@ Codes is made with p5.js and nothing else. An optional Python Flask application 
 #### Voice Synthesis
 Codes makes use of the experimental `WebSpeech` API. It is non a standard feature yet and has different implementation across browsers and platforms. Most mainstream desktop operating system provides at least one TTS engine. Chrome offers its own TTS web service and it recommended for experiencing this project.
 
+#### Additional Documentation
+As a project for IMA courses, there is additional documentation on the initiatives and technologies used in this projects, available at [IMA Documentation Site](http://ima.nyu.sh/documentation/2016/12/17/the-final-project-one-two-three-four-kevin-ni-nb/).
+
 #### Licence
 Codes is licensed under *Don't Be A Dick Public License*. See more information at `LICENSE.md` or at [Don't Be A Dick](http://www.dbad-license.org).
 
