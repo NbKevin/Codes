@@ -2,6 +2,8 @@
 
 Codes is a final project for the course *Generating and Expressing Data* at NYU Shanghai, IMA, taught by Professor Feng Xiaoyang. This project collects and presents the code I have written since college and their stories in a *geek* fashion.
 
+![A demo snapshot.](https://raw.githubusercontent.com/NbKevin/Codes/master/static/resources/sample.png)
+
 #### Run
 Codes is made with p5.js and nothing else. An optional Python Flask application is involved as a default web server provider. However, one should be able to render `index.html` with no problem as from a local source.
 

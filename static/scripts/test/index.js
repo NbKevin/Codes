@@ -168,7 +168,7 @@ function preload() {
     // setup font
     Res.log('Loading fonts...');
     Res.MonoSpaceFont = loadFont(Res.joinPath(Res.ResourcePath, 'Menlo-Regular.ttf'));
-    Res.SerifFont = loadFont(Res.joinPath(Res.ResourcePath, 'GB2312.ttf'));
+    Res.SerifFont = loadFont(Res.joinPath(Res.ResourcePath, 'Menlo-Regular.ttf'));
     textFont(Res.MonoSpaceFont);
     Res.log('Fonts properly loaded');
 
