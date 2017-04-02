@@ -1,6 +1,6 @@
 ## Codes
 
-Codes is a final project for the course *Generating and Expressing Data* at NYU Shanghai, IMA, taught by Professor Feng Xiaoyang. This project collects and presents the code I have written since college and their stories in a *geek* fashion.
+Codes is a final project for the course *Generating and Expressing Data* at NYU Shanghai, IMA, taught by Professor Feng Xiaoyang. This project collects and presents the code I have written since college and their stories in a *geek* fashion and read them out.
 
 ![A demo snapshot.](https://github.com/NbKevin/Codes/blob/master/static/resources/sample.png)
 
